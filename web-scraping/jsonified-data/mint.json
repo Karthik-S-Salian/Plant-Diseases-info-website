@@ -1,0 +1,186 @@
+{
+    "Mint rust": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-mint/mint-rusttest.png",
+                "alt": "Mint rust"
+            },
+            "content": [
+                "Pale and distorted shoots in spring",
+                "Dusty orange pustules on the stems and leaves.",
+                "Pustule may change to dusty yellow or black in colour in later stage",
+                "Large areas of leaf tissue die and plants may lose leaves"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "When the orange spore pustules mature and break open in June or July, the spores are spread to other plants by the wind.",
+                "The fungus enters the plant through the leaves lNewly infected plants seldom show symptoms until the following spring."
+            ]
+        },
+        "Favorable conditions:": {
+            "content": [
+                "Dry weather with high relative humidity",
+                "Pathogens overwinter on mint stubble & on wild mint.",
+                "It spreads through propagation material and air"
+            ]
+        }
+    },
+    "Verticillium wilt": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-mint/verticillium-wilttest.png",
+                "alt": "Verticillium wilt"
+            },
+            "content": [
+                "Symptoms first appear in the foliage at the top of the plant.",
+                "Symptomatic upper leaves are sickle-shaped and initially chlorotic or red, soon becoming necrotic.",
+                "Premature defoliation and death of the plant can result.",
+                "Vascular discoloration in stems and roots may be observed and diseased plants are often stunted."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The transport of infected planting materials can transmit the pathogen to long distances.",
+                "Spread of the pathogen occurs primarily by soil and movement of soil and water."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Verticillium wilt is favored by moist soils and a temperature range of 21-27\u00b0 C.",
+                "Micro-sclerotia are stimulated to germinate by root exudates of host plants"
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-mint/anthracnosetest.png",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "Mint anthracnose, also known as \"leopard spot\".",
+                "The fungus causes small, sunken brown spots to appear on the lower leaves and stems. These spots enlarge to form oval lesions with light gray centers and reddish-brown borders, and may unite.",
+                "Mint anthracnose may cause defoliation and cankers, which may lead to splitting of the stem.",
+                "Heavily-infected plants are weakened and oil yields are reduced.",
+                "Anthracnose may become severe during wet seasons when the mint foliage is wet for long periods."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Conidia are rain-splashed from overwintering infected plant in the spring and throughout the summer to new growth."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Infection requires three to twelve hours of wetness."
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-mint/powdery-mildewtest.png",
+                "alt": "Powdery mildew"
+            },
+            "content": [
+                "Powdery white patches are developed on the upper and lower surfaces of the leaves and stems.",
+                "Under favourable conditions, the disease causes severe lossess. It also reduces the oil"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Resting spores is responsible for primary spread and airborne spores for secondary spread."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Disease becomes severe when weather is dry and air circulation is poor (warm and humid weather)"
+            ]
+        }
+    },
+    "Black Stem Rot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-mint/black-stem-rottest.png",
+                "alt": "Black Stem Rot"
+            },
+            "content": [
+                "Black stem rot is considered a moderate to serious problem in mint production.",
+                "The fungus is most active during periods of cool and wet weather.",
+                "Symptoms of infection include dark brown or black cankers on stems.",
+                "Cankers may girdle the stem and cause plant parts above the infection to wilt and die."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Pathogen survive in soil and on plant tissue for many years by producing small (1 to 3- mm diameter), irregular-shaped, brown to black sclerotia."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Disease become more severe in soils that are moderately wet and a temperature range\u00a0 of 15-25\u00b0C"
+            ]
+        }
+    },
+    "Stem and stolon canker": {
+        "Disease symptoms:": {
+            "content": [
+                "Roots and stolon have brown or black progressively rotting areas. Plant stand may be greatly reduced."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Pathogen survive on crop debris and in soil as black to brownish resting structures (sclerotia) or as resting fungal mycelium."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Warm soil with high humidity is favorable for disease development.",
+                "Temperatures between 26-32\u00b0C, soil moisture between 30-60% and soil pH above 6.6 are conducive for disease development."
+            ]
+        }
+    },
+    "Septoria leaf spot": {
+        "Disease symptom:": {
+            "content": [
+                "Septoria leaf spots are dark brown/black, up to 3mm (\u215bin) diameter and angular in shape (being constricted between leaf veins).",
+                "Spores are sometimes visible within leaf spots on the underside of the leaf."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungus survive in plant debris and on weeds ."
+            ]
+        },
+        "Favourable conditions:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-mint/disease-cycles-mint-rusttest.png",
+                "alt": "Disease cycles Mint rust"
+            },
+            "content": [
+                "Moist (more than 70% relative humidity) coupled with warm weather and intermittent rains favours disease development."
+            ]
+        }
+    },
+    "Disease cycles:": {
+        "Mint rust": {
+            "content": []
+        },
+        "Verticillium wilt": {
+            "content": []
+        },
+        "Anthracnose": {
+            "content": []
+        },
+        "Stem and stolon canker": {
+            "content": []
+        },
+        "Powdery Mildew": {
+            "content": []
+        },
+        "Black Stem Rot": {
+            "content": []
+        }
+    }
+}

@@ -1,0 +1,320 @@
+{
+    "Damping off": {
+        "Disease symptoms": {
+            "content": [
+                "Two types of symptoms are observed",
+                "Pre-emergence damping-off:  This results in seed and seedling rot before they emerge out of the soil.",
+                "Post-emergence damping-off:  The pathogen attacks the collar region of seedlings on the surface of soil. The collar portion rots and ultimately the seedlings collapse and die."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogen(s) survives on infected crop debris and soil which are source of primary inoculum."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease is more prevalent during Kharif season/rainy season and causes about 60-75% damage.",
+                "High soil moisture and moderate temperature along with high humidity leads to the development of the disease."
+            ]
+        }
+    },
+    "Purple blotch": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/Purpleblotchimg.jpg",
+                "alt": "Purple blotch"
+            },
+            "content": [
+                "The symptoms occur on leaves and flower stalks as small, sunken, whitish flecks with purple coloured centres.",
+                "The lesions may girdle leaves/stalk and cause their drooping. The infected plants fail to develop bulbs"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is soil borne and fungus survives in soil, infected bulbs and may persist in plant debris or on roots of weeds."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Hot and humid climate with temperature ranging from 21-30\u00b0C and high relative humidity (80-90%) favour the development of the disease."
+            ]
+        }
+    },
+    "Stemphylium leaf blight": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/leafblightimg.jpg",
+                "alt": "Stemphylium leaf blight"
+            },
+            "content": [
+                "Infection occurs on radial leaves of transplanted seedlings at 3- 4 leaf stage during late March and early April.",
+                "The symptoms appear as small yellowish to orange flecks or streaks in the middle of the leaves, which soon develop into elongated spindle shaped spots surrounded by pinkish margin.",
+                "The disease on the inflorescence stalk causes severe damage to the seed crop."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in plant debris or soil."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Warm (18-25\u00b0C) humid conditions and long periods of leaf wetness (16 hours or more) favour disease development."
+            ]
+        }
+    },
+    "Colletotrichum blight/anthracnose/twister disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/twisterdiseaseimg.jpg",
+                "alt": "Colletotrichum blight/anthracnose/twister disease"
+            },
+            "content": [
+                "The symptoms appear initially on the leaves as water soaked pale yellow spots, which spread lengthwise covering entire leaf blade.",
+                "The affected leaves shrivel and droop down."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus can survive for many years as sclerotia in the soil or for shorter periods in infected plant debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Disease is most severe in warm [25-30\u00b0C], moist soils that are high in organic matter.",
+                "Fungal growth rapidly decreases below 15\u00b0C, resulting in little disease development."
+            ]
+        }
+    },
+    "Fusarium basal rot/basal rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/basalrotimg.jpg",
+                "alt": "Fusarium basal rot/basal rot"
+            },
+            "content": [
+                "Initially yellowing of leaves and stunted growth of plant is observed, which later on dry from tip to downwards.",
+                "In early stage of infection, the roots of the plants become pink in colour and rotting take place later. In advanced stage, the bulb starts decaying from lower ends and ultimately whole plant dies."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogen survives in soil and onion bulb as a primary source of inoculum in the form of Chlamydospore, resting spore) for many years."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Moist soil and 27\u00b0C temperature favours the development of disease."
+            ]
+        }
+    },
+    "White rot (Sclerotial rot)": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/Sclerotialrotimg.jpg",
+                "alt": "White rot (Sclerotial rot)"
+            },
+            "content": [
+                "The initial symptoms are yellowing and dieback of leaf tips. Later, scales stem plate and roots get destroyed.",
+                "The bulbs become soft and water soaked.",
+                "Later, white fluffy or cottony growth of mycelium with abundant black sclerotia resembling mustard grain develops on the infected bulbs."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus survives in soil as sclerotia for many years and it can over-winter in infected onion debris and in diseased onion sets."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "This disease is most severe in cool and dry soils."
+            ]
+        }
+    },
+    "Pink root rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/Pinkrootimg.jpg",
+                "alt": "Pink root rot"
+            },
+            "content": [
+                "Reduced bulb size.",
+                "Roots turn pink or maroon when infected.",
+                "In severe cases the roots may die and the plants become weakened or stunted, especially in drier areas of the field.",
+                "Crop suffering from heat or drought stress due to poor soil is more prone to yield losses."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Fungus can survive in the soil, in diseased roots and the debris of susceptible crops for several years.",
+                "The fungus can be spread through soil movement and in irrigation water."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "This disease can develop at all soil moisture levels that allow onion growth. Optimum temperatures for growth of the pathogen and disease development are 24-28\u00b0C."
+            ]
+        }
+    },
+    "Black mould": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/Blackmouldimg.jpg",
+                "alt": "Black mould"
+            },
+            "content": [
+                "Infection usually is through neck tissues as foliage dies down at maturity.",
+                "Infected bulbs are discolored black around the neck, and affected scales shrivel.",
+                "Masses of powdery black spores develop as streaks along veins on and between outer dry scales.",
+                "Infection may advance from the neck into the central fleshy scales."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus survives in air, soil and infected plant debris.",
+                "Spores of this fungus are very common in the air and soil which are the source of infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Black mold is most common when temperatures are higher than 30\u00b0C (86\u00b0f ) in the field or 24\u00b0C in storage.",
+                "Free moisture for six hours or longer on the onion surface is necessary for infection to occur."
+            ]
+        }
+    },
+    "Bacterial soft rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/softrotimg.jpg",
+                "alt": "Bacterial soft rot"
+            },
+            "content": [
+                "Bacterial soft rot is mainly a problem on mature bulbs. Affected scales first appear water-soaked and pale yellow to light brown.",
+                "As the soft rot progresses, invaded fleshy scales become soft and sticky with the interior of the bulb breaking-down.",
+                "A watery, foul-smelling thick liquid can be squeezed from the neck of diseased bulbs."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen is soil borne and after heavy rains and when leaves are drying the main sources of inoculum are contaminated soil and crop residues.",
+                "The bacterium is also spread by splashing rain, irrigation water and insects."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "This disease is favored by warm, humid conditions with an optimum temperature range of 20-30\u00b0C.",
+                "However, during storage or transit soft rot can develop when temperatures are above 3\u00b0C."
+            ]
+        }
+    },
+    "Iris yellow spot disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/spotdiseaseimg.jpg",
+                "alt": "Iris yellow spot disease"
+            },
+            "content": [
+                "Symptoms of iris yellow spot virus are often seen as a cream, elliptical spots on the leaves. The spots also appear on onion scapes or flower stalks of onions.",
+                "As both infected leaves and scapes age, they can collapse at the site of the spots. The spots may be clear or less obvious. Although the spots may at first be insignificant, the disease has the potential of devastating the whole crop."
+            ]
+        },
+        "Transmission and favourable conditions:": {
+            "content": [
+                "Onion thrips (Thrips tabaci) transmit IYSV in a persistent manner. Disease severity is positively correlated with thrips populations in the field.",
+                "This virus is not seed transmitted. over-wintering onions, volunteers from prior productions, infected transplants and alternate hosts can all serve as sources of both vector and virus."
+            ]
+        }
+    },
+    "Onion yellow dwarf disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/dwarfdiseaseimg.jpg",
+                "alt": "Onion yellow dwarf disease"
+            },
+            "content": [
+                "The first symptoms of onion yellow dwarf in young onions are yellow streaks at the bases of the first true leaves.",
+                "All leaves developing after these initial symptoms show symptoms ranging from yellow streaks to complete yellowing of leaves.",
+                "Leaves are sometimes crinkled and flattened and tend to fall over. Bulbs are undersized."
+            ]
+        },
+        "Transmission and favourable conditions": {
+            "content": [
+                "The virus is carried by infected seed bulbs, onion sets and volunteer onions. Many aphid species can transmit this virus from infected to healthy plants."
+            ]
+        }
+    },
+    "Downy mildew": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/Downymildewimg.jpg",
+                "alt": "Downy mildew"
+            },
+            "content": [
+                "Leaves turn to pale green.",
+                "On leaves, cottony white mycelial growth develops and appears white. Gradually the leaves turn pale yellow to dark brown and dries up."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus survive in soil and infected plant debris."
+            ]
+        },
+        "Favourable condition:": {
+            "content": [
+                "Warm and humid climate favours the development of disease."
+            ]
+        }
+    },
+    "Green mould": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/Greenmouldimg.jpg",
+                "alt": "Green mould"
+            },
+            "content": [
+                "Infection usually is through neck tissues as foliage dies down at maturity.",
+                "Infected bulbs are discolored green around the neck, and affected scales shrivel.",
+                "Masses of powdery green spores generally are arranged as streaks along veins on and between outer dry scales.",
+                "Infection may advance from the neck into the central fleshy scales."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Spores of this fungus are very common in the air and soil which act as the source of infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Black mold is most common when temperatures are higher than 30\u00b0C in the field or 24\u00b0C in storage.",
+                "Free moisture for six hours or longer on the onion surface is conducive for infection to occur."
+            ]
+        }
+    },
+    "Bacterial brown rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion/brownrotimg.jpg",
+                "alt": "Bacterial brown rot"
+            },
+            "content": [
+                "Field symptoms often appear as one or two wilted leaves in the center of the leaf cluster. These leaves eventually turn pale yellow and dieback from the tip while older and younger leaves maintain a healthy green appearance.",
+                "During the early stages of this disease, the bulbs may appear healthy except for a softening of the neck tissue. In a longitudinal section, one or more inner scales become watery or cooked.",
+                "The disease progresses from the top of the infected scale to the base",
+                "Eventually, all the internal tissue will rot. Finally, the internal scales dry and the bulb shrivel.",
+                "Squeezing the base of infected plants causes the rotted inner portion of the bulbs to slide out through the neck, hence the name slippery skin."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "This bacterium is soil-borne and can be readily water-splashed to the foliage and necks where it can enter through wounds."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "This bacterium requires moisture for infection and grows in the temperature range of 5-41\u00b0C.",
+                "Heavy irrigation and persistent dews are also conducive to this disease."
+            ]
+        }
+    }
+}

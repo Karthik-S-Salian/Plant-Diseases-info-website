@@ -1,0 +1,163 @@
+{
+    "Fusarium Wilt": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Fusarium%2520Wilt%2520Disease%2520symptom.jpg",
+                "alt": "Fusarium Wilt"
+            },
+            "content": [
+                "Symptoms can occur at both the seedling and plant developmental stages and appear as patches in the field The root system appears healthy, but with a reduced proliferation and nodulation rate.",
+                "In most cases, there is no discolouration of the vascular system. Other symptoms at the seedling stage include seed rot.",
+                "It usually occurs near or at the reproductive stages (flowering to pod-filling) of crop growth. Symptoms include the drooping and wilting of the uppermost leaflets . Plants become completely yellow and die. Plants are affected during the mid- to late-pod filling stages, seeds are often shrivelled"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Chlamydospores of the pathogen can survive in the soil for many years in the absence of a host plant. The pathogen can also survive within infected plant material in the field. This indicates that the pathogen is well adapted to survive adverse conditions"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Moist soil, warm and humid conditions favour the development of wilt."
+            ]
+        }
+    },
+    "Lentil rust": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Lentil%2520rus%2520Disease%2520symptom.jpg",
+                "alt": "Lentil rust"
+            },
+            "content": [
+                "First sign of infection is small white pustules on theleaves.",
+                "Minute yellowish slightly raised pustules, that as they enlarge change to orange-brown in colour, often surrounded by a light coloured halo."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Rust spores are small, light and may survive for several days. They can be spread to large distances by wind."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Rusts can build up rapidly and are mostly seen as the weather warms above 20\u00baC. Leaves, stems and pods can be infected."
+            ]
+        }
+    },
+    "Ascochyta blight": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Ascochyta%2520blight%2520Disease%2520symptom.jpg",
+                "alt": "Ascochyta blight"
+            },
+            "content": [
+                "Grey to tan spots or lesions on leaflets, stems, flowers and pods, with dark margins and often with tiny black fruiting bodies (pycnidia) in the centers",
+                "Lesions first appear on lower leaflets close to soil surface and spread up the plant canopy. Lesions on stems can girdle the plant resulting in wilting. Leaves may turn brown and die off."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "It can be spread to large distances by wind and infected plant debris."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Ascochyta blight is present at commencement of flowering in susceptible varieties.",
+                "Cloudy and humid weather for a week period favours the disease development and its spread."
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptom: ": {
+            "content": [
+                "Tan lesions with darker borders on leaves which often appear prior to flowering or shortly after bloom.",
+                "Diseased leaves may drop from the plant prematurely.",
+                "Tan to light brown lesions appear on lower stems and begin to spread upwards, appearing higher on the plant; lesions may contain numerous black dots; as plant matures, the lesions expand and may cover large areas of the stem",
+                "Lesions may also be present on pods and are light to tan brown with a dark margin; diseased pods often produced discolored seeds; disease can cause severe losses in yield."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The pathogens survive on seed and plant debris",
+                "Disease spreads in the field through air-borne conidia"
+            ]
+        },
+        "Favourable condition: ": {
+            "content": []
+        }
+    },
+    "Root rot and seedling diseases": {
+        "Disease symptoms: ": {
+            "content": [
+                "Failure of seedling to emerge.",
+                "Light brown, seedlings with light brown to red, .water-soaked roots and stems.",
+                "Infected plants dry up and die.",
+                "Stunted plant growth, rotting taproot with few lateral roots"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Pathogens survive in soil as well as seed as resting mycelia or sclerotia for longperiod.",
+                "These organisms often survive as saprophytes, living on dead plant material, or as dormant mycelia or spores.",
+                "Root exudates from germinating seedlings or growing roots stimulate the dormant fungi to become active."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": []
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptom: ": {
+            "content": [
+                "Powdery mildew appears as gray-white areas which coalesce to cover entire plant",
+                "If plant is heavily infected it may die."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The pathogen has a wide host range and survives in conidial form on various hosts in off-season.",
+                "Secondary spread is through air-borne conidia produced in the season."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": []
+        }
+    },
+    "Sclerotinia rot/collar rot": {
+        "Disease symptom: ": {
+            "content": [
+                "Lesions girdle stem causing upper plant parts to become chlorotic and wilted.",
+                "Plants become necrotic after they die; disease often causes a patchwork of symptomatic plants throughout a field with plants initially becoming chlorotic and finally dying.",
+                "Fungus causes characteristic white lesions on stems which may be covered in a fluffy white growth during periods of wet weather."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": []
+        },
+        "Favourable conditions: ": {
+            "content": []
+        }
+    },
+    "Pea mosaic virus": {
+        "Disease symptoms: ": {
+            "content": [
+                "Infected plants develop mosaic and chlorotic vein flecking and veinal enations (blister like outgrowths), which are very characteristic for PEMV.",
+                "Plants are stunted, and proliferation of basal branches is common. Pods are distorted, split open, and may show prominent enations.",
+                "Distinct mottling of the foliage is the most conspicuous symptom.",
+                "The tissue yellows between the veins, leaving patches normal green tissues scattered irregularly over the surfaces of both leaves and stipules."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Mainly it is spread through aphids as well as seeds.",
+                "Occupying of perennial legumes bordering the planting area also increase the primary virus reservoir."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Normal temperature and moisture are satisfactory for disease development. Warm, dry, weather which encourages aphid population build-up, may aid virus spread in the field.",
+                "Seed transmission may be suppressed by high temperatures"
+            ]
+        }
+    }
+}

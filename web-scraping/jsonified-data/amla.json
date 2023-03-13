@@ -1,0 +1,18 @@
+{
+    "Diseases": {},
+    "Nutritional Deficiency/ Disorder": {
+        "Disorder symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/01.png/@@images/adfd5237-61f9-48c6-89bd-95642f657f2d.png",
+                "alt": "01.png"
+            },
+            "content": [
+                "Internal necrosis in amla fruits is caused by Boron deficiency.",
+                "The symptoms start with the browning of the innermost part of mesocarpic tissue at the time of endocarp hardening in the 2nd or 3rd week of September which later extends towards the epicarp resulting into brownish black appearance of the flesh."
+            ]
+        },
+        "Control measures": {
+            "content": []
+        }
+    }
+}

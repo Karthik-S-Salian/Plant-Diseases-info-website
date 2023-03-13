@@ -1,0 +1,138 @@
+{
+    "Foot rot of papaya": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-papaya/Footrot.jpg",
+                "alt": "Foot rot of papaya"
+            },
+            "content": [
+                "It is characterized by the appearance of water-soaked patches on the stem near the ground level.",
+                "These patches enlarge rapidly and girdle the stem, causing rotting of the tissues, which then turn dark brown or black. Such affected plants withstand strong wind and topple over and die.",
+                "If the disease attack is mild, only one side of the stem rots and the plants remain stunted.",
+                "Fruit if formed are shriveled and malformed. Gradually the plant dies."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Resting spore, Oospore, germinates and release zoospores which along with irrigation water spread throughout the field."
+            ]
+        },
+        "Favourable condition": {
+            "content": [
+                "High relative humidity and rainy condition favors the severe disease development in sick soil."
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-papaya/Anthracnose.jpg",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "Disease occurs both in field and in storage conditions.",
+                "The spots on fruits first appear as brown superficial discolouration of the skin which develops into circular, slightly sunken areas and 1 to 3 cm in dia.",
+                "Gradually the lesions coalesce and sparse mycelia growth appears on the margins of the spots.",
+                "Under humid conditions, an encrustation of salmon pink spores is released.",
+                "Infection at early stages of fruit results in mummification and deformation."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is spread through wind-borne conidia.",
+                "Conidia are also spread by rain splashes.",
+                "Severity of the disease on foliage is increased under conditions of excessive moisture. Lesions develop more slowly on the immature fruits than on the mature fruits."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High relative humidity coupled with higher temperatures favour disease development. Maximum disease development takes place at about 26\u00b0C under wet weather condition."
+            ]
+        }
+    },
+    "Powdery mildews": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-papaya/Powderymildews.jpg",
+                "alt": "Powdery mildews"
+            },
+            "content": [
+                "On the undersurface of disease leaves are found patches of whitish powder growth.",
+                "On upper surfaces, leaves at the infection site show blotches of yellow or pale green usually near vein, surrounded by normally colored tissue.",
+                "Occasionally, fungus may attack the stem of young seedling when grown under reduced light condition. The spots enlarge and cover the entire leaf area. Severely infected leaves may become chlorotic and distorted before falling. Affected fruits are small in size and malformed.",
+                "Fungus grow superficially on the undersurface of the leaves with drawing nutrients from the cell of leaf surface by specialized absorbing structure known as haustoria."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The powdery mildew fungus overwinters in dormant buds. When conditions are favorable for growth of the fungus in spring, spores are produced, released, and cause new infections. Secondary spread of the disease can occur if spores are produced in these new infections"
+            ]
+        },
+        "Favourable condition": {
+            "content": [
+                "The development of powdery mildew in papaya is favour by relative humidity around 80-85% and temperature range of 24-26\u00b0C."
+            ]
+        }
+    },
+    "Papaya ring spot disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-papaya/ringspot.jpg",
+                "alt": "Papaya ring spot disease"
+            },
+            "content": [
+                "Infected plant initially shows cholorsis on youngest leaves followed by vein clearing, rugosity and prominent mottling of laminae.",
+                "Malformation and reduction of the lamina which may become extremely filliform.",
+                "Characteristically elongated dark green streak develop on petiole and upper half of the stems, infected fruits show circular concentric rings causes upto 56-60 % yield loss.",
+                "Pathogen belongs to Potyvirus group of Potyviridae family."
+            ]
+        },
+        "Transmission and favourable conditions": {
+            "content": [
+                "Disease is aphid transmitted and aphids are more active during warmer conditions.",
+                "PRSV is also easily transmitted via mechanical inoculation but there are no confirmed reports of PRSV transmission through seeds."
+            ]
+        }
+    },
+    "Papaya mosaic disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-papaya/mosaicdisease.jpg",
+                "alt": "Papaya mosaic disease"
+            },
+            "content": [
+                "Causes leaf mosaic and stunting in papaya.",
+                "Young seedlings in the greenhouse show vein-clearing and downward cupping of the leaves about 5 days after inoculation.",
+                "A mottle or mosaic develops after 15-20 days.",
+                "Symptoms appear on the young leaves of the plants.",
+                "The leaves are reduced in size and show blister like patches of dark-green tissue, alternating with yellowish-green lamina.",
+                "The leaf petiole is reduced in length and the top leaves assume an upright position."
+            ]
+        },
+        "Transmission and favourable conditions": {
+            "content": [
+                "Papaya mosaic diseases is mechanically transmissible viruses associated with other viral disease, from papaya mosaic virus in being aphid-borne and restricted in host range to papaya and cucurbits."
+            ]
+        }
+    },
+    "Papaya leaf curl disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-papaya/mosaicdisease.jpg",
+                "alt": "leaf curl"
+            },
+            "content": [
+                "Curling, crinkling and distortion of leaves, reduction of leaf lamina, rolling of leaf margins inward and downward, thickening of veins.",
+                "Leaves become leathery, brittle and distorted. Plants stunted.Affected plants does not produce flowers and fruits.",
+                "Spread by whitefly Bemisia tabaci.",
+                "Sometimes all the leaves at the top of the plant are affected by these symptoms. In advanced stages of the disease, defoliation takes place and the growth of the plant is arrested.",
+                "PLCV is in the family Geminiviridae. It is not transmitted mechanically. The virus vector is the silverleaf whitefly, Bemisia tabaci."
+            ]
+        },
+        "Transmission and favourable conditions": {
+            "content": [
+                "The virus cannot be transferred mechanical means as in the case of mosaic disease. The virus readily transmitted through grafting and white fly (Bemisia tabaci)."
+            ]
+        }
+    }
+}

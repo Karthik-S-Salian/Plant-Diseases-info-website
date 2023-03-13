@@ -1,0 +1,251 @@
+{
+    "Damping off": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/Damingoff.jpg",
+                "alt": "Damping off"
+            },
+            "content": [
+                "Damping off of tobacco occurs in two stages, i.e. the pre-emergence and the post-emergence phase.",
+                "In the pre-emergence the phase the seedlings are killed just before they reach the soil surface.",
+                "The young radical and the plumule are killed and there is complete rotting of the seedlings.",
+                "The post-emergence phase is characterized by the infection of the young, juvenile tissues of the collar at the ground level.",
+                "The infected tissues become soft and water soaked. The seedlings topple over or collapse."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in soil. Primary infection occurs by soil and secondary by conidia through rain or wind."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity, high soil moisture, cloudiness and low temperatures below 24\u00b0C for few days are ideal for infection and development of disease.",
+                "Crowded seedlings, dampness due to high rainfall, poor drainage and excess of soil solutes hamper plant growth and increase the pathogenic damping-off."
+            ]
+        }
+    },
+    "Frog eye leaf spot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/Frogeyeleafspot.jpg",
+                "alt": "Frog eye leaf spot"
+            },
+            "content": [
+                "Disease appears both in nursery and field.",
+                "Several small, round brown lesions with 2-10 mm diameter on lower and mature leaves occur.",
+                "Typical lesion with white parchment centre surrounded by brown or tan colored margin resembling eye of frog.",
+                "Different spots coalesce causing drying of leaves which wither prematurely."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in soil debris which is cause of primary infection.",
+                "Secondary infection occurs by conidia through rain splash or wind."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity and warm weather conditions responsible for the disease."
+            ]
+        }
+    },
+    "Leaf blight / black shank": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/blackshank.jpg",
+                "alt": "Leaf blight / black shank"
+            },
+            "content": [
+                "The disease is characterized by scattered, rapidly enlarging, irregular, brown, water-soaked lesions with characteristic gray-green borders.",
+                "Symptom development occurs particularly during and immediately following periods of heavy rains and high relative humidity."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Primary infection occurs by inoculum present in plant debris in soil and secondary by means of sporangia through air and water."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High soil moisture and moist weather conditions with intermittent showers are responsible for the development of disease."
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/Anthracnose.jpg",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "Symptom appears as small water soaked spots with sunken center on leaves.",
+                "Spots become white with brown margin.",
+                "Lesions occur also on midribs, petioles and lateral veins causing distortion and ragged.",
+                "Lesions on stem weaken the stem."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The primary infection by sowing infected seeds and secondary by wind."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Rain and high humidity are favourable for the development of disease."
+            ]
+        }
+    },
+    "Sore shin": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/Soreshin.jpg",
+                "alt": "Sore shin"
+            },
+            "content": [
+                "Rhizoctonia solani causes two types of diseases on tobacco seedlings in greenhouses:",
+                "Target spot . Symptoms on leaves begin as small, round, water-soaked spots about 2-3 mm in diameter.",
+                "Under favorable conditions these lesions enlarge rapidly, becoming light green, almost transparent, with irregular margins and chlorotic halos.",
+                "In infested areas, lower leaves turn brown and stick to the surface of the tray and the presence of brown spider-like webs (mycelium) may be observed attached to leaves and stems.",
+                "Damping-off . This disease is usually observed at early stages of seedling growth.",
+                "The first symptom is a small water soaked lesion on the stem close to the soil line that rapidly becomes brown and sunken.",
+                "Under favourable conditions lesions become very constricted and the stems break-off. The lesions continue to grow throughout the stem and leaves causing them to turn brown and die."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The primary source of inoculum for Rhizoctonia diseases are infested trays. Resting structures (sclerotia) of R. solani are formed in trays where the disease developed the previous season."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity and high temperature favours the development of diseases."
+            ]
+        }
+    },
+    "Fusarium wilt": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/Fusariumwilt.jpg",
+                "alt": "Fusarium wilt"
+            },
+            "content": [
+                "The first symptom appears as chlorosis of the leaves.",
+                "Wilting of leaves from bottom to top occur.",
+                "Brown vascular discolouration inside infected stem or root leads to the death of plants."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is soil borne and primary infection occurs through inoculum present in the soil."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Relatively high soil moisture and soil temperature are favourable for the infection."
+            ]
+        }
+    },
+    "Brown spot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/Brownspot.jpg",
+                "alt": "Brown spot"
+            },
+            "content": [
+                "Initially it appears on lower and older leaves as small brown, concentric circular lesions, which spread, to upper leaves, petioles, stalks and capsules even.",
+                "In warm weather under high humidity, the leaf spots enlarge, 1-3 cm in diameter, centers are necroses and turn brown with characteristic marking giving target board appearance with a definite outline.",
+                "In severe infection spots enlarge, coalesce and damage large areas making leaf dark-brown, ragged and worthless"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives through spores (conidia) or mycelium in diseased plant debris or weed."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Warm weather with high humidity."
+            ]
+        }
+    },
+    "Tobacco mosaic disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/Tobaccomosaicdisease.jpg",
+                "alt": "Tobacco mosaic disease"
+            },
+            "content": [
+                "Affected plants show leaves with mottling or mosaic pattern of light green and dark-green areas.",
+                "Primary symptoms appear on newly formed young leaves as vein clearing, greenish yellow mottling.",
+                "Infection on young plants results in stunted growth, malformation, distortion and puckering of leaves. Darkgreen blisters and sometime enations (leafy growth) appear on the dorsal side of the leaf."
+            ]
+        },
+        "Transmission and favourable conditions": {
+            "content": [
+                "TMV is highly contagious and transmitted by sap. It is easily transmitted by mere contact of a diseased plant with a healthy one.",
+                "Air-dried tobacco is a common source of new infection. Workers who chew or smoke natural leaf tobacco during nursery operations may spread the virus into the seedlings.",
+                "Old stems and leaf trash of affected plants buried in the soil are the other sources of infection and spread.",
+                "In the nurseries, seedlings may get affected due to the presence of susceptible weed hosts."
+            ]
+        }
+    },
+    "Tobacco ring spot disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/Tobaccoring.jpg",
+                "alt": "Tobacco ring spot disease"
+            },
+            "content": [
+                "Infected leaves show mottling veins show shortened internodes with small, distorted leaves.",
+                "In later growth of plant stunted and limited to basal suckers, and the vine eventually dies.",
+                "Dead and dying vines are usually present in a roughly circular pattern in the vineyard. The viruses are introduced into vineyards with infected planting stock or by dispersal of seed from infected weeds. The virus is then spread by dagger nematodes feeding on roots of infected plants."
+            ]
+        },
+        "Transmission and favourable conditions": {
+            "content": [
+                "Mode of transmission and favourable conditions are not well studied in this plant. The nematodes can retain the virus for long periods. The virus is transmitted on the other host through nematode Xiphinema americanum, another vector Thrips tabaci help in the transmission of disease."
+            ]
+        }
+    },
+    "Cucumber mosaic disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/Cucumbermosaic.jpg",
+                "alt": "Cucumber mosaic disease"
+            },
+            "content": [
+                "Disease plants show leaves with mottling or mosaic pattern of light green and dark-green areas.",
+                "Vein clearing, greenish yellow mottling occur as primary symptoms on newly formed young leaves.",
+                "Infection on young plants results in stunted growth, malformation, distortion and puckering of leaves. Dark-green blisters and sometime enations (leafy growth) appear on the dorsal side of the leaf."
+            ]
+        },
+        "Transmission and favourable Conditions": {
+            "content": [
+                "The disease is transmitted by Aphid.",
+                "CMV is shown to develop symptoms more readily in temperatures between 79 and 89 degrees Fahrenheit.",
+                "Aphids are more active in warm summer conditions and increased their population as well as spread the viruses more."
+            ]
+        }
+    },
+    "Tobacco leaf curl disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco/Tobaccoleaf.jpg",
+                "alt": "Tobacco leaf curl disease"
+            },
+            "content": [
+                "Disease is characterized by downward curling & rolling of leaves; thickening; dark green in colour with vein clearing effect; brittle; enation (cup like or frill like outgrowth), reduction in size.",
+                "Infected plants become stunted due to shortening of internodes and formation of more lateral branches.",
+                "Flowers are deformed; partly or completely sterile."
+            ]
+        },
+        "Transmissions and favourable conditions": {
+            "content": [
+                "White fly is the vector for transmitting of leaf curl virus.",
+                "White flies become more active in dry periods after monsoon showers. Leaf-curl is therefore, noticed more during this period.",
+                "Tobacco plants become more resistant to Tobacco leaf curl virus as they grow older."
+            ]
+        }
+    }
+}

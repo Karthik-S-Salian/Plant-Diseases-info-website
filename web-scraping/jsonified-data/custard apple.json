@@ -1,0 +1,101 @@
+{
+    "Anthracnose": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-custard-apple/Anthracnose.jpg",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "Infection begins at blossom-end of the fruit and later spreads on entire fruit surface, affected fruits shrivel and they may cling to the tree or fall down.",
+                "Necrotic spots of 2-10 mm in diameter appear on unripe fruits which turn into dark brown to black spots. These spots coalesce later and cover entire fruit."
+            ]
+        },
+        "Favourable condition": {
+            "content": [
+                "Wet and windy conditions favour the disease"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Older fruits left on the trees provide inoculum for disease spread."
+            ]
+        }
+    },
+    "Leaf spot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-custard-apple/Leafspot.jpg",
+                "alt": "Leaf spot"
+            },
+            "content": [
+                "Alternaria leaf spot: Small yellowish spots first appear along the leaf margins, which gradually enlarge and turn into brownish patches with concentric rings. Severe infection leads to drying and defoliation. Dark brown-purplish patches appear on the infected fruits andrachis just below its attachment with the shoots.",
+                "Cylindrocladium leaf spot: Upper: dark purple spots about 1 to 2 mm in diameter develop first on the shoulders of the fruit and then spread down the sides. Spots enlarge and then later dry out and crack. Similar in appearance to spotting bug damage, but spots are irregular in shape whereas spotting bug lesions are round, and damage does not extend very far into the fruit."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives through spores (conidia) or mycelium in diseased plant debris or other hosts."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Relative humidity above 70% coupled with warm weather (12-25 \u00baC temp.) and intermittent rains favours disease."
+            ]
+        }
+    },
+    "Diplodia rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-custard-apple/Diplodiarot.jpg",
+                "alt": "Diplodia rot"
+            },
+            "content": [
+                "Diseased fruits show symptoms of purplish to black spots or blotches confined to the surface of the fruit and eventually covered with white mycelia and black pycnidia.",
+                "Diplodia rot is distinguished by its dark internal discolouration and the extensive corky rotting produces.",
+                "The penetrated flesh eventually softens or hardens and cracks, depending on the presence of secondary microbes."
+            ]
+        },
+        "Favourable condition": {
+            "content": [
+                "Optimum temperature is 25.9\u00b0C to 31.5\u00b0C and relative humidity is 80%"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen persists in infected plant parts which serve as source of inoculums."
+            ]
+        }
+    },
+    "Black canker": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-custard-apple/Blackcanker.jpg",
+                "alt": "Black canker"
+            },
+            "content": [
+                "Irregularly shaped spots ranging from small specks to large blotches.",
+                "Spots have an indistinct \u2018feathered\u2019 edge.",
+                "Tissue damage under the spots is no more than 10 mm deep."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease is favored by extremely wet weather and cool-to-moderate temperatures (15\u00baC to 20\u00baC). When prolonged rainy periods exist in the spring and provide at least six hours of continuous wetness"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen persists in infected plant parts which serve as source of inoculums."
+            ]
+        }
+    },
+    "Spiral nematode and Stunt nematode": {
+        "Life cycle": {
+            "content": [
+                "Nematodes molt four times during each life cycle with a molt occurring at the end of each larval stage.",
+                "Therefore, molts separate the first and second larval stages, the second and third larval stages, the third and fourth larval stages, and also the fourth larval stages and immature adults.",
+                "The 5th stage larva grows to the limit of its new cuticle, at the same time developing into a sexually mature adult male or female."
+            ]
+        }
+    }
+}

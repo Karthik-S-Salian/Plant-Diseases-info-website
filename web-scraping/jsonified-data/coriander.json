@@ -1,0 +1,135 @@
+{
+    "Powdery mildew": {
+        "Disease symptoms:": {
+            "content": [
+                "It appears as small, white, powdery patches on young parts of stems, leaves and buds which increases in size, and coalesce to cover entire area of leaf surface.",
+                "Affected leaves are reduced in size and distorted. Premature sterility is also common. in serve cases, the umbels dry up.",
+                "Seed formation may not take place in affected plants due to this disease."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Fungus can survive in plant debris in the form of cleistothecia and spread long distances by air."
+            ]
+        },
+        "Favourable conditions:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-coriander/powdery-mildewtest.png",
+                "alt": "Powdery mildew"
+            },
+            "content": [
+                "Disease emergence is favored by high humidity and moderate temperatures (cloudy weather); infection is most severe in shaded areas"
+            ]
+        }
+    },
+    "Wilt": {
+        "Disease symptoms:": {
+            "content": [
+                "The disease can easily be recognized in the field by drooping of the terminal portions, followed by withering and drying up of leaves, eventually resulting in death.",
+                "Discoloration of vascular system of the root is observed. Partial wilting is also found. In partially wilted plants, growth is arrested.",
+                "The leaves become pinkish yellow to yellow. Sterility is often noticed in such plants. Seeds, if formed are immature and light in weight.",
+                "Severe infection in the early stage results in total failure of the crop."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The disease is soil borne and primary infection occurs through inoculum present in the soil."
+            ]
+        },
+        "Favourable conditions:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-coriander/wilttest.png",
+                "alt": "Wilt"
+            },
+            "content": [
+                "Relatively high soil moisture and soil temperature are favourable for the infection."
+            ]
+        }
+    },
+    "Stem gall": {
+        " Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-coriander/stem-galltest.png",
+                "alt": "Stem gall"
+            },
+            "content": [
+                "The disease appears in the form of tumor-like swellings of leafveins, leaf stalks, peduncles, stems as well as fruits. The infected veins show a swollen hanging appearance to the leaves.\u00a0 Initially the tumors are glossy which rupture later on and become rough. They are about 3 mm broad and up to 12.5 mm long.",
+                "Badly affected plants may be killed. In the presence of excessive soil moisture, especially under shaded conditions, when the stem fails to harden and remain succulent, the tumors are numerous."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The disease is soil borne and the inocula present in the soil are the source of primary infection. Pathogen may survive in soil as resting spore for several years."
+            ]
+        },
+        " Favourable conditions: ": {
+            "content": [
+                "Relatively high soil moisture and soil temperature are favourable for the infection."
+            ]
+        }
+    },
+    "Blight disease": {
+        "Disease symptoms: ": {
+            "content": [
+                "Dark brown spots appear on the stem and leaves of infected plants and emerging umbels with young flowers get killed.",
+                "Later in the season when plants are beginning to mature it may be difficult to recognise a diseased field except reduced seed production."
+            ]
+        },
+        " Survival and spread: ": {
+            "content": [
+                "The pathogen survives through conidia or mycelia in diseased plant debris or weed or in soil."
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-coriander/blight-diseasetest.png",
+                "alt": "Blight disease"
+            },
+            "content": [
+                "Moist (More than 70% relative humidity) and warm weather (12-25 \u00baC temp) and intermittent rains favour disease development."
+            ]
+        }
+    },
+    "Stem rot": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-coriander/stem-rottest.png",
+                "alt": "Stem rot"
+            },
+            "content": [
+                "Infected seeds fail to germinate; rapid death of germinatingseeds prior to emergence; water-soaked reddish lesions girdling the stem at the collar region results in the collapsing of emerged seedlings ."
+            ]
+        },
+        " Survival and spread:": {
+            "content": [
+                "The pathogen survives as mycelium in dead or live plants and as sclerotia in infected plant parts or on the soil surface or with seed as contaminant.The fungus can spread in water, contaminated soil or on equipment."
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-coriander/disease-cycle-powdery-mildewtest.png",
+                "alt": "Disease cycles"
+            },
+            "content": [
+                "Rainy season favours the development of disease."
+            ]
+        }
+    },
+    "Disease cycles": {
+        "Powdery mildew:": {
+            "content": []
+        },
+        "Wilt:": {
+            "content": []
+        },
+        "Stem gall:": {
+            "content": []
+        },
+        "Blight:": {
+            "content": []
+        },
+        "Stem rot:": {
+            "content": []
+        }
+    }
+}

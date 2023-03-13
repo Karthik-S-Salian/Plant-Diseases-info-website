@@ -1,0 +1,230 @@
+{
+    "Rust": {
+        "Disease symptoms:": {
+            "content": [
+                "Rust generally develops late in the summer, and in years when disease is severe, it can cause the trees to defoliate in a matter of a few weeks. If this happens on a regular basis, the overall growth of the trees can be reduced and yields can be affected.",
+                "Another consequence of defoliation is that if it occurs early in the summer, the trees will put out new growth that is then at risk of being damaged by early frosts. On the other hand, if defoliation occurs in the fall, the trees may go dormant earlier than usual, which then protects them from early frosts.",
+                "Initially, symptoms of fig rust are visible as small, yellowish spots on the upper surface of the leaves. As these spots (or lesions) grow larger, they turn a reddish-brown color but remain relatively smooth.",
+                "On the lower surface of the leaf, the lesions are a reddish-brown color and have a slightly raised, blister-like appearance. Heavily infected leaves often turn yellow or brown, particular y around the edges, and drop prematurely."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungus mainly survives through teliospores (thick walled, resting spores) on leaves left in the orchard or on the soil surface.",
+                "The disease spread by air-borne uredospores from infected tree."
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-fig/Discription%2520of%2520Fig%2520deseases%2520Rust.png",
+                "alt": "Discription of Fig deseases Rust.png"
+            },
+            "content": [
+                "Temperature ranging from 25.5 to 30.5\u00b0 C with relative humidity of 86-92\u00b0C favours high intensity of rust."
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptoms: ": {
+            "content": [
+                "Anthracnose is a common plant fungal disease that can attack all plant parts during any growth stage.",
+                "Anthracnose symptoms tend to be most conspicuous on the fig tree's leaves and ripe fruits. Anthracnose first appears on leaves as small black, yellow or brown spots.",
+                "As the anthracnose disease progresses, these spots enlarge and merge to affect entire areas.",
+                "This fig tree disease can also cause cankers to form on stems and petioles, resulting in severe defoliation and root rot.",
+                "Infected fruit develop sunken, circular spots that might emit pink spores. The disease can be controlled by spraying aureofungin at 40 ppm in soap solution + 20 ppm CuS04."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The disease spread by means of planting materials-borne and air-borne conidia and also through the infected plant debris."
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-fig/DESCRIPTION%2520OF%2520DISEASES%2520%2520Anthracnose.png",
+                "alt": "DESCRIPTION OF DISEASES  Anthracnose.png"
+            },
+            "content": [
+                "Continuous rain.",
+                "Temperature of 28-30\u02daC.",
+                "High humidity"
+            ]
+        }
+    },
+    "Leaf spot": {
+        "Disease symptom: ": {
+            "content": [
+                "Initially minute brown spots appear on the leaves which enlarge into uniform or zonate, prominent, reddish brown lesions with dark brown margins.",
+                "These lesions later coalesce to form irregular patches and affected leaves sheds earlier.",
+                "The centre of the leaf become papery and drops off. Cobweb like mycelium spread over the lower surface of leaves and later on ultimately become powdery."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungus overwinters as mycelium on infected plant residues and in dry conditions survives for 20 weeks in soil.",
+                "The fungus is planting materials borne with 22.9% planting materials transmissible nature."
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-fig/Description%2520of%2520Fig%2520Disease%2520Leaf%2520spot.png",
+                "alt": "Description of Fig Disease Leaf spot.png"
+            },
+            "content": [
+                "The disease is favoured by 25-27\u00b0 C temperature and 12 hrs of wet foliage.",
+                "The disease spreads rapidly in rainy season. Hot weather and frequent rains during the milk and wax stages of plant development favour infection."
+            ]
+        }
+    },
+    "Leaf mosaic (virus)": {
+        "Disease symptoms: ": {
+            "content": [
+                "Fig trees are also susceptible to fig mosaic,",
+                "Symptoms appear in the form of large, yellowish spots on the leaves. These spots contrast sharply with the normal green foliage, creating a mottled effect.",
+                "As the mosaic disease progresses, the spots become surrounded by a rust-colored ring, which is caused by the sub-epidermal or epidermal cells dying.",
+                "Some fig tree varieties also develop mosaic lesions on the fruits. The fig mosaic virus also causes some tree species to suffer from premature fruit drop."
+            ]
+        },
+        "Survival and spread: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-fig/description%2520of%2520diseases%2520Survival%2520and%2520spread.png",
+                "alt": "description of diseases Survival and spread.png"
+            },
+            "content": [
+                "Virus transmitted by thrips.",
+                "Weed hosts serve as the natural reservoir for virus."
+            ]
+        }
+    },
+    "Alternaria rot": {
+        "Disease symptoms ": {
+            "content": [
+                "Small, olive-green specks or sunken yellow-olive lesions covered in green spores on fruit.",
+                "Water-soaked areas on fruit surface where figs touch."
+            ]
+        },
+        "Survival and spread ": {
+            "content": [
+                "Fungi over winter in plant debris.",
+                "C. herbarum usually more common on green fruit, Alternaria spp. primarily a problem on ripe fruit."
+            ]
+        },
+        "Favourable condition ": {
+            "content": [
+                "It is favoured by warm wet weather"
+            ]
+        }
+    },
+    "Aspergillus rot": {
+        "Disease symptoms ": {
+            "content": [
+                "Internal tissue of figs bright yellow in color.",
+                "Part or all of the interior turned to powdery mass of spores."
+            ]
+        },
+        "Survival and spread ": {
+            "content": [
+                "Disease emergence favors water-stressed trees."
+            ]
+        },
+        "Favourable condition ": {
+            "content": [
+                "It is favoured by warm wet weather"
+            ]
+        }
+    },
+    "Smut": {
+        "Disease symptoms ": {
+            "content": [
+                "Internal sections of fruit or entire inside of fruit discolored.",
+                "Infected areas turn black and are covered with powdery black spores."
+            ]
+        },
+        "Survival and spread ": {
+            "content": [
+                "Fungus is transferred to fruit by some species of fly, thrips and beetle.",
+                "Fig varieties with smaller ostioles (pores) on the fruit are less susceptible to the disease than those with large ostioles."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Optimum environmental conditions for maximum infection include: temperatures between 20 and 25\u00b0C and slightly acidic soils favour the disease developments."
+            ]
+        }
+    },
+    "Fig mosaic": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-fig/description%2520of%2520diseases%2520Fig%2520mosaic.png",
+                "alt": "description of diseases Fig mosaic.png"
+            },
+            "content": [
+                "Yellow spots and mottling on foliage.",
+                "Margins of spots are diffuse and blend gradually back into the green of the leaf.",
+                "Spots may be distributed uniformly across the leaf surface or as irregular patches.",
+                "Mature lesions develop a brown-red band around their margin"
+            ]
+        },
+        "Transmission": {
+            "content": [
+                "Transmitted by fig mites or by grafting from infected tree"
+            ]
+        }
+    },
+    "Leaf Blight": {
+        "Disease symptom ": {
+            "content": [
+                "In early stages of infection, small areas in the leaves become yellow and appear watersoaked.",
+                "With continual development, the upper surface becomes silvery white, and the lower surface becomes light brown and covered with a thin fungal web.",
+                "In most cases, the leaves will turn brown and shrivel.",
+                "It affects primarily the leaves but may develop on some fruit if it is new and a severely affected leaf or stem tip."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary : The fungus survives in infected plant debris or in the soil",
+                "Secondary: The spores are transported by water, wind, insects, other animals including man, and machinery."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Warm, rainy and wet weather"
+            ]
+        }
+    },
+    "Fig Rust": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-fig/discription-of-fig-deseases-rust.png",
+                "alt": "Discription of Fig deseases Rust.png"
+            },
+            "content": [
+                "The disease is first evident as small, angular, yellow-green flecks on the leaf.",
+                "The spots do not become extremely large but do become more yellow and finally a yellowish-brown.",
+                "The margin of the spot is reddish in color.",
+                "On the upper surface the spots are smooth, while on the lower surface the spots appear as small blisters.",
+                "Brown spores are released from the blisters at maturity.",
+                "As infection continues, the leaves become more yellow, and finally they begin to die around the leaf margins.",
+                "Eventually death and defoliation occur.",
+                "Complete defoliation can occur in two or three weeks.",
+                "Fig rust generally becomes a problem as the fruit reaches maturity."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The pathogens reproduce and survive in spots on leaves or stems and in fallen plant host debris."
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-fig/DISEASE%2520CYCLES%2520Rust.png",
+                "alt": "DISEASE CYCLES Rust.png"
+            },
+            "content": [
+                "Frequent rains and warm weather are favorable conditions for these pathogens.",
+                "For hosts, poor plant nutrition, poor soil drainage, and stagnant air are predisposing factors to infection by the algae."
+            ]
+        }
+    },
+    "Disease cycles": {}
+}

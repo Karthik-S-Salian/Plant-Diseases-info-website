@@ -1,0 +1,114 @@
+{
+    "Rhizome rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-turmeric/Rhizomerotimg.jpg",
+                "alt": "Rhizome rot"
+            },
+            "content": [
+                "The infection starts at the collar region of the pseudostem and progresses upwards as well as downwards.",
+                "The collar region of the affected pseudostem becomes water soaked and the rotting spreads to the rhizome resulting in soft rot.",
+                "At a later stage root infection is also noticed.",
+                "Foliar symptoms appear as light yellowing of the tips of lower leaves which gradually spreads to the leaf blades.",
+                "In early stages of the disease, the middle portion of the leaves remain green while the margins become yellow.",
+                "Later, the yellowing spreads to all leaves of the plant from the lower region upwards and is followed by drooping, withering and drying of pseudostems."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is soil-borne. The fungus multiplies with buildup of soil moisture with the onset of south west monsoon.",
+                "The fungus can survive in two ways: (a) in diseased rhizomes kept for sowing and (b) through resting structures like chlamydospores and oospores that reach the soil from infected rhizomes.",
+                "Favourable conditions",
+                "Younger sprouts are the most susceptible to the pathogen. Nematode infestation aggravates rhizome rot disease.",
+                "Temperature above 30\u00b0 C and high soil moisture are the important predisposing factors favouring the disease.",
+                "Water logging in the field due to poor drainage increases the intensity of the disease."
+            ]
+        }
+    },
+    "Leaf spot": {
+        "Disease symptoms": {
+            "content": [
+                "Symptom appears as brown spots of various sizes on the upper surface of the young leaves.",
+                "The spots are irregular in shape and white or grey in the centre.",
+                "Later, spots may coalesce and form an irregular patch covering almost the whole leaf.",
+                "The centre of spots contains fruit head shaped fruiting structures."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Disease is soil borne and survives in plant debris.",
+                "The disease spreads through rain splashes during intermittent showers. The incidence of the disease is severe in turmeric grown under exposed conditions"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High soil moisture, temperature 25\u00b0 C and leaf wetness."
+            ]
+        }
+    },
+    "Leaf blotch": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-turmeric/Leafspotimg.jpg",
+                "alt": "Leaf blotch"
+            },
+            "content": [
+                "Disease symptom appears as small, oval, rectangular or irregular brown spots on either side of the leaves which soon become dirty yellow or dark brown.",
+                "The leaves also turn yellow.",
+                "In severe cases the plants present a scorched appearance and the rhizome yield is reduced."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Soil and seed borne and survive in soil on infected plant debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High soil moisture, temperature 25O C and leaf wetness"
+            ]
+        }
+    },
+    "Dry rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-turmeric/Dryrotimg.jpg",
+                "alt": "Dry rot"
+            },
+            "content": [
+                "The disease causes root rot and rhizome rot resulting in typical dry rot of rhizomes from October onwards.",
+                "The affected rhizomes appear soft and shrunken to start with, later dry up and become hard.",
+                "Foliar yellowing and drying up of foliage which are the normal symptoms of maturity of the crop during October - November would be indistinguishable from the symptoms of the disease affected clumps.",
+                "When infected rhizomes are cut open, the infected zones typically appear as dull brown and dark."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen is facultative parasites and lives as a saprophyte on the organic matter in the soil for several years.",
+                "It spreads from vulnerable plants"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease is favoured by 35\u00b0 C soil temperature, 15-20 per cent soil moisture and alluvial or sandy soils."
+            ]
+        }
+    },
+    "Bacterial wilt": {
+        "Disease symptoms": {
+            "content": [
+                "Rapid wilting and death of the entire plant without any yellowing or spotting of leaves are the characteristic symptom.",
+                "All branches wilt at about the same time.",
+                "When the stem of a wilted plant is cut across, the pith has a darkened, water-soaked appearance.",
+                "Greyish slimy ooze comes out on pressing the stem.",
+                "In later stages of the disease, decay of the pith may cause extensive hollowing of the stem."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The bacterium is especially destructive in moist soils at temperatures above 24\u00b0 C.",
+                "High soil temperature and moisture are favourable for disease."
+            ]
+        }
+    }
+}

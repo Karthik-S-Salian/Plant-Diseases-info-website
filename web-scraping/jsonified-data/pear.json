@@ -1,0 +1,250 @@
+{
+    "Scab": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/scab-disease-symptomstest.png",
+                "alt": "Scab"
+            },
+            "content": [
+                "The disease usually noticed on leaves and fruits.",
+                "Affected leaves become twisted or puckered and have black, circular spots on their upper surface.",
+                "On the under surface of leaves, the spots are velvety and may coalesce to cover the whole leaf surface. Severely affected leaves may turn yellow and drop.",
+                "Scab can also infect flower stems and cause flowers to drop.",
+                "The lesions later become sunken and brown and may have spores around their margins.",
+                "Infected fruit become distorted and may crack, allowing entry of secondary organisms."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungus overwinters in dead infected leaves and fruit on the ground, and less commonly on infected shoots on the tree. In spring around the time of bud burst air borne spores are released which land on young leaves, blossom or fruitlets infecting them. Once these primary infections are established they in turn release more spores which are 47 spread by wind or rain splash to young leaves elsewhere giving rise to secondary infections."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease develops mainly during wet weather and is most serious in wet regions."
+            ]
+        }
+    },
+    "Seedling blight": {
+        "Disease symptoms": {
+            "content": [
+                "The most distinct symptoms and signs occur at the collar of the tree.",
+                "Small, round, light brown to yellow resting structures of the pathogen, known as sclerotia, can be found appressed to or in the soil adjacent to infected trees.",
+                "If conditions are moist, a white web-like mycelial growth may also be present.",
+                "Affected cortical tissues in the collar of the tree are often shredded.",
+                "Survival and spread",
+                "The fungus survives in soil. Primary infection occurs by soil and secondary by conidia through rain or wind."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity, high soil moisture, cloudiness and low temperatures below 24\u00b0 C for few days are ideal for infection and development of disease."
+            ]
+        }
+    },
+    "Crown gall": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/seedling-blight-disease-symptomstest.png",
+                "alt": "Crown gall"
+            },
+            "content": [
+                "Galls are usually restricted to the roots, lower stems and lower branches of infected plants. In some cases, however, crown gall may occur in the upper branches. Galls are somewhat spherical, lumpy and rough, varying in size from 1/2 inch to several inches in diameter.",
+                "Affected plants may be stunted, produce small chlorotic leaves and become moresensitive to environmental stresses (particularly winter injury).",
+                "Severely infected plants may decline and eventually die.",
+                "This organism enters susceptible plants through fresh wounds made during transplanting, cultivating, grafting and pruning."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Crown gall is caused by the soil-borne. Primary infection occurs through soil"
+            ]
+        },
+        "Favourable condition": {
+            "content": [
+                "High humidity and warm weather conditions favours the development of diseases."
+            ]
+        }
+    },
+    "White root rot": {
+        "Disease symptoms": {
+            "content": [
+                "Infection can occur on large roots or at the tree collar.",
+                "In fruit trees, the base of the trunk at soil level can show signs of a dark, wet rot, especially if kept moist by weeds or wet weather.",
+                "As the disease progresses, the infected tissue becomes rotten. Trees develop a generally unthrifty appearance with leaf yellowing, cessation of root growth, small leaves, premature leaf fall and small, shrivelled fruit. Infected trees will eventually die."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in soil or plant debris which is the source of primary inoculums."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease is favoured by cool and moist soils."
+            ]
+        }
+    },
+    "Collar rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/collar-rot-disease-symptomstest.png",
+                "alt": "Collar rot"
+            },
+            "content": [
+                "Phytophthora collar rot attacks the lower portion especially tree trunks extending to the roots.",
+                "Most infections start at the junction of a lateral root with the trunk",
+                "Infected bark becomes brown and is often soft and mushy or slimy when wet.",
+                "Dark streaks often occur near the cambium and extend beyond the canker margin. If a canker enlarges for several years, only the marginal areas show the typical color and texture of newly killed tissue.",
+                "The development of the canker is rapid, horizontally and vertically. The ultimate effect of collar rot is to girdle the affected limb, roots, or trunk, resulting in the death of that organ or of the entire tree."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus overwinters as dormant resting spores or as mycelium within infected tissues. New infections occur when the pathogen releases motile spores that are carried via water to susceptible hosts."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Soils that are saturated from rain or over-watering provide the moist conditions necessary for Phytophthora spp. to thrive and spread."
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/powdery-mildew-disease-symptomstest.png",
+                "alt": "Powdery mildew"
+            },
+            "content": [
+                "Disease appearswhen the buds develop into new leaves and shoots.",
+                "Small patches of white or grey powdery masses on under surface of leaves occur.",
+                "Leaves grow longer and narrower than normal leaves and the margin is curled.",
+                "Twigs are covered with powdery mass.",
+                "Affected fruits remain small and deformed and tend to develop roughened surface."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in the form of a resting mycelium or encapsulated haustoria in the buds and the secondary spread occur through wind borne conidia."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Powdery mildew infections occur when the relative humidity (RH) is greater than 70%. Infections can occur when the temperature lies between 10 to 25\u00b0C."
+            ]
+        }
+    },
+    "Leaf spot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/leaf-spot-disease-symptomstest.png",
+                "alt": "Leaf spot Disease symptoms"
+            },
+            "content": [
+                "Leaf spots appear on the leaves in late spring and early summer. Initially, they are 3-5 mm to 1/4 inch in diameter, round, brown, and occasionally have a purple border",
+                "As spots age, they often turn tan to ash grey. Some spots undergo secondary 50 enlargement, becoming irregularly shaped.",
+                "Heavily infected leaves often abscise, resulting in defoliation. Fruit infections result in small, dark, raised pimple-like lesions associated with the lenticels."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Primary infection occurs about one month after petal fall the following year."
+            ]
+        },
+        "Favourable Conditions": {
+            "content": [
+                "The disease is favoured by temperatures between 77 and 86 \u00b0F (25\u201330 \u00b0C), and by wet conditions.Infection occurs at optimum temperatures with 5.5 hours of wetting and an outbreak can become serious within two days of infection."
+            ]
+        }
+    },
+    "Canker": {
+        "Disease symptoms ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/canker-disease-symptomstest.png",
+                "alt": "Canker Disease symptoms"
+            },
+            "content": [
+                "Lesions resulting in canker formation usually are associated with a wound in the bark.",
+                "Leaf symptoms first occur early in the spring when the leaves are unfolding.",
+                "They appear as small, purple specks on the upper surface of the leaves that enlarge into circular lesions 1/8 to 1/4 inch (3-6 mm) in diameter.",
+                "The margin of the lesions remains purple, while the center turns tan to brown. In a few weeks, secondary enlargement of these leaf spots occurs.",
+                "Heavily infected leaves become chlorotic and defoliation occurs.",
+                "On the fruits, a series of concentric bands of uniform width form which alternate in color from black to brown. The flesh of the rotted fruits remains firm and leathery. Black pycnidia are often seen on the surface of the infected fruit."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives through ascospore (cysts) in the soil debris which is the source of primary infection",
+                "In the summer, the black pycnidia and perithecia release their respective conidia and ascospores and causes secondary infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "20-24\u00b0C temperature and moist situation is favourable for the disease development.",
+                "Winter injury in plants is helps the development of the diseases."
+            ]
+        }
+    },
+    "Viral diseases": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/viral-diseases-disease-symptomstest.png",
+                "alt": "Viral diseases"
+            },
+            "content": [
+                "Trees infected with apple mosaic virus develop pale to b right cream spots on spring leaves as they expand.",
+                "These spots may become necrotic after exposure to summer sun and heat.",
+                "Other viral diseases are symptomless in most commercial cultivars, but may cause symptoms in certain cultivars, scionl/ rootstock com binations, and ornamental varieties. Symptoms of apple chlorotic leaf spot virus may include chlorotic leaf spots, leaf distortion, chlorotic rings and line patterns, reduced leaf size, and stunting.",
+                "Pear stem grooving virus produces symptoms on 'Virginia Crab' such as chlorotic leaf spots, stern grooving and pitting, union necrosis, and swelling of the stem above the graft union.",
+                "Under specific climatic conditions, the disease appears in noncertified 'Bosc', to some extent in 'Anjou', and occasionally in 'Comice' and 'Bartlett', causing a fruit pitting stone pit and deformity. Light or moderate fruit symptoms may be confused with pitting from tarnished plant bug damage, boron deficiency, or corky spot"
+            ]
+        },
+        "Transmission": {
+            "content": [
+                "Transmission of ApMV to C. quinoa and C. sativus was obtained under greenhouse conditions. C. quinoa reacted with mottling, whereas C. sativus showed chlorotic local lesions followed by systemic yellowing and stunting."
+            ]
+        }
+    },
+    "Phytoplasmal disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/phytoplasmal-disease-symptomstest.png",
+                "alt": "Phytoplasmal disease"
+            },
+            "content": [
+                "Poor shoot and spur growth, dieback of shoots, upper rolling of leaves, reduced leaf and fruit size, and premature leaf drop characterize pear decline. Sudden tree collapse can result from tissue damage at the graft union on highly susceptible rootstocks such as Pyrus serotina or P. ussuriensis, but slow decline of trees is more common.",
+                "Trees on tolerant rootstocks may show mild to moderate symptoms that occasionally become severe if very high psylla populations occur in conjunction with other tree stress. Transmission:",
+                "The phytoplasma organism that causes pear decline is carried by pear psylla. Psylla transmits the disease when it feeds on the pear foliage. The expression of disease depends on rootstock susceptibility, tree vigor, and psylla numbers. The organism apparently does not multiply in pear trees as well as it does in pear psylla."
+            ]
+        }
+    },
+    "Bitter rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "hhttps://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/pear-disease-cycle-scabtest.png",
+                "alt": "Disease cycle:"
+            },
+            "content": [
+                "The fungus attacks pears and enters the fruit through uninjured skin.",
+                "Infected fruit are characterized by a firm rot which forms a circular light brown spot. With age the spots become almost black and have a saucer-shaped depression.",
+                "The organism overwinters in decayed fruit and in cracks on the old bark. A broken limb or twig will serve as an overwintering site",
+                "Symptoms are first noticeable in mid to late July. A temperature of 30 \u00baC and light rain favor development of the rot."
+            ]
+        }
+    },
+    "Disease cycle:": {
+        "scab:": {
+            "content": []
+        },
+        "Collar rot of pear:": {
+            "content": []
+        },
+        "Powdery mildew:": {
+            "content": []
+        },
+        "Crown gall of pear": {
+            "content": []
+        }
+    }
+}

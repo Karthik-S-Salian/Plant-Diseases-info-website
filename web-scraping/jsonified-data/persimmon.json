@@ -1,0 +1,175 @@
+{
+    "Crown gall": {
+        "Disease symptoms:": {
+            "content": [
+                "Large galls (swellings) develop around the crown with smaller marble-size galls on larger roots.",
+                "Bacterium enters plants by way of wounds from the soil.",
+                "If the disease progresses too far the plant will turn yellow and become stunted and sickly"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Bacterium survives in the soil and infected crop debris."
+            ]
+        },
+        "Favourable conditions:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-persimmon/crown-galltest.png",
+                "alt": "Crown gall"
+            },
+            "content": [
+                "High humidity and warm conditions favour the development of disease."
+            ]
+        }
+    },
+    "Root rot:": {
+        "Disease symptoms:": {
+            "content": [
+                "The Phytophthora fungus causes crown, foot and root rot. Dark areas of sunken bark called cankers form on the trunk; these cankers exude a dark sap that leaves stains or streaks.",
+                "The leaves change colors and fall from the tree, the branches and twigs die, and eventually the entire tree fails."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The pathogens survive in the soil and crop debris."
+            ]
+        },
+        "Favourable conditions:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-persimmon/root-rottest.png",
+                "alt": "Root rot:"
+            },
+            "content": [
+                "Water logged area around the tree may cause this disease."
+            ]
+        }
+    },
+    "Cercospora leaf spot": {
+        "Disease symptoms:": {
+            "content": [
+                "Small, dark brown spots on both leaf surfaces. The spots are limited by the veins and so become angular in shape. Severely affected leaves fall readily"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "This disease may spread through affected plant parts"
+            ]
+        },
+        " Favourable conditions:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-persimmon/cercospora-leaf-spottest.png",
+                "alt": "Cercospora leaf spot"
+            },
+            "content": [
+                "Temperature of 25\u00b0C coupled with approximately 70 % Relative Humidity"
+            ]
+        }
+    },
+    "Circular leaf spot": {
+        " Disease symptoms:": {
+            "content": [
+                "Although not deadly to adult trees, leaf spot does cause black spots to appear on the surface of leaves, and may sometimes affect fruit as well.",
+                "It can also lead to early dropping of leaves"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungus infects during rainy season",
+                "Spread through infested leaf."
+            ]
+        },
+        "Favourable conditions:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-persimmon/circular-leaf-spottest.png",
+                "alt": "Circular leaf spot"
+            },
+            "content": [
+                "Temperature ranging from 25.5 to 30.5\u00b0 C with relative humidity of 86-92% favours this disease"
+            ]
+        }
+    },
+    "Bitter rot": {
+        "Disease symptoms:": {
+            "content": [
+                "Spot occurs on the surface of leaves and fruit as well.",
+                "It can also lead to early dropping of leaves and fruits"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "It may spread through infested parts"
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-persimmon/bitter-rottest.png",
+                "alt": "Bitter rot"
+            },
+            "content": [
+                "Continuous rain, Temperature 28-30\u02daC and high humidity favours the development of disease"
+            ]
+        }
+    },
+    "Leaf spot:": {
+        "Disease symptoms:": {
+            "content": [
+                "Depressed, dark lesions appear on the leaves, causing them to drop early.",
+                "Once this disease infects the tree it is difficult to get rid of it in one season."
+            ]
+        },
+        " Survival and spread: ": {
+            "content": [
+                "Infected leaves and twigs during the growing season and in the fall. Prune the tree in winter to increase air circulation and remove infected branches"
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-persimmon/leaf-spottest.png",
+                "alt": "Leaf spot:"
+            },
+            "content": [
+                "High humidity"
+            ]
+        }
+    },
+    "Post-harvest fruit rot": {
+        "Disease symptom:": {
+            "content": [
+                "Disease symptoms were irregular brownish and soft lesions mainly located under and surrounding the fruit calyx (stem-end) that expanded rapidly at room temperature and turned to dark brown or black colour producing apparent and in some cases abundant white to grey mycelium."
+            ]
+        },
+        " Survival and spread: ": {
+            "content": [
+                "Spreading through infested fruits."
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-persimmon/post-harvest-fruit-rottest.png",
+                "alt": "Post-harvest fruit rot"
+            },
+            "content": [
+                "Fruits are susceptible to chilling injury, temperature and storage time."
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptom ": {
+            "content": [
+                "Appears as black spots on leaves, may fall from bottom upwards.",
+                "Other symptoms may include black sunken spots on leaf stalks and lesions on bark."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Pathogens survive in infected plant debris."
+            ]
+        },
+        " Favourable conditions:": {
+            "content": [
+                "Infections are much more obvious on the flowers and fruit. Outbreaks are common after warm wet weather.",
+                "During the rainy season, the rain water trickling through the diseased leaves is richly laden with the spores of the pathogens to cause further infections."
+            ]
+        }
+    }
+}

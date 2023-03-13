@@ -1,0 +1,221 @@
+{
+    "Shoot/fruit blight and bark canker": {
+        "Disease symptoms": {
+            "content": [
+                "The symptoms of the disease are observed only on old leaves. Initially, the lesions are angular, minute, irregular, yellow to light brown, scattered over leaf lamina.",
+                "As the lesions enlarge, their colour changes from brown to cinnamon and they become almost irregular.",
+                "In case of severe infection such spots coalesce forming patches resulting in complete withering and defoliation of infected leaves"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease spreads through the seeds of affected fruits. The incidence is wide spread during rainy season."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The optimum temprature between 20 - 25 \u00b0C, 95% relative humidity."
+            ]
+        }
+    },
+    "Crown rot": {
+        "Disease symptoms": {
+            "content": [
+                "Symptoms of crown rot include rapid wilting and dying of trees during the first warm weather of the season, as well as leaves changing color to dull green or yellow.",
+                "The disease can affect loquat trees of any age, but typically affects younger trees that do not have fully developed root systems and crown areas"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives as oospores on the affected plant tissues in soil and on weed hosts."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Atmospheric temperature in the range of 10-20 \u00b0C and relative humidity 90% favours disease development."
+            ]
+        }
+    },
+    "Die back": {
+        "Disease symptoms": {
+            "content": [
+                "Sunken lesions on infected tissue.",
+                "The cankers are perennial and continue to enlarge each year.",
+                "The fungus slowly invades and girdles limbs or trunks.",
+                "The result is a dead limb above the infection site.",
+                "Black pycnidia of Cytospora can easily be seen emerging from infected bark with use of a hand lens.",
+                "The pycnidia are roundish and pinhead in size.",
+                "They are scattered in the cankered area."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "During wet weather, sticky masses of orange-yellow conidia are extended in long tendrils. These conidia are wind disseminated to injured tissue where they germinate and infect host tissue"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Atmospheric temperature in the range of 10-20 \u00b0C and relative humidity 90% favours disease development."
+            ]
+        }
+    },
+    "Root rot/ white rot": {
+        "Disease symptoms": {
+            "content": [
+                "The bark and the wood of the root including the root collar is affected.",
+                "The decayed wood is pinkish to dull violet in colour whereas in the advanced stages, small, white, elongated pockets appear and they form a mass of spongy white fibres.",
+                "The affected tree begins to show symptoms of wilt, early leaf fall and increase in the fruitset",
+                ".\u00a0 The fruiting bodies conks which may grow up to 30 cm or more in diameter usually appear when the rot is fairly well advanced",
+                ".\u00a0 They are either hidden by the litter or lie exposed on the surface of the soil."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Disease emergence favored by continually damp soil"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungal pathogen survives on diseased wood and roots below ground for many years"
+            ]
+        }
+    },
+    "Wither tip": {
+        "Disease symptoms": {
+            "content": [
+                "The die back often progressed slowly and caused leaves to wilt, turn yellow and drop off",
+                "Twigs and branches appeared to have been scorched by fire",
+                "Drying of twig from tip to down ward.",
+                "When twig were dry, minute brown to black, slightly raised, clumped pustules are observed which acervuli of the fungus",
+                "Dry twigs are ash colored.",
+                "Affected fruit showed tar stain symptoms"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The temperature range for disease development 10-30\u02daC and the relative humidity 95- 97%."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The inoculum remains on dried leaves defoliated branches and mummified flowers."
+            ]
+        }
+    },
+    "Collar rot": {
+        "Disease symptoms": {
+            "content": [
+                "The lower portion of the stem is affected from the soil borne inoculum (sclerotia).",
+                "Decortication is the main symptom.",
+                "Exposure and necrosis of underlying tissues may lead to collapse of the plant.",
+                "Near the ground surface on the stem may be seen the mycelia and sclerotia.",
+                "Lack of plant vigour, accumulation of water around the stem, and mechanical injuries help in development of this disease."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Most severe in warm to hot, wet or humid conditions"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Sclerotia survive in soil for long periods.",
+                "Infects through the base of the stem from hyphae from sclerotia.",
+                "Secondary infection can be more severe where plant residues are on the soil surface."
+            ]
+        }
+    },
+    "Leaf spot": {
+        "Disease symptoms": {
+            "content": [
+                "Tiny reddish spots, sometimes surrounded by a yellow halo, appear on the leaves of infected plants, usually on older growth.",
+                "These spots darken and enlarge as the leaves mature",
+                "Spore-forming bodies eventually appear in the center of the spots.",
+                "These dark fruiting bodies may appear to be covered with a glossy membrane, beneath which white masses of spores may be visible.",
+                "Infected plants may prematurely drop many leaves."
+            ]
+        },
+        "Entomosporium leaf spot": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/leaf-spot-disease-symptomtest.png",
+                "alt": "Leaf spot Disease symptom"
+            },
+            "content": []
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen is seed borne fungus and inoculums present in the seeds are source of primary infection. Fungus also survives on fruit and plant debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease is favoured by temperatures between 77 and 86 \u00b0F (25\u201330 \u00b0C), and by wet conditions.",
+                "Infection occurs at optimum temperatures with 5.5 hours of wetting and an outbreak can become serious within two days of infection."
+            ]
+        }
+    },
+    "Fire Blight": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/fire-blight-disease-symptomtest.png",
+                "alt": "Fire Blight Disease symptom"
+            },
+            "content": [
+                "Branch and trunk canker symptoms can appear as soon as trees begin active growth.",
+                "The first sign is a watery, light tan bacterial ooze that exudes from cankers (small to large areas of dead bark that the pathogen killed during previous seasons) on branches, twigs, or trunks.",
+                "The ooze turns dark after exposure to air, leaving streaks on branches or trunks.",
+                "However, most cankers are small and inconspicuous; thus infections might not be noticed until later in spring when flowers, shoots, and/or young fruit shrivel and blacken.",
+                "The amount of fruit loss depends upon the extent and severity of the disease."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Splashing rain or insects transmit the bacteria to nearby blossoms or succulent growing shoots.",
+                "Once blossoms are contaminated with the bacteria, honey bees become efficient carriers of the pathogen."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Spread of the pathogen are rainy or humid weather with day time temperatures from 75\u00b0 to 85\u00b0F, especially when night temperatures stay above 55\u00b0F."
+            ]
+        }
+    },
+    "Scab": {
+        "Disease symptoms": {
+            "content": [
+                "Olive green to black, circular, scabby or velvety spots appear on infected leaves, which may yellow or redden and drop prematurely.",
+                "Scabby spots, often more sunken, may appear on fruit, which may crack or shrivel and drop.",
+                "Shoots may die back if the disease is severe."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives through perithecia in the soil debris."
+            ]
+        },
+        "Favourable conditions": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/disease-cycle-shoot-fruit-blight-and-bark-cankertest.png",
+                "alt": "Disease Cycle Shoot fruit blight and bark canker"
+            },
+            "content": [
+                "Suitable temperatures and moisture promote the release of V. inaequalis ascospores.",
+                "This cycle of secondary infections continues throughout the summer, until the leaves and fruit fall from the treeat the onset of winter."
+            ]
+        }
+    },
+    "Disease Cycle": {
+        "Shoot fruit blight and bark canker": {
+            "content": []
+        },
+        "Crown rot": {
+            "content": []
+        },
+        "Root rot\u00a0 /white rot": {
+            "content": []
+        },
+        "Collar rot": {
+            "content": []
+        }
+    }
+}

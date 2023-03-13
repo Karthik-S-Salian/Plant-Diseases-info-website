@@ -1,0 +1,292 @@
+{
+    "Powdery mildew": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Powderymildew.jpg",
+                "alt": "Powdery mildew"
+            },
+            "content": [
+                "Powdery mildew can easily be diagnosed by the white, powdery patches that form on the upper surface of leaves and stem.",
+                "Greyish white powdery growth appears on the leaf, sheath, stem and floral parts.",
+                "Powdery growth later become black lesion and cause drying of leaves and other parts."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus remains in high hills during summers in infected plant debris as dormant mycelium and asci. Primary spread is by the asciospores and secondary spread through airborne conidia."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease infects plants during periods of high humidity (not necessarily rain) and cool to moderate temperatures (20-21\u00b0C)."
+            ]
+        }
+    },
+    "Loose smut": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Loosesmut.jpg",
+                "alt": "Loose smut"
+            },
+            "content": [
+                "It is a seed borne disease; infection occurs during Loose Smut flowering through wind-borne spores.",
+                "The infection remains dormant inside the otherwise healthy looking seed but the plants grown from such seeds bear infected inflorescence.",
+                "At this time, infected heads emerge earlier than normal heads. The entire inflorescence is commonly affected and appears as a mass of olive-black spores, initially covered by a thin gray membrane.",
+                "Once the membrane ruptures, the head appears powdery."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is internally seed borne, where pathogen infects the embryo in the seed.",
+                "Primary infection occurs by sowing infected seeds."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Infection is favored by cool, humid conditions during flowering period of the host plant."
+            ]
+        }
+    },
+    "Brown rust": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Brownrust.jpg",
+                "alt": "Brown rust"
+            },
+            "content": [
+                "The most common site for symptoms is on upper leaf blades, however, sheaths, glumes and awns may occasionally become infected and exhibit symptoms.",
+                "The pustules are circular or slightly elliptical, smaller than those of stem rust, usually do not coalesce, and contain masses of orange to orange-brown Urediospores."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogen over-summers in low and mid altitudes of Himalayas and Nilgiris. Primary infections develop from wind deposited urediospores in eastern Indo-gangetic plains in middle of January where it multiplies and moves westwards by March",
+                "Alternate host is Thalictrum sp."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Temperatures of 20-25\u00b0 C with free moisture (rain or dew) cause epidemics. Severe infection causes upto 30 percent yield losses."
+            ]
+        }
+    },
+    "Stripe rust /Yellow rust": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Yellowrust.jpg",
+                "alt": "Stripe rust /Yellow rust"
+            },
+            "content": [
+                "Mainly occur on leaves than the leaf sheaths and stem. Bright yellow pustules (Uredia) appear on leaves at early stage of crop and pustules are arranged in linear rows as stripes.",
+                "The stripes are yellow to orange yellow. The teliospores are also arranged in long stripes and are dull black in colour.",
+                "The pustules of stripe rust, which, contain yellow to orange-yellow urediospores, usually form narrow stripes on the leaves.",
+                "Pustules also can be found on leaf sheaths, necks, and glumes."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The inoculum survives in the form of uredospores /teliospores in the northern hills during off season on self sown crop or volunteer hosts, which provide an excellent source of inoculums and primary spread occur through uredospores from hills"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Disease is prominent when temperature is 10-20\u00b0C and high humidity."
+            ]
+        }
+    },
+    "Black rust": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Blackrust.jpg",
+                "alt": "Black rust"
+            },
+            "content": [
+                "Symptoms are produced on almost all aerial parts of the wheat plant but are most common on stem, leaf sheaths and upper and lower leaf surfaces.",
+                "Pustules (containing masses of urediospores) are dark reddish brown - occur on both sides of the leaves, on the stems, and on the spikes.",
+                "Pustules are usually separate and scattered, heavy infections -coalesce.",
+                "Prior to pustule formation, \"flecks\" may appear. Before the spore masses break through the epidermis, the infection sites feel rough to the touch.",
+                "As the spore masses break through, the surface tissues take on a ragged and torn appearance."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Both survive on stubbles and volunteer crops, alternate host: Berberis spp. and primary spread occur through uredospores from southern hills"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Moisture and temperature above 20\u00b0 C favours the development of disease."
+            ]
+        }
+    },
+    "Flag smut": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Flagsmut.jpg",
+                "alt": "Flag smut"
+            },
+            "content": [
+                "Symptoms can be seen on stem, clum and leaves from late seedling stage to maturity.",
+                "The seedling infection leads to twisting and drooping of leaves followed by withering.",
+                "Grey to grayish black sori occurs on leaf blade and sheath. The sorus contains black powdery mass of spores."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is seed and soil borne. Smut spores are viable for more than 10 years.",
+                "Primary infection occurs by sowing infected seeds or by resting spores present in the soil."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Temperature of 18-24\u00b0C.",
+                "Relative humidity 65% and above."
+            ]
+        }
+    },
+    "Hill bunt or Stinking smut": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Stinkingsmut.jpg",
+                "alt": "Hill bunt or Stinking smut"
+            },
+            "content": [
+                "The fungus attacks seedling of 8-10 days old and become systemic and grows along the tip of shoot.",
+                "At the time of flowering hyphae concentrate in the inflorescence and spikelets and transforming the ovary into smut sorus of dark green color with masses of chlamydospores.",
+                "The diseased plants mature earlier and all the spikelets are affected."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives in seeds and sowing such seeds are source of primary infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Temperature of 18-20\u00b0C.",
+                "High soil moisture."
+            ]
+        }
+    },
+    "Karnal bunt": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Karnalbunt.jpg",
+                "alt": "Karnal bunt"
+            },
+            "content": [
+                "Symptoms of Karnal bunt are often difficult to distinguish in the field due to the fact that incidence of infected kernels on a given head is low.",
+                "There may be some spreading of the glumes due to sorus production but it is not as extensive as that observed with common bunt.",
+                "Symptoms are most readily detected on seed after harvest."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is seeds borne and sowing of infected seeds is the source of primary infection."
+            ]
+        },
+        "Fabourable conditions": {
+            "content": [
+                "Temperature of 18-20\u00b0C.",
+                "High soil moisture."
+            ]
+        }
+    },
+    "Leaf blight": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Leafblight.jpg",
+                "alt": "Leaf blight"
+            },
+            "content": [
+                "Reddish brown oval spots appear on young seedlings with bright yellow margin. In severe cases, several spots coalesce to cause drying of leaves.",
+                "It is a complex disease, having association of A. triticina, B. sorokiniana and A. alternate."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Primary spread is by externally seed-borne and soil borne conidia. Secondary spread by air-borne conidia."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Temperature of 25\u00b0C and high relative humidity."
+            ]
+        }
+    },
+    "Foot rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Footrot.jpg",
+                "alt": "Foot rot"
+            },
+            "content": [
+                "The disease mainly occurs in seedlings and roots and rootlets become brown in colour.",
+                "Seedlings become pale green and have stunted growth.",
+                "Fungus produces sporangia and zoospores and oospores."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is soil borne, pathogens survives in soil.",
+                "Primary spread occurs through soil and irrigation water."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Wet weather and high rainfall."
+            ]
+        }
+    },
+    "Head scab/ Fusarium leaf blotch (Snow Mold)": {
+        "Disease symptoms": {
+            "content": []
+        }
+    },
+    "Helminthosporium leaf blotch (Spot Blotch)": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/SpotBlotch.jpg",
+                "alt": "Helminthosporium leaf blotch (Spot Blotch)"
+            },
+            "content": [
+                "Lesions caused by this disease are elongated to oval in shape and are generally a dark brown color.",
+                "As lesions mature, the centers often turn a light brown to tan color, surrounded by an irregular dark brown ring (21 on leaf; 22 on spike).",
+                "Primary infections tend to be on the lower leaves, beginning as chlorotic flecks or spots. These infection sites enlarge, turn dark brown, and often coalesce. When the disease is severe, affected leaves or leaf sheaths may die prematurely."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The Disease is seed as well as soil borne and inoculums present in the seeds and soil are the source of primary infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Disease is prevalent in more humid and higher rainfall areas."
+            ]
+        }
+    },
+    "Seedling blight": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat/Seedlingblight.jpg",
+                "alt": "Seedling blight"
+            },
+            "content": [
+                "This symptom is seen when ears become infected during the early flowering stages. Later infections may result in infection of the grain but without obvious bleaching of the ears.",
+                "Fusarium lesions often begin in the leaf sheath at the stem base where crown roots split the leaf sheath when emerging. This infection can then spread up the leaf sheath causing long dark brown streaks at the stem base",
+                "The ear blight phase of the disease can cause yield loss but is most important as it can result in mycotoxin production in the grain."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The most important source of Fusarium for wheat crops is the seed but the fungus can also survive on debris in the soil"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Relatively high soil moisture and soil temperature are favourable for the infection."
+            ]
+        }
+    }
+}

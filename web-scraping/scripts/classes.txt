@@ -1,0 +1,117 @@
+cerels
+        pearl-millet:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-pearl-millet
+
+        sorghum:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-sorghum
+
+        wheat:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-wheat
+
+
+commercial-crops
+        sugarcane:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-sugarcane
+
+        tobacco:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tobacco
+
+
+fruit-crops
+        pomegranate:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-pomegranate
+
+        apple:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-apple
+
+        banana:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-banana
+
+        citrus:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-citrus
+
+        custard-apple:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-custard-apple
+
+        grapes:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes
+
+        guava:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-guava
+
+        papaya:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-papaya
+
+        pineapple:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-pineapple
+
+
+oilseeds
+        castor:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-oilseeds/ipm-strategies-for-castor
+
+        mustard-rapeseed:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-oilseeds/ipm-strategies-for-mustard-rapeseed
+
+        safflower:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-oilseeds/ipm-strategies-for-safflower
+
+        sesame:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-oilseeds/ipm-strategies-for-sesame
+
+
+pulses
+        blackgram-greengram:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-blackgram-greengram
+
+        rajmash:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-rajmash
+
+        redgram:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-redgram
+
+
+spice-crops
+        black-pepper:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-black-pepper
+
+        cumin:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-cumin
+
+        fennel:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-fennel
+
+        garlic:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-garlic
+
+        ginger:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-ginger
+
+        large-cardamom:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-large-cardamom
+
+        small-cardamom:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-small-cardamom
+
+        turmeric:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-turmeric
+
+
+vegetables
+        spinach:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-spinach
+
+        brinjal:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-brinjal
+
+        okra:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/integrated-pest-management-strategies-for-okra
+
+        onion:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-onion
+
+        potato:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato
+
+        tomato:
+                https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-tomato

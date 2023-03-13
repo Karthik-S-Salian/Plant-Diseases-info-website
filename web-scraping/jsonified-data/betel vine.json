@@ -1,0 +1,166 @@
+{
+    "Leaf stem and foot rot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-betel-vine/betelvine%25203.png",
+                "alt": "Leaf stem and foot rot"
+            },
+            "content": [
+                "Otherwise dark brown necrotic spots with alternate light brown zonations appear.",
+                "Most destructive fungal disease that produces both a wet rot symptom on leaves and wilting due to foot rot.",
+                "At first circular, dark brown spots appear which become wet and rot under continuous high humid conditions",
+                "Loss of lustre of the leaves in the foot rot condition followed by total wilting and drying of the vines occur in a quick sequence",
+                "Root system of the affected plant is damaged. Lateral roots are completely destroyed. Disease occurs mostly in patches and the vines wilt and die. In a week's time, 80 to 90 per cent of the vines wilt and die"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Fungus survives in disease plant debris as well as soil. These vines may recover after the rains and survive for more than two seasons till the root infection culminates in collar rot and death of the vine."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Rains during July onwards favour the development of disease."
+            ]
+        }
+    },
+    "Leaf spot or anthracnose": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-betel-vine/betelvine%25204.png",
+                "alt": "Leaf spot or anthracnose"
+            },
+            "content": [
+                "Leaf spots are irregular in shape and size, light to dark brown surrounded by diffuse chlorotic yellow halo.",
+                "Marginal leaf tissue becomes black, necrotic and gradually spreads towards the leaf centre.",
+                "Occasionally diffused yellow halo also develops.",
+                "In the anthracnose stage circular, black lesions that occur rapidly increase in size and girdle the stem culminating in the death of the vine."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The primary infection by sowing infected seeds and secondary by wind."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Rain and high humidity are responsible for the development of disease."
+            ]
+        }
+    },
+    "Fusarium wilt": {
+        "Disease symptoms:": {
+            "content": [
+                "Plants show the yellowing of leaves and wilts gradually. Often sudden wilting and drying up entire plant takes place. Vascular discoloration of plant."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Chlamydospores survive in soil, conidia spread through irrigation water.",
+                "Secondary infection by conidia through rain or wind"
+            ]
+        },
+        "Favourable conditions:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-betel-vine/betelvine%25205.png",
+                "alt": "Fusarium wilt"
+            },
+            "content": [
+                "High temperature and high relative humidity favour the development of disease."
+            ]
+        }
+    },
+    "Sclerotial wilt or collar rot:": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-betel-vine/betelvine%25206.png",
+                "alt": "Sclerotial wilt or collar rot:"
+            },
+            "content": [
+                "Darkening of the stem at the foot of the plant, near ground level. The leaves turn yellow, become flaccid and droop off.",
+                "Ultimately the whole vine wilts and dries up.",
+                "The darkened portion of the stem becomes shrinked, soft and turn black.",
+                "On the affected stem portion, white ropy fan shaped mycelial strands developed.",
+                "Brown to dark brown sclerotia appears on the infected portion"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Disease is soil borne and pathogen survives in soil which is the source of primary infection."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "The disease is mainly noticed in nurseries during June-September and is caused by Sclerotium rolfsii."
+            ]
+        }
+    },
+    "Powdery mildew or Basal rot:": {
+        "Symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-betel-vine/betelvine7.png",
+                "alt": "Powdery mildew or Basal rot:"
+            },
+            "content": [
+                "White to light brown powdery patches appears on lower surface of the leaves, later these increases in size.",
+                "Early leaf infection appears as light grey spots which gradually enlarge and so on powdery mass of fungal growth covers the lower surface of the leaf.",
+                "Under ideal conditions both the leaf surface gets covered by the white floury mass of fungal growth resulting in early leaf fall."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungus survives in the form of a resting mycelium or encapsulated haustoria in the crop debris.",
+                "Secondary spread occurs through wind borne conidia"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Cool weather coupled with mild temperature favour the development of disease."
+            ]
+        }
+    },
+    "Bacterial leaf spot/Bacterial stem rot:": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-betel-vine/06.png",
+                "alt": "Bacterial leaf spot/Bacterial stem rot:"
+            },
+            "content": [
+                "Minute water soaked lesions appear on all over the leaf blade which delimited by veins.",
+                "These coalesce to form large irregular brown spots.",
+                "The affected leaves defoliate prematurely."
+            ]
+        },
+        "Survival and spread:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-betel-vine/07.png",
+                "alt": "07.png"
+            },
+            "content": [
+                "The pathogens survive in soil, Bacteria spread through irrigation water"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High temperature and high relative humidity favour the development of disease."
+            ]
+        }
+    },
+    "Disease cycle:": {
+        "Foot rot:": {
+            "content": []
+        },
+        "Fusarium wilt:": {
+            "content": []
+        },
+        "Sclerotial wilt or collar rot:": {
+            "content": []
+        },
+        "Powdery mildew:": {
+            "content": []
+        },
+        "Anthracnose": {
+            "content": []
+        }
+    }
+}

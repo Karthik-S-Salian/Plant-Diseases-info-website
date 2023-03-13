@@ -1,0 +1,181 @@
+{
+    "Damping Off": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-braccoli/Damping%2520Off.png",
+                "alt": "Damping Off.png"
+            },
+            "content": [
+                "Damping off occurs in two stages, i.e. the pre-emergence and the post-emergence phase.",
+                "In the pre-emergence phase the seedlings are killed just before they reach the soil surface.",
+                "The young radical and the plumule are killed and there is complete rotting of the seedlings.",
+                "The post-emergence phase is characterized by the infection of the young, juvenile tissues of the collar at the ground level.",
+                "The infected tissues become soft and water soaked. The seedlings topple over or collapse."
+            ]
+        },
+        "Favourable Conditions: ": {
+            "content": [
+                "High humidity, high soil moisture, cloudiness and low temperatures below 24\u00b0 C for few days are ideal for infection and development of disease.",
+                "Crowded seedlings, dampness due to high rainfall, poor drainage and excess of soil solutes hamper plant growth and increase the pathogenic damping-off."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary : Soil, Seed, Water",
+                "Secondary : Zoospore through rain splash or wind"
+            ]
+        }
+    },
+    "Club root of crucifers or Finger and toe disease": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-braccoli/Club%2520root%2520of%2520crucifers%2520or%2520Finger%2520and%2520toe%2520disease.png",
+                "alt": "Club root of crucifers or Finger and toe disease.png"
+            },
+            "content": [
+                "Stunting and yellowing of plants",
+                "Leaves become yellowish and wilt on hot days.",
+                "Club like swelling of root and rootlets",
+                "Club root is particularly prevalent on soils with a pH below 7, whereas it has been observed that the disease is often less serious on heavy soils and on soils containing little organic matter."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary : Soil borne resting spores, which survive for longer periods in soil (10 yrs.) Collateral hosts: Broccoli, Brussels sprout, cabbage, cauliflower, Chinese cabbage, mustard, raddish, turnip",
+                "Secondary : Resting spores or zoospores carried through irrigation water or by root contact."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "It occur at a temperature range of 12-270C.",
+                "High soil moisture",
+                "Neutral to acidic soils 5-7.0 pH"
+            ]
+        }
+    },
+    "Alternaria leaf spot": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-braccoli/Alternaria%2520leaf%2520spot.png",
+                "alt": "Alternaria leaf spot"
+            },
+            "content": [
+                "Spots are small, dark coloured",
+                "They enlarge, soon become circular with a 1mm in diameter",
+                "Under humid conditions groups of conidiophores will be formed in the spot",
+                "Spots develop concentric rings",
+                "Finally the spots coalesce leading to blighting of leaves.",
+                "Shriveling of seeds and poor germination occurs.",
+                "Linear spots also appear on petioles, stems, pods and seeds"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary : Mycelium persisting in the seed or as spores on seed or from debris",
+                "Secondary : Wind or insect borne conidia"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Soil temperature of around 280C",
+                "High humidity or persistent dew",
+                "Moist weather with intermittent showers"
+            ]
+        }
+    },
+    "Black rot": {
+        "Disease symptoms: ": {
+            "content": [
+                "First appear as chlorotic or yellow (angular) areas near the leaf margins",
+                "Yellow area extends to veins and midrib forming characteristic \u2018v\u2019 shaped chlorotic spotswhich later turn black",
+                "Veins and veinlets turn brown and finally black",
+                "Vascular blackening extend beyond affected veins to midrib, petiole and stem",
+                "In advanced stages, infection may reach the roots system and blackening of vascular bundles occurs. Bacterial ooze can also be seen on affected parts",
+                "If the infection is early, the plants wilt and die",
+                "If the infection is late plants succumb to soft rot and die."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary  : Bacterial cells internally seed borneand soil borne",
+                "Secondary : Bacterial cells dispersed through irrigation water and rain splashes."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Relative humidity more than 90%",
+                "High soil moisture",
+                "Frequent rains"
+            ]
+        }
+    },
+    "Downy mildew": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-braccoli/Downy%2520mildew.png",
+                "alt": "Downy mildew.png"
+            },
+            "content": [
+                "Small, pale yellow angular spots on upper surface of leaves, with downy growth on the under surface. The spots coalesce and the leaves shrivel and dries up prematurely",
+                "Small purplish brown spots on under surface of leaves",
+                "In cabbage, these spots expose the heads to soft rot",
+                "Cauliflower curds look brownish",
+                "Stems show dark brown and depressed lesions or streaks which later develop downy growth of fungus."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Primary : Oospores in infected plant debris or in soil",
+                "Secondary : Wind borne and rain splashed sporangia"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "It occur at a moderate temperature range of 12-270C",
+                "High soil moisture",
+                "Neutral to acidic soils, pH 5-7."
+            ]
+        }
+    },
+    "White rust": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-braccoli/White%2520rust.png",
+                "alt": "White rust"
+            },
+            "content": [
+                "Pustules coalesce to form irregular patches",
+                "White, shiny raised blisters (pustules) on the lower surfaces of leaves, stems and flowers",
+                "The epidermis ruptures exposing white spore mass which gives the pustule a powdery appearance",
+                "Distortion of the floral parts including petals, pistils and anthers due to hypertrophy and hyperplasia",
+                "Plants are malformed"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary : Oospores in soil and sporangia from perennial weed hosts in the vicinity",
+                "Secondary : Wind borne and rain splashed conidia (sporangia) or autonomous zoospores"
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-braccoli/Downy%2520mildew%2520Disease%2520cycle.png",
+                "alt": "Downy mildew Disease cycle.png"
+            },
+            "content": [
+                "Relative humidity more than 90%",
+                "High soil moisture",
+                "Frequent rains"
+            ]
+        }
+    },
+    "Disease cycles": {
+        "Downy mildew": {
+            "content": [
+                "White rust",
+                "Alternaria leaf spot",
+                "Damping off"
+            ]
+        }
+    }
+}

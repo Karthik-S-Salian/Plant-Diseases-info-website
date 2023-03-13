@@ -1,0 +1,277 @@
+{
+    "Leaf spots": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-strawberry/leaf-spotstest.png",
+                "alt": "Leaf spots"
+            },
+            "content": [
+                "Initially, small, deep purple, round to irregularly shaped spots appear on the upper leaf surface",
+                "These enlarge to between 3\u20136 mm in diameter. They retain a dark red margin, but the centers turn brown, then grey and finally white. Spots may join and kill the leaf",
+                "The fungi also attacks the petioles, stolons, fruit stalks and fruit as shallow black spots."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "infected leaves from current and previous strawberry crops",
+                "Splashing water from rain and overhead irrigation"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Extended wet periods, particularly in late spring"
+            ]
+        }
+    },
+    "Grey mold": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-strawberry/grey-moldtest.png",
+                "alt": "Grey mold"
+            },
+            "content": [
+                "The fungi will attack flowers, fruit, petioles, leaves and stems",
+                "Flowers and fruit stalks infected during flowering die rapidly. Green and ripe fruit develop brown rot",
+                "This spreads over the whole fruit, which becomes covered with masses of dry, greyish spores",
+                "The rot may start on any portion of the fruit, but is found most frequently on the calyx end or on the sides of fruit touching other rotten fruit"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungi over-winters on plant debris and infects flower parts, after which it either rots the fruit or remains inactive until the fruit ripens further. Spores, which are produced continuously throughout the fruiting season, germinate to infect plants",
+                "By wind and splashing water from rain or overhead irrigation"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Low temperature, high humidity and frequent rain"
+            ]
+        }
+    },
+    "Red stele/Red core": {
+        " Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-strawberry/red-stele-red-coretest.png",
+                "alt": "Red stele/Red core"
+            },
+            "content": [
+                "Red stele affected plants become stunted and wilt in dry weather.",
+                "Older leaves turn yellow or red particularly along the margin.",
+                "The symptom that helps to identify red stele is the brick red discoloration in the center (stele) of live white roots.",
+                "The red color may extend the length of the root, or it may show up for only a short distance above the dead root tip.",
+                "This symptom is obvious only during winter and spring.",
+                "The discoloration does not extend into the crown of the plant.",
+                "Infected plants usually die by June or July.",
+                "Growth of the plants will slow down and they will become dull bluish green. In spring the plants will convalesce somewhat.",
+                "An affected plant will form no or only few flowers.",
+                "The small fruits will dry out. The root-hair of the roots is lacking.",
+                "When cutting the main roots, it will appear that the central cylinder has discolored red"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Can be introduced with planting material or from a reserve in the soil from trash from previous crops"
+            ]
+        },
+        " Favourable conditions:": {
+            "content": [
+                "Found in a wide range of climates. The disease prefers poorly drained soils, high temperatures and plants under moisture stress"
+            ]
+        }
+    },
+    "Wilt": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-strawberry/wilttest.png",
+                "alt": "Wilt"
+            },
+            "content": [
+                "Some plants do not recover, and die within a week.",
+                "Plants carrying a large crop will suddenly wilt, usually on a hot day in late spring or summer.",
+                "In surviving plants, older leaves take on a scorched look while younger leaves remain pale in colour and turgid until they also die off.",
+                "Fruit on affected plants do not mature, remain small and have paler appearance."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Soils in which susceptible crops have been grown",
+                "The pathogen can survive in moist soil for many years",
+                "By water, trash from susceptible crops, weeds, root contact between plants, soil and farm machinery"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "A period of stress such as sudden increase in temperature, dry conditions or heavy crop load on plants"
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-strawberry/powdery-mildewtest.png",
+                "alt": "Powdery mildew"
+            },
+            "content": [
+                "An early symptom of the disease is upward curling of the leaf margins.",
+                "This is followed by irregular, purple blotching on the upper leaf surfaces, often along major veins. The leaves feel brittle.",
+                "This disease does not produce the masses of greyish white spores typical of powdery mildew on other crops.",
+                "Powdery mildew can attack fruit at any stage.",
+                "Dull immature and mature berries with prominent planting materials"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Trash from previous and current strawberry crops.",
+                "Wind"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Warm, humid conditions"
+            ]
+        }
+    },
+    "Alternaria spot": {
+        "Disease symptoms: ": {
+            "content": [
+                "Lesions or \"spots\" are more numerous on upper leaf surfaces and appear circular to irregular in shape.",
+                "These lesions often have definite reddish-purple to rusty-brown borders that surround a necrotic area.",
+                "Lesion size and appearance often are influenced by the host variety and the ambient temperature.",
+                "The leaf spots sometimes cause severe problems, often depending on the variety planted.",
+                "Susceptible varieties can be defoliated partly or completely by late summer. In years that are particularly favorable for disease development, they can be severely weakened."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungi overwinter on infected plants, plant debris, and weed hosts.",
+                "In the spring, spores are produced and are discharged by splashing rain into air currents. They then land on and infect new leaves."
+            ]
+        },
+        " Favourable condition: ": {
+            "content": [
+                "It is favoured by warm wet weather"
+            ]
+        }
+    },
+    "Black root rot": {
+        "Disease symptoms ": {
+            "content": [
+                "Normal strawberry roots are white, but naturally turn dark on the surface with age.",
+                "The root system of a plant affected by black root rot is smaller with black lesions or with the roots completely black.",
+                "Such plants become stunted and produce few berries and runners."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Black spot is spread from infected plants and fruit by rain splash, overhead irrigation and on the hands of fruit pickers."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "It is favoured by warm, humid and wet conditions."
+            ]
+        }
+    },
+    "Anthracnose (black spot)": {
+        " Disease symptoms: ": {
+            "content": []
+        },
+        "Leaf spot": {
+            "content": [
+                "Round black or light gray lesions on leaves.",
+                "Numerous spots may develop but leaves do not die."
+            ]
+        },
+        "Runners and petioles": {
+            "content": [
+                "Dark brown or black sunken, circular lesions on stems, petioles and runners",
+                "Plants may be stunted and yellow",
+                "Plants may wilt and collapse",
+                "Internal tissues discolored red"
+            ]
+        },
+        "Crown rot ": {
+            "content": [
+                "Youngest plant leaves wilt during water stress in early afternoon and recover in the evening",
+                "Wilting progresses to entire plant",
+                "Plant death",
+                "Reddish-brown rot or streak visible when crown is cut lengthways."
+            ]
+        },
+        " Bud rot ": {
+            "content": [
+                "Damp, firm dark brown to black rot on buds.",
+                "Plants with single buds may die.",
+                "Plants with multiple crown may wilt as disease progresses."
+            ]
+        },
+        "Flower blight ": {
+            "content": [
+                "Dark lesion extending down pedicel which girdles the stem and kills the flower; flowers dry out and die.",
+                "Infection after pollination may result in small, hard, deformed fruit."
+            ]
+        },
+        " Fruit rot ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-strawberry/anthracnose-black-spottest.png",
+                "alt": "Anthracnose (black spot)"
+            },
+            "content": [
+                "Light brown water-soaked spots on ripening fruit which develop into firm dark brown or black round lesions"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "This is a major disease of strawberries, affecting most parts of the plant.",
+                "It can cause serious losses throughout the season.",
+                "Plants that are planted in infected soil become infected by splashing water and soil",
+                "Fungus survives in soil for up to 9 months."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "It is favoured by warm wet weather"
+            ]
+        }
+    },
+    "Angular leaf spot": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-strawberry/angular-leaf-spottest.png",
+                "alt": "Angular leaf spot"
+            },
+            "content": [
+                "Very small water-soaked lesions on lower surfaces of leaves which enlarge to form dark green or translucent angular spots which ooze bacteria.",
+                "Lesions may coalesce to form reddish spots with a chlorotic halo"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Bacterium survives in crop debris and overwintering plants can survive for long periods on plant debris but cannot live free in soil.",
+                "Bacteria can be spread by splashing water."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Spring season is responsible for the development of diseases."
+            ]
+        }
+    },
+    "Disease cycle:": {
+        "Leaf spot:": {
+            "content": []
+        },
+        "Grey mould": {
+            "content": []
+        },
+        "Red stele/Red core": {
+            "content": []
+        },
+        "Wilt": {
+            "content": []
+        },
+        "Powdery mildew": {
+            "content": []
+        }
+    }
+}

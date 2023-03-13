@@ -1,0 +1,130 @@
+{
+    "Cercospora leaf spot": {
+        "Disease symptoms: ": {
+            "content": [
+                "Moist weather and splashing rains are conducive to disease development. Most outbreaks of the disease can be traced back to heavy rainstorms that occur in the area.",
+                "Infected leaves show small, brown, water soaked, circular spots surrounded with yellowish halo.",
+                "On older plants, the leaflet infection is mostly on older leaves and may cause serious defoliation. The most striking symptoms are on the green fruit.",
+                "Small, water-soaked spotsfirst appear which later become raised and enlarge until they are one-eighth to one-fourth inch in diameter.",
+                "Centres of these lesions become irregular, light brown and slightly sunken with a rough, scabby surface.",
+                "Ripe fruits are not susceptible to the disease. Surface of the seed becomes contaminated with the bacteria, remaining on the seed surface for some time.",
+                "The organism survives in alternate hosts, on volunteer horsegram plants and on infected plant debris."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungus survives on diseased plant debris .Fungus spreads about 3 m through the soil in one season."
+            ]
+        },
+        "Favourable conditions ": {
+            "content": [
+                "Moist weather and splashing rains.",
+                "High humidity or persistent dew"
+            ]
+        }
+    },
+    "Bacterial leaf spot": {
+        "Disease symptoms: ": {
+            "content": [
+                "This is a common disease of horsegram occurring on the foliage at any stage of the growth.",
+                "The pathogen attacks the foliage causing characteristic leaf spots and blight. Early blight is first observed on the plants as small, black lesions mostly on the older foliage.",
+                "Spots enlarge, and by the time they are one-fourth inch in diameter or larger, concentric rings in a bull's eye pattern can be seen in the center of the diseased area.",
+                "Tissue surrounding the spots may turn yellow. If high temperature and humidity occur at this time, much of the foliage is killed.",
+                "Lesions on the stems are similar to those on leaves, sometimes girdling the plant if they occur near the soil line."
+            ]
+        },
+        "Survival and spread ": {
+            "content": [
+                "The bacterium is seed-borne"
+            ]
+        },
+        "Favourable conditions ": {
+            "content": [
+                "Rain splashes play an important role in the development and spreadof the disease.",
+                "Warm, rainy and wet weather is congenial"
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptoms: ": {
+            "content": [
+                "Symptoms are circular, black, sunken spots with dark center and bright red orange margins on leaves and pods",
+                "In severe infections, the affected parts wither off.",
+                "Seedlings get blighted due to infection soon after seed germination."
+            ]
+        },
+        "Survival and spread ": {
+            "content": [
+                "The pathogens survive on seed and plant debris",
+                "Disease spreads in the field through air-borne conidia"
+            ]
+        },
+        "Favourable conditions ": {
+            "content": [
+                "The disease is more severe in cool and wet seasons."
+            ]
+        }
+    },
+    "Root rot": {
+        "Disease symptoms: ": {
+            "content": [
+                "The pathogens cause seed decay, root rot, damping-off, seedling blight, stem canker and leaf blight in horsegram",
+                "The disease occurs commonly at pod development stage",
+                "The affected leaves turn yellow in colour and brown irregular lesions appear on leaves.",
+                "Roots and basal portion of the stem become black in colour and the bark peels off easily.",
+                "When the tap root of the affected plant is split open, reddening of internal tissues is visible."
+            ]
+        },
+        "Survival and spread ": {
+            "content": [
+                "Species are saprotrophic, occurring in the soil which is the source of primary infection.",
+                "Secondary infection occurs by means of asexual spores."
+            ]
+        },
+        "Favourable conditions ": {
+            "content": [
+                "Moist soil and humid conditions favour the development of disease."
+            ]
+        }
+    },
+    "Mosaic complex": {
+        "Disease symptoms: ": {
+            "content": [
+                "Initially mild scattered yellow spots appear on young leaves",
+                "The next trifoliate leaves emerging from the growing apexshow irregular yellow and green patches alternating with each other",
+                "Spots gradually increase in size and ultimately some leaves turn completely yellow",
+                "Infected leaves also show necrotic symptoms.",
+                "Diseased plants are stunted, mature late and produce very few flowers and pods",
+                "Pods of infected plants are reduced in size and turn yellow in colour."
+            ]
+        },
+        "Transmission and Favourable conditions ": {
+            "content": [
+                "The disease is transmitted in semi persistent manner by aphids and whiteflies.",
+                "Aphids are more active in warm summer conditions and increased their population as well as spread the viruses ."
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms: ": {
+            "content": [
+                "White powdery patches appear on leaves and other green parts which later become dull coloured",
+                "These patches gradually increase in size and become circular covering the lower surface Also. 30",
+                "When the infection is severe, both the surfaces of the leaves are completely covered by whitish powdery growth.",
+                "In severe infections, foliage becomes yellow causing premature defoliation.",
+                "The disease also creates forced maturity of the infected plants which results in heavy yield losses."
+            ]
+        },
+        "Survival and spread ": {
+            "content": [
+                "The pathogen has a wide host range and survives in oidial form on various hosts in offseason",
+                "Secondary spread is through air-borne oidia produced in the season."
+            ]
+        },
+        "Favourable conditions ": {
+            "content": [
+                "Dry and moist weather (90% RH) favours disease development"
+            ]
+        }
+    }
+}

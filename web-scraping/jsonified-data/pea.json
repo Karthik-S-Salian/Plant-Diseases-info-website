@@ -1,0 +1,249 @@
+{
+    "Downy mildew": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Downy%2520mildew.png",
+                "alt": "Downy mildew"
+            },
+            "content": [
+                "A grayish white, moldy growth appears on the lower leaf surface, and a yellowish area appears on the opposite side of the leaf.",
+                "Infected leaves can turn yellow and die if weather is cool and damp.",
+                "Stems may be distorted and stunted.",
+                "Brown blotches appear on pods, and mold may grow inside pods."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity and low temperatures (5- 15\u00b0C) for few days are ideal for infection and development of disease."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Primary infection by soil, seed and water Secondary infection by sporangia through rain splash or wind"
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Powdery%2520mildew.png",
+                "alt": "Powdery mildew"
+            },
+            "content": [
+                "It attacks leaves first producing faint, slightly discolored specks from which grayish white powdery growth of mycelium develop.",
+                "Powdery growth spread over leaf, stem and pod.",
+                "The leaves turn yellow and die.",
+                "The fruits do not either set or remain very small.",
+                "It causes defoliation.",
+                "Later stages, powdery growth also covers the pods."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Powdery mildew spores are carried by air and once active, will continue to spread in dry conditions."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Warm (temperature 15-25\u00b0C), humid (over 70% relative humidity) conditions for 4-5 days late in the growing season, during flowering and pod filling, favour disease development"
+            ]
+        }
+    },
+    "Pea rust": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Pea%2520rust.png",
+                "alt": "Pea rust"
+            },
+            "content": [
+                "Leaves of infected plants exhibit many small, orange-brown pustules usually at the lower surface.",
+                "Severely infected leaves wither and may drop from the plant.",
+                "Larger pustules occur on the stems and isolated pustules may be found on the pods.",
+                "Severe infection may result in reduced seed size and may cause yield losses of up to 30%,"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Euphorbia and infected vegetation residues are sources of the infection.",
+                "The agent is not transferred by seeds."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Frequent precipitations, plentiful dews and air temperature of 20-25\u00b0Cpromote development.",
+                "Dry and hot weather restrains the disease development"
+            ]
+        }
+    },
+    "Ascochyta blight": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Ascochyta%2520blight.png",
+                "alt": "Ascochyta blight"
+            },
+            "content": [
+                "Early symptoms are most commonly observed under the plant canopy, on lower leaves, stems, and tendrils, where conditions are more humid.",
+                "Symptoms first appear as small, purplish-brown and irregular flecks.",
+                "Under continued humid conditions, the flecks enlarge and coalesce, resulting the lower leaves becoming completely blighted.",
+                "Severe infections may lead to girdling of the stem near the soil line, which is known as foot rot.",
+                "Foot rot lesions are purplish-black in colour and may extend above and below the soil line.",
+                "Foot and stem lesions girdle and weaken the stem, leading to crop lodging and yield loss.",
+                "Disease lesions develop on pods under prolonged moist conditions or if the crop has lodged.",
+                "Pod lesions are initially small and dark, but may become extensive and lead to early pod senescence.",
+                "Severe pod infection may result in small, shrunken or discoloured seed; or alternatively, seed may show no symptoms"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Ascospores carried long distances by wind.",
+                "The asexual conidia travel short distances to new hosts via water splashes from rain.",
+                "Infection originates from diseased seed or from spores growing on debris in the soil near pea plants."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Favorable conditions are warm humid conditions with a temperature is about 15o C to 25o C."
+            ]
+        }
+    },
+    "White rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/White%2520rot.png",
+                "alt": "White rot"
+            },
+            "content": [
+                "The infection may occur at any part of the foliage, mainly the stem or branches.",
+                "The maximum infection develops at the flowering stage of the crop, when petals fall on ground and these catch infection immediately and mycelial growth of fungus invades the stem and branches.",
+                "At the point of infection, a dry discolored spot develops.",
+                "It gradually girdles the entire stem and also progresses up and down.",
+                "As a result of tissue necrosis, the portion of the plant beyond the point of infection wilts",
+                "If the infection is at the base of the main stem, the entire plant wilts.",
+                "If it occurs on branches, partial wilting occurs.",
+                "The diseased tissues become whitish and may be shredded"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The infection caused by hard sclerotia left in soil or in plant debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "When adequate moisture is available and temperature ranges between 4 and 20\u00b0C. However, light is essential for stimulation of apothecial production."
+            ]
+        }
+    },
+    "Root rot": {
+        "Damage symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Root%2520rot.png",
+                "alt": "Root rot"
+            },
+            "content": [
+                "Reddish brown to black streaks appear on primary and secondary roots.",
+                "These streaks coalesce at later stages, leading to girdling of lower stem.",
+                "Red discoloration of the vascular system can be seen, especially near cotyledon attachment.",
+                "Stunted growth, yellowing and necrosis appear on the basal foliage"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary infection by soil, seed and water",
+                "Secondary infection by conidia through rain splash or wind"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Cool, wet weather conditions.",
+                "Favourable conditions are higher soil temperatures 25\u00b0 to 30\u00b0C and moderate soil moisture"
+            ]
+        }
+    },
+    "Wilt": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Wilt.png",
+                "alt": "Wilt"
+            },
+            "content": [
+                "Symptom of the disease is more pronounced in 3 to 5 week old plants. In young seedlings, cotyledons droop and wither.",
+                "Yellowing of lower leaves and stunting of plants.",
+                "The xylem vessels develop brown discoloration and get distorted.",
+                "Leaflet margins curl downward and inward.",
+                "The stem may be slightly swollen and brittle near the soil.",
+                "Internal woody stem tissue often is discolored, turning lemon brown to orange brown.",
+                "Externally, the root system appears healthy; however, secondary root rots are likely to occur on plants wilted for long periods.",
+                "Eventually, wilted plants may die."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Primary infection by Soil, Seed, Water",
+                "Secondary infection by Conidia through rain splash."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "A soil temperature of 23\u00b0 to 27\u00b0C is most favourable for Fusarium wilt.",
+                "Hot weather and warm soils."
+            ]
+        }
+    },
+    "Root knot nematodes": {
+        "Damage symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Root%2520knot%2520nematode%2520Damage%2520symptoms.png",
+                "alt": "Root knot nematodes"
+            },
+            "content": [
+                "Root-knot nematode feed on tender roots and base of pseudostem causing stunting, chlorosis, poor tillering and necrosis of leaves are the common aerial symptoms.",
+                "Characteristic root galls and lesions that lead to rotting are generally seen in roots.",
+                "The infested roots have brown, water soaked areas in the outer tissues.",
+                "Nematode infestation aggravates root rot disease"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Nematodes survive in soil and infected roots as primary inoculums.",
+                "Therefore, tissues from infected crops remaining in the field serve as a reservoir of the fungus.",
+                "It spreads from infected plants or through soil."
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/Downy%2520mildew1.png",
+                "alt": "Life cycles of diseases"
+            },
+            "content": [
+                "Warm, moist soil are favourable conditions"
+            ]
+        }
+    },
+    "Life cycles of diseases": {
+        "Downy mildew": {
+            "content": []
+        },
+        "Powdery mildew": {
+            "content": []
+        },
+        "Pea rust": {
+            "content": []
+        },
+        "Root rot": {
+            "content": []
+        },
+        "Ascochyta blight": {
+            "content": []
+        },
+        "White rot": {
+            "content": []
+        },
+        "Fusarium wilt": {
+            "content": []
+        },
+        "Root knot nematode": {
+            "content": []
+        }
+    }
+}

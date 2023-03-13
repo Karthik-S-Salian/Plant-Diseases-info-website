@@ -1,0 +1,131 @@
+{
+    "Root rot, collar rot and crown rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/kiwi-root-rot-collar-rot-and-crown-rottest.png",
+                "alt": "Root rot, collar rot and crown rot"
+            },
+            "content": [
+                "Reduced shoot growth. Leaves are small and chlorotic.",
+                "Vines may collapse suddenly or show a gradual decline in productivity over several seasons.",
+                "Red-brown discoloration of roots and root crowns which is visible when root is cut in two."
+            ]
+        },
+        "Survival and Spread": {
+            "content": [
+                "The pathogen survives as oospores on the affected plant tissues in soil and on weed hosts."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Atmospheric temperature in the range of 10-20 \u00b0C and relative humidity 90% favours disease development."
+            ]
+        }
+    },
+    "Bacterial leaf spot and blossom blight": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/kiwi-bacterial-leaf-spot-and-blossom-blighttest.png",
+                "alt": "Bacterial leaf spot and blossom blight"
+            },
+            "content": [
+                "Symptoms include angular shaped spots, often associated with a halo, although not all leaf spots clearly exhibit the halo, brown discolouration of buds and, in advanced stages of infection, the leakage of red-rusty gum. Not all symptoms appear at the same time."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Disease is spread via windborne pollen, strong winds and heavy rainfalls. It is also believed to be spread by footwear, vehicles and orchard tools, animals and humans."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Favourable conditions are cool temperatures, persistent rains and high humidity. It temperature sensitive and active between 10 to 20 degrees."
+            ]
+        }
+    },
+    "Fungal Leaf spot": {
+        "Disease symptoms": {
+            "content": [
+                "Vines may completely collapse; white mycelial mats may be present under bark close to the soil line; cortical tissue has a dark discoloration and white mycelial strands are present; rootlike rhizomorphs extend from roots into soil."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungal pathogen survives on diseased wood and roots below ground for many years"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Disease emergence favored by continually damp soil"
+            ]
+        }
+    },
+    "Storage Rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/kiwi-storage-rottest.png",
+                "alt": "Storage Rot"
+            },
+            "content": [
+                "Symptoms of decay and signs of the pathogen develop as shriveled fruit that may have gray fungal growth mostly at the stem end and occasionally around the sepals or over the entire surface of the fruit. Diseased internal fruit tissues appear water-soaked and dark green. In advanced stages of the disease black, irregular-shaped sclerotia of the fungus up to about 0.2 inch (5 mm) in diameter may form on the infected fruit."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "This disease is more severe when rainy weather occurs during bloom or especially at harvest."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The pathogen requires wetness for spore germination and infection."
+            ]
+        }
+    },
+    "Rhizoctonia stem Rot": {
+        "Disease symptoms": {
+            "content": [
+                "The pathogen causes a reddish brown dry cortical root rot that may extend into the base of the stem. Later in the season, infections at the base of the plant (cortical rot) may result in plants snapping off during high winds. Foliar symptoms yellowing or wilting of leaves."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogen survives on infected crop debris and soil which are source of primary inoculums."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease is more prevalent during rainy season.",
+                "High soil moisture and moderate temperature along with high humidity leads to the development of the disease."
+            ]
+        }
+    },
+    "Sclerotinia rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/kiwi-sclerotinia-rottest.png",
+                "alt": "Sclerotinia rot"
+            },
+            "content": [
+                "Fluffy white cottony fungal growth is seen on infected area.",
+                "Infected fruit and stem first appear water soaked.",
+                "Small hard black fungal structures known as sclerotia eventually develop embedded in the cottony mold.",
+                "Fruits are often infected through the blossom end and became rotted and watery sclerotia may be inside these rotted fruits."
+            ]
+        },
+        "Survival and Spread": {
+            "content": [
+                "The pathogen survives as mycelium in dead or live plants and as sclerotia in infected plant parts or on the soil surface or with seed as contaminant."
+            ]
+        },
+        "Favourable conditions": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/kiwi-disease-cycle-root-rot-collar-rot-and-crown-rottest.png",
+                "alt": "Disease cycles"
+            },
+            "content": [
+                "High humidity (90-95%) and average temperature (18-25 oC) along with wind current favours the disease development."
+            ]
+        }
+    },
+    "Disease cycles": {}
+}

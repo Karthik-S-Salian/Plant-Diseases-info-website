@@ -1,0 +1,89 @@
+{
+    "Bacterial leaf and fruit spot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/pomegranate-bacterial-leaf-and-fruit-spottest.png",
+                "alt": "Pomegranate Bacterial leaf and fruit spot"
+            },
+            "content": [
+                "Appearance of one to several small water soaked, dark colored irregular spots on leaves resulting in premature defoliation under severe cases.",
+                "The pathogen also infects stem and branches causing girdling and cracking symptoms.",
+                "Spots on fruits were dark brown irregular slightly raised with oily appearance, which split open with L-shaped cracks under severe cases."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary source of inoculum is Infected cuttings",
+                "Secondary source of inoculum spreads through Wind splashed rains."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "The increase in day temperature (38.6\u00b0C) and afternoon relative humidity of 30.4% along with cloudy weather and intermittent rainfall favored the disease initiation and further spread of the disease."
+            ]
+        }
+    },
+    "Leaf and fruit spot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/pomegranate-leaf-and-fruit-spottest.png",
+                "alt": "Pomegranate Leaf and fruit spot"
+            },
+            "content": [
+                "Leaf spots are minute, brown with yellow halo.",
+                "Spots are scattered, circular or irregular and become dark brown with age.",
+                "Spots on lower side are sunken with clusters of spore bearing structures hence greyish in colour.",
+                "Minute, circular, black spots appear on sepals of the flower.",
+                "Fruit spots are black, minute and circular on rind.",
+                "When grow old, become large, irregularly circular and depressed presenting an ugly look to the fruits."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Optimum temperature is 25-32\u00b0C with night temperatures above 16\u00b0C, and a relative humidity of 90-95%."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary spread : Diseased plant debris",
+                "Secondary spread : Wind borne conidia"
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease Symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/pomegranate-anthracnosetest.png",
+                "alt": "Pomegranate Anthracnose "
+            },
+            "content": [
+                "Small, regular to irregular black spots on leaves, calyx region and fruits which turn later on as dark brown depressed spots.",
+                "Infected leaves turn yellow and drop off."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary source of inoculum:  Infected leaves",
+                "Secondary source of inoculum:  windborne conidia."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "The disease is severe during August-September when there is high humidity, and the temperature\u00a0 between 20-27\u00baC."
+            ]
+        }
+    },
+    "Fusarium wilt": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/pomegranate-fusarium-wilttest.png",
+                "alt": "Pomegranate Fusarium wilt "
+            },
+            "content": [
+                "Affected plants show yellowing of leaves in some twigs or branches, followed by drooping and drying of leaves.",
+                "The entire tree dies in few months or a year.",
+                "When affected tree is cut open lengthwise or cross-section dark grayish-brown discolouration of wood is seen."
+            ]
+        }
+    }
+}

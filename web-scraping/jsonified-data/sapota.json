@@ -1,0 +1,38 @@
+{
+    "Leaf spot": {
+        "Disease symptom:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-sapota/Leaf%2520spot.png",
+                "alt": "Leaf spot"
+            },
+            "content": [
+                "Numerous, small, circular, pinkish to reddish brown, conspicuous spots are seen with whitish center on mature leaves. Spots coalesce and leaves drop prematurely."
+            ]
+        }
+    },
+    "Sooty mould": {
+        "Disease symptom:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-sapota/Sooty%2520mould.png",
+                "alt": "Sooty mould"
+            },
+            "content": [
+                "The fungus slowly covers the entire leaf area severely affecting the process of photosynthesis.",
+                "It is a fungal disease developed on honeydew-like excretion secreted by aphids and scale insects.",
+                "This results in reduced translocation of food to the fruits, which leads to reduction in their size."
+            ]
+        }
+    },
+    "Fasiation": {
+        "Disease symptom:": {
+            "content": [
+                "Branches of affected trees become flat and twisted",
+                "Leaves become thin, small and yellow",
+                "Cluster of leaves and flowers on affected twigs",
+                "Flowers remain infertile",
+                "If fruits are set, they are undersized, hard and fail to ripen"
+            ]
+        }
+    },
+    "Postharvest Diseases": {}
+}

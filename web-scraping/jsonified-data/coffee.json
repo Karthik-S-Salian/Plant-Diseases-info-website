@@ -1,0 +1,171 @@
+{
+    "Coffee leaf rust": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-coffee/coffee-leaf-rusttest.png",
+                "alt": " Coffee leaf rust"
+            },
+            "content": [
+                "Infection occurs on the coffee leaves.",
+                "The first observable symptoms are small, pale yellow spots on the upper surface of the leaves.",
+                "As these spots gradually increase in diameter, mass of orange urediniospores (= uredospores) appear on the undersurface.",
+                "The fungus sporulates through the stomata rather than breaking through the epidermis as most rusts do, so it does not form the pustules typical of many rusts.",
+                "The powdery lesions on the underside of the leaves can be orange-yellow to red-orange in color, and this colour expression has considerable variation from one region to another."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Hemileia vastatrix survives primarily as mycelium in the living tissues of the host, and since infected leaves drop prematurely; this effectively removes a huge amount of potential inoculum from the epidemic.",
+                "But a few green leaves always persist through the dry season, and dry urediniospores can survive about 6 weeks, so there is always some viable inoculum to infect the newly formed leaves at the start of the next rainy season."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Rain or dew, high humidity. The whole process of infection requires about 24 to 48 hours of continuous free moisture, so while heavy dew is enough to stimulate urediniospore germination, infection usually occurs only during the rainy season."
+            ]
+        }
+    },
+    "Brown eye spot disease": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-coffee/brown-eye-spot-diseasetest.png",
+                "alt": "Brown eye spot disease"
+            },
+            "content": [
+                "Symptoms appear as small, chlorotic spots on leaves that expand to 3/16 to 5/8 inch in diameter.",
+                "The outer portion of the leaf spot becomes brown, and the center appear grey.",
+                "The eye-like appearance of the infected spot distinguishes it from other leaf spot diseases.",
+                "Affected leaves may defoliate prematurely."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogen survives in leaf debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity, rain, warm temperatures and drought, stress after flowering favours the disease."
+            ]
+        }
+    },
+    "Damping off /Collar rot": {
+        "Damage symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-coffee/damping-off-collar-rottest.png",
+                "alt": "Damping off Collar rot"
+            },
+            "content": [
+                "The fungus causes pre-emergence and post emergence damping off.",
+                "In post-mergence damping off, collar region near soil level is infected leading the rotting of tissues and death of seedlings."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogen survives in the soil in the form of sclerotia which is the source of primary inoculum. The pathogen is dispersed as sclerotia, and these sclerotia dispersal occur by means of wind, water or soil movement between host plants."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Presence of host plant, frequent rainfall/irrigation and increased temperatures in spring and summer favours the development of disease."
+            ]
+        }
+    },
+    "Black rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-coffee/black-rottest.png",
+                "alt": "Black rot"
+            },
+            "content": [
+                "The most important symptom is dark brown or black decaying leaves, twigs and developing berries from which the name black rot is derived",
+                "The leaves hang down by means of fungal mycelial strands \u2013 mycelial threads can be seen on twigs and petioles",
+                "Sclerotia can be seen all over the affected areas. Infection leads to defoliation and berry drop."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus mostly spreads by contact from leaf to leaf through the vegetative mycelium.",
+                "The pathogen spread through infected plant debris.",
+                "Mycelium lies on twigs throughout year."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity, rain and warm temperatures favour the disease."
+            ]
+        }
+    },
+    "Berry blotch": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-coffee/berry-blotchtest.png",
+                "alt": "Berry blotch"
+            },
+            "content": [
+                "Necrotic spots on the exposed surface of green berries enlarge and cover the major portion. Fruit skin shrivels and sticks fast to the parchment."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen is seed borne and conidia are spread by wind."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity, rain and warm temperatures favours the disease."
+            ]
+        }
+    },
+    "Die back or Anthranose": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-coffee/die-back-or-anthranosetest.png",
+                "alt": "Die back or Anthranose"
+            },
+            "content": [
+                "On infected leaves circular to greyish spots of 2-3 mm in dia. appears.",
+                "On berries small dark coloured sunken spots are formed. Beans become brown. Die-back also occurs."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus occurs as a saprophyte on dead tissue on the outer layer of the bark, which provides the major source of inoculum.",
+                "Fungus release large numbers of water borne conidia during the wet season.",
+                "Conidia are spread by rain water percolating through the canopy and rain splash can disperse conidia between trees.",
+                "Long distance dispersal occurs primarily by the carriage of conidia on passive vectors such as birds, machinery etc."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity, rain and warm temperatures favors the disease."
+            ]
+        }
+    },
+    "Root Diseases": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-coffee/root-diseases/@@images/2aafcf57-5a65-4e98-aa9e-f68afd9c3e47.png",
+                "alt": "Root Diseases"
+            },
+            "content": [
+                "Stump or brown root disease: Affected bushes show a gradualyellowing of leaves and defoliation and death of plant.",
+                "Affected roots are brittle and show dark brown wavy lines of the fungus.",
+                "Red root disease: Affected bushes show a gradual yellowing of leaves and defoliation and death of plant",
+                "Affected roots show dark red encrustation of the fungal mycelium. When the root is washed with water red colour of fungus mycelium could be confirmed.",
+                "Fusarial root disease or wilt: Affected plants show sudden wilting and yellowing of leaves leading to defoliation and death of aerial parts.",
+                "Roots turn brown to pinkish."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in soil or plant debris, which is the source of primary inoculum."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease is favoured by cool and moist soils"
+            ]
+        }
+    }
+}

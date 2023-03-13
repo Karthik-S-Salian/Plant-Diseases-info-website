@@ -1,0 +1,17 @@
+{
+    "Fungi associated diseases": {},
+    "Nematodes associated diseases": {
+        "Damage symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-pineapple/Nematodes.jpg",
+                "alt": "Nematodes associated diseases"
+            },
+            "content": [
+                "Root-knot nematodes produce distinct terminal swellings on the roots, stopping further root development. The root lesion nematode invades the outer root tissues, causing black areas (lesions) of dead or injured plant cells on the root surface.",
+                "These lesions can completely encircle the root. Reniform nematodes reduce the number of lateral and fine feeder roots; the remainder elongate normally so that plants retain good soil anchorage. Root-knot nematodes cause stunting, yellowing and dieback of plants."
+            ]
+        }
+    },
+    "Bacteria and phytoplasmas associated diseases": {},
+    "Virus associated diseases": {}
+}

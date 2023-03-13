@@ -1,0 +1,89 @@
+{
+    "Wilt": {
+        "Disease symptoms:": {
+            "content": [
+                "Disease produces wilting symptoms at seedling and later stage of plant growth",
+                "Brownish discolouration of vascular bundles is seen when stem is cut longitudinal."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungus is both soil- and seed-borne and survives as saprophyte in infected plant debris as a mycelium and chlamydospores.",
+                "It spreads short distances by irrigation water, rains splash, wind, and through inter-cultural operations.",
+                "After the plant dies the fungus invades all tissues, sporulates, and continues to infect neighbouring plants."
+            ]
+        },
+        "Favourable condition:": {
+            "content": [
+                "Soil temperature is between 12.5\u00b0 C and 14\u00b0 C"
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms:": {
+            "content": [
+                "The crop is usually attacked by disease at flowering stage in cloudy weather during February-March.",
+                "The powdery growth usually develops first on leaves which later can cover all succulent stems and branches including flowers.",
+                "In severe case seed development may not take place."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Disease is both soil and seed borne.",
+                "Primary spread is through soil and seed, the secondary spread takes place by dispersal of conidia through wind, rain splashes"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Cool high humid weather (20-25\u00b0 C) or cloudy weather with high relative humidity (RH) > 80% favours conidial germination and disease development."
+            ]
+        }
+    },
+    "Alternaria blight": {
+        "Disease symptoms:": {
+            "content": [
+                "Disease appears during warm humid weather in the epidemic form at flowering stage and seed cannot mature to full size.",
+                "Seeds become shriveled and are easily blown away during winnowing.",
+                "Early sown crop gets high intensity of disease and produces unmarketable seed."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Fungus overwinters as dormant mycelium in diseased and partly decayed crop refuse, in weeds of the cucurbit family and possibly in the soil. Fungus conidia can survive under warm, dry conditions for several months.",
+                "Pathogen dispersed by air, clothing, tools and other equipment, running and splashing water are other means of spread.",
+                "The germinating spores penetrate susceptible tissue directly or through wounds and soon produce a new crop of conidia that are further spread by wind, splashing rain, tools, or workers."
+            ]
+        },
+        "Favorable conditions:": {
+            "content": [
+                "Disease becomes widespread in wet weather with temperature ranging from 20-32\u00b0 C accompanied by high humidity and cloudy weather."
+            ]
+        }
+    },
+    "Damping off": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-cumin/Dammingoffimg.jpg",
+                "alt": "Damping off"
+            },
+            "content": [
+                "Damping off occurs in two stages, i.e. the pre-emergence and the post-emergence phase.",
+                "In the pre-emergence phase seeds get rotted and the seedlings are killed just before they reach the soil surface.",
+                "Once the seedling emerges out of soil line a soft water soaked lesion appears near the collar region causes constriction and results in toppling over of the seedlings.",
+                "The young radical and the plumule are killed and there is complete rotting of the seedlings."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Disease is soil borne",
+                "Primary spread of pathogen is through soil, water and the secondary spread of conidia spread through rain splash and wind"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High humidity, high soil moisture, high dose of nitrogenous fertilizers, cloudiness and low temperatures below 24\u00b0 C for few days are ideal for infection and development of disease.",
+                "Crowded seedlings, dampness due to high rainfall ill-drained soil conditions and excess of soil solutes hamper plant growth and increase the pathogenic damping-off ."
+            ]
+        }
+    }
+}

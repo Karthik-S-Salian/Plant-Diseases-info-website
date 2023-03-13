@@ -1,0 +1,192 @@
+{
+    "Cercospora leaf spot": {
+        "Disease symptoms": {
+            "content": [
+                "Moist weather and splattering rains are conducive to disease development. Most outbreaks of the disease can be traced back to heavy rainstorms that occur in the area.",
+                "Infected leaves show small, brown, water soaked, circular spots surrounded with yellowish halo.",
+                "On older plants the leaflet infection is mostly on older leaves and may cause serious defoliation. The most striking symptoms are on the green fruit. Small water-soaked spots.",
+                "First appear which later become raised and enlarge until they are one-eighth to one-fourth inch in diameter.",
+                "Centres of these lesions become irregular, light brown and slightly sunken with a rough, scabby surface.",
+                "Ripe fruits are not susceptible to the disease. Surface of the seed becomes contaminated with the bacteria, remaining on the seed surface for some time.",
+                "The organism survives in alternate hosts, on volunteer black gram plants and on infected plant debris."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus is soil borne on diseased plant debris and it survives only on the tissues which it colonizes as a parasite.",
+                "Fungus spreads abort 3 m through the soil in one season, apparently along roots.",
+                "The fungus was found to survive in infected plant stubble for 2.5 in vertisols and 3 years in alfisols."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Moist weather and splattering rains",
+                "High humidity or persistent dew"
+            ]
+        }
+    },
+    "Bacterial leaf blight": {
+        "Disease symptoms": {
+            "content": [
+                "This is a common disease of blackgram occurring on the foliage at any stage of the growth.",
+                "The fungus attacks the foliage causing characteristic leaf spots and blight. Early blight is first observed on the plants as small, black lesions mostly on the older foliage.",
+                "Spots enlarge, and by the time they are one-fourth inch in diameter or larger, concentric rings in a bull\u2019s eye pattern can be seen in the center of the diseased area.",
+                "Tissue surrounding the spots may turn yellow. If high temperature and humidity occur at this time, much of the foliage is killed.",
+                "Lesions on the stems are similar to those on leaves, sometimes girdling the plant if they occur near the soil line.",
+                "Transplants showing infection by the late blight fungus often die when set in the field. The fungus also infects the fruit, generally through the calyx or stem attachment. Lesions attain considerable size, usually involving nearly the entire fruit; concentric rings are also present on the fruit."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The bacterium is seed-borne and through vines grows perennially."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Rain splashes play an important role in the development and spreading of the disease.",
+                "Warm, rainy and wet weather."
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptoms": {
+            "content": [
+                "Symptoms are circular, black, sunken spots with dark center and bright red orange margins on leaves and pods",
+                "In severe infections, the affected parts wither off.",
+                "Seedlings get blighted due to infection soon after seed germination."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The pathogens survive on seed and plant debris",
+                "Disease spreads in the field through air-borne conidia"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "The disease is more sever in cool and wet seasons."
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms": {
+            "content": [
+                "White powdery patches appear on leaves and other green parts which later become dull coloured",
+                "These patches gradually increase in size and become circular covering the lower surface also",
+                "When the infection is severe, both the surfaces of the leaves are completely covered by whitish powdery growth",
+                "In severe infections, foliage becomes yellow causing premature defoliation",
+                "The disease also creates forced maturity of the infected plants which results in heavy yield losses."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen has a wide host range and survives in conidial form on various hosts in off -season",
+                "Secondary spread is through air-borne conidia produced in the season."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Cool (10-20 \u00baC) and wet weather (90% RH) favours disease development."
+            ]
+        }
+    },
+    "Root rot and leaf blight": {
+        "Disease symptoms": {
+            "content": [
+                "The pathogens cause seed decay, root rot, damping-off, and seedling blight, stem canker and leaf blight in greengram",
+                "The disease occurs commonly at pod development stage",
+                "In the initial stages, the fungus causes seed rot, seedling blight and root rot symptoms.",
+                "The affected leaves turn yellow in colour and brown irregular lesions appear on leaves.",
+                "On coalescence of such lesions, big blotches are formed and the affected leaves start drying prematurely.",
+                "Roots and basal portion of the stem become black in colour and the bark peels off easily.",
+                "When the tap root of the affected plant is split open, reddening of internal tissues is visible."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Species are saprotrophic, occurring in the soil which is the source of primary infection.",
+                "Secondary infection occurs by means of asexual spores."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Moist soil and humid conditions favour the development of disease."
+            ]
+        }
+    },
+    "Rust": {
+        "Disease symptoms": {
+            "content": [
+                "The disease appears as circular reddish brown pustules which appear more commonly on the underside of the leaves",
+                "When leaves are severely infected, both the surfaces are fully covered by rust pustules",
+                "Shrivelling followed by defoliation resulting in yield losses."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives in the soil through teliospores and as uredospores in crop debris. Primary infection is by the sporidia developed from teliospores. Secondary spread is by wind-borne uredospores. The fungus also survives on other legume hosts."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Cloudy humid weather, temperature of 21-26\u02da C",
+                "Nights with heavy dews"
+            ]
+        }
+    },
+    "Stem canker and Macrophomina blight": {
+        "Disease symptoms": {
+            "content": [
+                "In rice fallows, symptoms appear on 4 weeks old blackgram crop as raised white cankers at the base of the stem",
+                "These enlarge gradually and turn as raised brown streaks spreading upwards",
+                "Plants are stunted and leaves dark green, mottled and reduced in size",
+                "Normal leaves on the affected plants drop suddenly and dry",
+                "Flowering and podding is greatly reduced."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogens survive in soil and plant debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Warm humid weather",
+                "The disease is severe generally during late Kharif and Rabi seasons."
+            ]
+        }
+    },
+    "Yellow mosaic disease": {
+        "Disease symptoms": {
+            "content": [
+                "Initially mild scattered yellow spots appear on young leaves",
+                "The next trifoliate leaves emerging from the growing apex show irregular yellow and green patches alternating with each other",
+                "Spots gradually increase in size and ultimately some leaves turn completely yellow",
+                "Infected leaves also show necrotic symptoms.",
+                "Diseased plants are stunted, mature late and produce very few flowers and pods",
+                "Pods of infected plants are reduced in size and turn yellow in colour."
+            ]
+        },
+        "Transmission and favourable conditions": {
+            "content": [
+                "The disease is transmitted in semi persistent manner by aphid Aphis gossypii.",
+                "Aphids are more active in warm summer conditions and increase in their population leads to increased spread of the viruses."
+            ]
+        }
+    },
+    "Leaf crinkle": {
+        "Disease symptoms": {
+            "content": [
+                "The symptoms appear on youngest leaves as chlorosis around some lateral veins and its branches near the margin",
+                "The leaves show curling of margin downwards",
+                "The veins show reddish brown discoloration on the under surface which also extends to the petiole",
+                "Plants showing symptoms within 5 weeks after sowing invariably remain stunted and majority of these die due to top necrosis within a week or two."
+            ]
+        },
+        "Transmission and favourable conditions": {
+            "content": [
+                "Virus is transmitted by Henosepilachnadodeca stigma. The disease develops in the fields mainly through seed or rubbing of diseased leaves"
+            ]
+        }
+    }
+}

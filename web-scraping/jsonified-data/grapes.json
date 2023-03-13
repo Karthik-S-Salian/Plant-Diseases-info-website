@@ -1,0 +1,335 @@
+{
+    "Downy mildew": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Downymildew.jpg",
+                "alt": "Downy mildew"
+            },
+            "content": [
+                "The fungus is an obligate pathogen which can attack all green parts of the vine.",
+                "Symptoms of this disease are frequently confused with those of powdery mildew. Infected leaves develop pale yellow-green lesions which gradually turn brown. Severely infected leaves often drop prematurely.",
+                "Infected petioles, tendrils, and shoots often curl, develop a shepherd's crook, and eventually turn brown and die.",
+                "Young berries are highly susceptible to infection and are often covered with white fruiting structures of the fungus. Infected older berries of white cultivars may turn dull gray-green, whereas those of black cultivars turn pinkish red."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus overwinters mainly in the fallen leaves which are the source of primary infection. Secondary infection occurs by motile zoospores by splashing rain."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The most serious outbreaks have been found to occur when a wet winter is followed by a wet spring and a warm summer with intermittent rains"
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Powderymildew.jpg",
+                "alt": "Powdery mildew"
+            },
+            "content": [
+                "Powdery mildew, caused by the fungus Uncinulanecator, can infect all green tissues of the grapevine.",
+                "Tissues are generally susceptible to infection throughout the growing season.",
+                "Diseased leaves appear whitish gray, dusty, or have a powdery white appearance. Petioles, cluster stems, and green shoots often look distorted or stunted. Berries can be infected until their sugar content reaches about 8%.",
+                "If infected when young, the epidermis of the berry can split and the berries dry up or rot. When older berries are infected, a netlike pattern often develops on the surface of the berry."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The powdery mildew fungus overwinters in dormant buds or as specialized structures on the surface of the vines. When conditions are favorable for growth of the fungus in spring, spores are produced, released, and cause new infections. Secondary spread of the disease can occur if spores are produced in these new infections."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity and moist weather favours the development of disease."
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Anthracnose.jpg",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "Anthracnose, caused by the fungus Elsinoe ampelina, is also known as bird\u2019s-eye rot from its appearance on the fruit.",
+                "The disease appears first as dark red spots on the berry. Later, these spots are circular, sunken, ashy-gray and in late stages these spots are surrounded by a dark margin which gives it the \u201cbird\u2019s-eye rot\u201d appearance. The spots vary in size from 1/4 inch in diameter to about half the fruit.",
+                "The fungus also attacks shoots, tendrils, petioles, leaf veins, and fruit stems. Numerous spots sometimes occur on the young shoots. These spots may unite and girdle the stem, causing death of the tips. Spots on petioles and leaves cause them to curl or become distorted."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The primary infection by diseased vines and secondary infection by wind-borne conidia."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Continuous/intermittent rains and high humidity are responsible for the development of disease."
+            ]
+        }
+    },
+    "Greenaria bitter rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Bitterrot.jpg",
+                "alt": "Greenaria bitter rot"
+            },
+            "content": [
+                "This fungus can infect all green parts of the vine including leaves, tendrils, new shoots, as well as berries. However, mature leaves and ripe fruit are not susceptible. Infections of leaves first appear as red spots on the upper leaf surface in late spring.",
+                "These circular spots enlarge and become tan to light brown with distinct, dark borders. Small, pinpoint black fruiting structures of the fungus often develop in the centers of these spots.",
+                "Most serious damage usually occurs on the berries. On the fruit, infections first appear as whitish spots which enlarge to sunken areas with dark borders. Significant infections usually occur when the grape is pea-size or larger. As infection progresses, the fruit becomes black, wrinkled, mummified, and look like raisins. Infected grapes often shatter,leaving only the stem."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus overwinters on mummified berries on the soil or in old clusters still hanging in the vines. Secondary infections can occur when additional spores are produced on the newly infected tissues."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Moisture and temperature above 20-25 \u00b0C favours the development of disease."
+            ]
+        }
+    },
+    "Bacterial leaf spot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Leafspot.jpg",
+                "alt": "Bacterial leaf spot"
+            },
+            "content": [
+                "The young growing shoots are affected first. Disease infects leaves, shoots and berries. The symptoms appear as minute water soaked spots on the lower surface of the leaves along the main and lateral veins.",
+                "Later on these spots coalesce and form larger patches. Brownish black lesions are formed onthe berries, which later become small and shriveled."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives in infected plant residue in soil and seed borne."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease is more prevalent during June-August and again in February-March.",
+                "Temperature range of 25-30 \u00baC and relative humidity of 80-90% is favourable for the development of the disease."
+            ]
+        }
+    },
+    "Alternaria blight": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/AlterniaBlight.jpg",
+                "alt": "Alternaria blight"
+            },
+            "content": [
+                "The disease attacks both leaves and fruits. Small yellowish spots first appear along the leaf margins, which gradually enlarge and turn into brownish patches with concentric rings. Severe infection leads to drying and defoliation of leaves.",
+                "Symptoms in the form of dark brown-purplish patches appear on the infected berries, rachis and bunch stalk just below its attachment with the shoots."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is externally and internally seed borne. The pathogen survives through spores (conidia) or mycelium in diseased plant debris or weed."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Moist (More than 70% relative humidity) and warm weather (12-25 \u00baC) and intermittent rains favours disease development."
+            ]
+        }
+    },
+    "Black rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Blackrot.jpg",
+                "alt": "Black rot"
+            },
+            "content": [
+                "The disease attacks the leaves, stem, flowers and berries. All the new growth on the vineis prone to attack during the growing season.",
+                "The symptoms are in the form of irregularly shapedreddish brown spots on the leaves and a black scab on berries.",
+                "Occasionally, small elliptical darkcoloured canker lesions occur on the young stems and tendrils. Leaf, cane and tendril infection canoccur only when the tissue is young, but berries can be infected until almost fully-grown if an activefungicide residue is not present.",
+                "The affected berries shrivel and become hard black mummies."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogen survives in soil and plant debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Warm and moist climate with extended periods of rain and cloudy weather favours the development of the disease."
+            ]
+        }
+    },
+    "Blue mould rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Bluemould.jpg",
+                "alt": "Blue mould rot"
+            },
+            "content": [
+                "Scanty growth - white and turn bluish green are seen.",
+                "Decay the berries.",
+                "Infected tissues become soft and watery.",
+                "Infected berries emit a mouldy flavor.",
+                "The fungus covers whole berries and it looks like bluish green in colour."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Spores of this fungus are very common in the air and soil which are the source of infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Blue mold is most common when temperatures are higher than 10-14\u00b0C.",
+                "Free moisture for six hours or longer on the onion surface is necessary for infection to occur."
+            ]
+        }
+    },
+    "Black mould rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Blackmould.jpg",
+                "alt": "Black mould rot"
+            },
+            "content": [
+                "It is a post-harvest disease. The fungus enters the berries through the injuries caused due to poor post-harvest handling operations.",
+                "The pulp of infected berries is reduced is reduced to watery consistency.",
+                "Berries look black in colour."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Spores of this fungus are very common in the air and soil which are the source of infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Black mold is most common when temperatures are higher than 30\u00b0C (86\u00b0f) in the field or 24 \u00b0C in storage.",
+                "Free moisture for six hours or longer on the onion surface is necessary for infection to occur."
+            ]
+        }
+    },
+    "Green mould rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Greenmouldrot.jpg",
+                "alt": "Green mould rot"
+            },
+            "content": [
+                "It is a post-harvest disease. The fungus enters the berries through the injuries caused due to poor post-harvest handling operations.",
+                "Infected berries are discolored yellowish green, and affected fruits shrivel.",
+                "Masses of powdery green spores generally covered the bunch of grapes."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Spores of this fungus are very common in the air and soil which are the source of infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Green mold is most common when temperatures are higher than 30\u00b0C in the field or 24\u00b0C in storage.",
+                "Free moisture for six hours or longer on the surface is necessary for infection to occur."
+            ]
+        }
+    },
+    "Rhizopus rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Rhizopusrot.jpg",
+                "alt": "Rhizopus rot"
+            },
+            "content": [
+                "Round irregular, light brown and water soaked lesion appear on fruits.",
+                "Decaying fruits emits fermented, moudly smell.",
+                "Conidia aseptate, small and globose",
+                "It is a post-harvest disease. Under warm and moist conditions the fungus grows rapidly producing acoarse grey mat of mycelium.",
+                "Injury caused to the berries by tight packing and storage temperaturehelp the fungus grown during storage. If the infected berries are trimmed at harvest, it does not occurafter harvest under ideal storage conditions."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Spores of this fungus are very common in the air and soil which are the source of infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Black mold is most common when temperatures are higher than 30\u00b0C in the field or 24\u00b0C in storage.",
+                "Free moisture for six hours or longer on the surface is necessary for infection to occur."
+            ]
+        }
+    },
+    "Botrytis bunch rot or gray mold": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/GrayMold.jpg",
+                "alt": "Botrytis bunch rot or gray mold"
+            },
+            "content": [
+                "One or more berries of a cluster show signs of decay just before harvest. The decay may progress to include most of the berries in a cluster. The infected fruit may become covered with a grayish-tan powder containing the spores of the fungus.",
+                "Berry stems and cluster stems may be invaded, causing them to shrivel.",
+                "When the fungus decays berries low in sugar, the rotting berry has a sour odor and taste.",
+                "If the berries are nearly mature and have a high sugar content, the decaying berry is quite firm, dry, and somewhat sweetish to the taste. Berries that have split or have been punctured often are attacked by other organisms, resulting in a sour or moldy decay."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus survives in all decaying vegetation. Its spores are present in the vine yard throughout the year."
+            ]
+        },
+        "Favorable conditions": {
+            "content": [
+                "Brown mold is most common when temperatures are higher than 30\u00b0C in the field or 24\u00b0C in storage.",
+                "Free moisture for six hours or longer on the surface is necessary for infection to occur."
+            ]
+        }
+    },
+    "Rust": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Rust.jpg",
+                "alt": "Rust"
+            },
+            "content": [
+                "The symptoms are in the form of numerous orange coloured pustules on the lower surface of the leaves. In case of severe infection such pustules cover the entire leaf surface leading to severe defoliation."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The pathogens reproduce and survive in spots on leaves or stems and in fallen plant host debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Moisture and temperature above 20\u00b0 C favours the development of disease."
+            ]
+        }
+    },
+    "Foot rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-grapes/Footrot.jpg",
+                "alt": "Foot rot"
+            },
+            "content": [
+                "Roots show black, sunken, necrotic lesions. In cross section, the base of the trunk appears necrotic and xylem vessels may be black in colour.",
+                "Leaves may appear to be water stressed or scorched, and vines may be stunted and/or killed.",
+                "Cylindrocarpon may occur in combination with other plant pathogens."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Cylindrocarpon is a common soil-borne fungus which causes root rot in many plant species.",
+                "It survives in soil as mycelium and also produces conidia (spores) and chlamydospores (spores that can survive adverse conditions)."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Moderate humidity and moist conditions"
+            ]
+        }
+    }
+}

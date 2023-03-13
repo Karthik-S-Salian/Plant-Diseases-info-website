@@ -1,0 +1,135 @@
+{
+    "Seedling blight": {
+        "Disease symptoms:": {
+            "content": []
+        },
+        "Dead seedling": {
+            "content": [
+                "The disease first makes its appearance on both the surfaces of the cotyledonary leaves in the form of roundish patch of dull green colour which soon spreads to the point of attachment causing the leaf to rot and hang down."
+            ]
+        },
+        "Spots on older leaf": {
+            "content": [
+                "The infection further spreads to the stem with the result that the seedling is killed either due to the destruction of growing point or by the collapse of stem.",
+                "The true leaves of seedlings and the very young leaves of older plants may also be affected; but ordinarily not much injury is caused.",
+                "The leaf spots turn yellow and then brown and concentric zones of lighter and darker brown colour are formed.",
+                "The disease spots coalesce at a later stage and cover almost the entire leaf.",
+                "The affected leaves shed prematurely. Under moist conditions, a very fi ne whitish haze is found on the under-surface of the leaf spots."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The pathogen survives in soil or collateral or alternative hosts."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High humidity and warm conditions favour the development of disease."
+            ]
+        }
+    },
+    "Alternaria blight": {
+        "Disease symptoms:": {
+            "content": []
+        },
+        "Alternaria leaf spot with concentric rings": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-oilseeds/ipm-strategies-for-castor/Alternariablightimg.jpg",
+                "alt": "Alternaria blight"
+            },
+            "content": [
+                "All the aerial parts of the plant, i.e., stem, leaves, inflorescence and capsules are liable to be attacked.",
+                "These may appear on any portion of the leaf and are irregular, scattered, and have concentric rings.",
+                "These are brown and later become covered with bluish-green or sooty growth.",
+                "When the attack is severe the spots coalesce and form big patches resulting in premature defoliation of the plant which gradually wilts away.",
+                "In one case the capsules, when half mature, wilt suddenly, turn brown and due to collapse of the pedicel the capsules fall or hand down.",
+                "They are smaller in size and have under-developed and wrinkled seeds with little oil content."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Fungus is seed borne and survives in seeds"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High humidity and low temperature (16-20 \u00baC) favours the development of diseases."
+            ]
+        }
+    },
+    "Cercospora leaf spot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-oilseeds/ipm-strategies-for-castor/Cercosporaleafspot.jpg",
+                "alt": "Cercospora leaf spot"
+            },
+            "content": [
+                "The disease appears as minute black or brown points surrounded by a pale green ring.",
+                "These spots are visible on both the surfaces of the leaf.",
+                "As the spots enlarge, the centre turns pale brown and then greyish-white surrounded by a deep brown band which may be narrow and sharp or broad and diff used.",
+                "The fructifications of the fungus appear as tiny black dots in the white centre.",
+                "The diseased spots often occur in great numbers scattered over the leaf and are roundish when young but may become irregularly angular when mature.",
+                "When the spots are close together, the intervening leaf tissue withers and large brown patches of dried leaf may result."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungus survives in soil debris which is cause of primary infection. Secondary infection occurs by conidia through rain splash or wind."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High humidity and warm weather conditions responsible for the disease."
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms:": {
+            "content": []
+        },
+        "Powdery mass covering entire leaf": {
+            "content": [
+                "It is characterised by typical mildew growth which is generally confined to the under-surface of the leaf.",
+                "When the infection is severe the upper-surface is also covered by the whitish growth of the fungus.",
+                "Light green patches, corresponding to the diseased areas on the under surface, are visible on the upper side especially when the leaves are held against light."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The pathogen survives as oospores on the affected plant tissues and on weed hosts."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Cool (10-20\u00ba C) and wet weather (90% RH) favours disease development"
+            ]
+        }
+    },
+    "Wilt": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-oilseeds/ipm-strategies-for-castor/Wiltimg.jpg",
+                "alt": "Wilt"
+            },
+            "content": [
+                "Leaves droop and drop off leaving behind only top leaves.",
+                "Diseased plants are sickly in appearance.",
+                "Wilting of plants, root degeneration, collar rot, drooping of leaves and necrosis of affected tissue and finally leading to death of plants.",
+                "Necrosis of leaves starts from margins spreading to interveinal areas and fi nally to the whole leaf.",
+                "Spilt open stem shows brownish discolouration and white cottony growth of mycelia much prominently in the pith of the stem."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungus is soil-borne and remains in the soil as saprophyte for 2-3 years. The disease is primarily transmitted through infected seed pieces.",
+                "The secondary spread is aided by wind, rain and irrigation water."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High day temperature (30-35\u02daC).",
+                "Low humidity (50-60%). Low soil moisture and alkaline soils."
+            ]
+        }
+    }
+}

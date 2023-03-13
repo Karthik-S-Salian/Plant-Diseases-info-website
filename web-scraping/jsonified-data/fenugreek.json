@@ -1,0 +1,189 @@
+{
+    "Cercospora leaf spot": {
+        "Disease symptoms: ": {
+            "content": [
+                "Circular sunken lesions with chlorotic halos on leaves; necrotic areas on leaves; discolored areas on pods"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Pathogen survives mainly in plant debris as desiccation-resistant pseudostromata, but can also survive as conidia in debris or seeds.",
+                "When moisture is sufficient, new conidia are formed and spread via rain-splash or wind to new leaves or plants."
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-fenugreek/fenugreek-cercospora-leaf-spottest.png",
+                "alt": "Cercospora leaf spot"
+            },
+            "content": [
+                "Optimum conditions are 25\u00b0 to 35\u00b0 C with night temperatures above 16.1\u00b0 C, and a relative humidity of 90-95%. Infection is greatly reduced or nonexistent at temperatures less than 15\u00b0 C or during periods of leaf wetness less than 11 hours."
+            ]
+        }
+    },
+    "Charcoal rot": {
+        "Disease symptoms: ": {
+            "content": [
+                "Cankers on stem may spread upwards; leaves may wilt and drop from plant.",
+                "Numerous small black sclerotia (fungal fruiting bodies) develop in affected tissues and can be used to diagnose the disease"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "M. phaseolina survives as microsclerotia in the soil and on infected plant debris.",
+                "The microsclerotia serve as the primary source of inoculum and have been found to persist within the soil up to three years."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Hot, dry weather promotes infection and development of charcoal rot."
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms: ": {
+            "content": [
+                "White, powdery spots on leaves which expand over time.",
+                "Yellow spots may be visible on leaf underside"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungus survives the winter attached to plant parts and plant debris such as fallen leaves."
+            ]
+        },
+        "Favourable conditions: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-fenugreek/fenugreek-powdery-mildew/@@images/f019e704-c572-4002-9a9a-ac243ea4be76.png",
+                "alt": "Fenugreek Powdery mildew"
+            },
+            "content": [
+                "Humidity is an important factor related to the onset and spread of powdery mildew. High relative humidity favors spore formation, and low relative humidity favors spore dispersal, which explains why powdery mildew tends to be a problem when the days are cool and the nights are humid."
+            ]
+        }
+    },
+    "Root/ collar rot/ Foot rot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-fenugreek/fenugreek-root-collar-rot-foot-rot/@@images/5bf46eea-6b41-4904-b900-9c07be87841c.png",
+                "alt": "Fenugreek Root collar rot  Foot rot"
+            },
+            "content": [
+                "Rhizoctonia root rot develops from infection of the growing tip of small lateral roots. The fungus then progressively grows from the root tip and may cause rot of the main root. Rhizoctonia infection of a rootlet often results in the \u201espear-point\u201f symptom of roots.",
+                "Small chlorotic, water-soaked lesions appear randomly over both surfaces of the leaflets. They enlarge, become irregular in shape, and are brown with darken brown margins. The central portion later become pale, dry rapidly and disintegrate."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "They survive in soil for long periods in the absence of a host, and inoculum levels in soil increase slowly over several years (crop cycles)."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "High humidity and warm weather favours the development of disease."
+            ]
+        }
+    },
+    "Downy mildew": {
+        "Disease symptoms: ": {
+            "content": [
+                "The symptoms of downy mildew are quite distinct from the other diseases.",
+                "The adaxial surfaces of the leaves showed yellow patches or small chlorotic spots which appear often at the margins.",
+                "The abaxial surface of the leaf showed white cottony mycelial growth which often appears as grayish violet.",
+                "The disease also causes stunted growth of the plant"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungus survives in plant parts and plant debris such as fallen leaves."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "The disease is favored by a maximum temperature range of 18-24\u02daC to minimum temperature range of 4-10\u02daC and a relatively high humidity which is more than 80%."
+            ]
+        }
+    },
+    "Rust": {
+        "Disease symptoms:": {
+            "content": [
+                "\u00b7 Rust commonly appears as a colored powder, consisting of minute aeciospores that land on the fenugreek plant generating pustules (uredia) on the ventral leaf surface. \u00b7 During late spring or early summer of the disease cycle, yellowish orange to dark brown, hair-like (ligulate) structures called telia develop on the leaves.",
+                "\u00b7 Small, round or oblong, dark brown pustules on the leaves and petioles are commonly observed."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungus mainly survives through teliospores (thick walled, resting spores) on leaves left in the field or on the soil surface.",
+                "The disease spreads by wind-borne uredospores from infected crop."
+            ]
+        },
+        " Favourable conditions: ": {
+            "content": [
+                "Temperature ranging from 20 to 25\u00b0 C with relative humidity of 86-92%RH favours high intensity of rust."
+            ]
+        }
+    },
+    "Damping off": {
+        "Disease symptom: ": {
+            "content": [
+                "The emerged seedlings exhibit water soaked discoloured, soft basal rot of the stem due to the death of cortical tissues.",
+                "The rotted seedlings emit bad odour, the whole seedling topples over."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungus survives in soil. Primary infection occurs through soil and secondary by conidia through rain or wind."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "High humidity, high soil moisture, cloudiness and low temperatures below 24\u00b0C for few days are ideal for infection and development of disease.",
+                "Crowded seedlings, dampness due to high rainfall, poor drainage and excess of soil solutes hamper plant growth and increase the pathogenic damping-off."
+            ]
+        }
+    },
+    "Fusarium wilt": {
+        "Disease symptom: ": {
+            "content": [
+                "The symptoms are first seen as minor clearings in veins on the external part of young leaflets finally accompanied with downward drooping of mature leaves.",
+                "At the seedling stage, plants may wilt and die soon after the appearance of the symptoms.",
+                "In mature plants, vein clearing and downward drooping of the leaf are seen which is followed by stunting, yellowing of the lower leaves and subsequent wilting of leaves and young stems.",
+                "This is followed by marginal necrosis of the infected leaves, rapid defoliation and death of the plant. In addition, browning of vascular tissue occurs.",
+                "These symptoms become more prominent in mature plants during the period between blossoming and fruit maturation."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The disease is soil borne and primary infection occurs through inoculum present in the soil."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Relatively high soil moisture and soil temperature are favourable for the infection."
+            ]
+        }
+    },
+    "Yellow mosaic disease": {
+        "Disease symptom: ": {
+            "content": [
+                "Mosaic virus disease with symptoms of vein clearing, severe molting, leaves curled at the margin and reduced leaf size.",
+                "Pods if formed are very small, curled with thin and shrunken seeds."
+            ]
+        },
+        "Transmission and favourable conditions ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-fenugreek/fenugreek-powdery-mildew-life-cycletest.png",
+                "alt": "Fenugreek Powdery mildew Life Cycle"
+            },
+            "content": [
+                "The disease is transmitted in semi persistent mannerby aphid.",
+                "Aphids are more active in warm conditions and increase their population as well as spread the virus."
+            ]
+        }
+    },
+    "Diseases cycle:": {
+        "Powdery mildew:": {
+            "content": []
+        }
+    }
+}

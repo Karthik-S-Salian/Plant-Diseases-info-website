@@ -1,0 +1,265 @@
+{
+    "Bacterial wilt": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/Wiltimg.jpg",
+                "alt": "Bacterial wilt"
+            },
+            "content": [
+                "In addition to the potato, the pathogen also damages plants such as chili, tomato, tobacco and egg plant, as well as several species of weeds.",
+                "The symptoms of bacterial wilt infection can be seen on all parts of infected plants.",
+                "Infected plant begins to wilt, starting from the tips of the leaves or where the stems branch out, and then spreading to all parts of the plant.",
+                "Leaves become yellow at their bases, then the whole plant wilts and dies. When stems are cut a brown colored ring will be visible.",
+                "When a tuber is cut in half, black or brown rings will, however, be visible. If left for a while or squeezed, these rings will exude a thick white fluid.",
+                "A further symptom is fluid coming out of tuber eyes. This can be signified by soil sticking to tuber eyes when crops are harvested. Serious infection causes tubers to rot."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Bacterial wilt pathogen can survive in soil (without a host for several seasons), water, seed tubers, potato plant remnants.",
+                "The disease can spread from field to field or from plant to plant within field via infected seed, air, water, soil, farming tools, livestock and people."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High temperature, soil moisture, low pH.",
+                "The disease spread rapidly in the warmer temperatures in storage areas. Infected seed can also be a source of the disease in the field."
+            ]
+        }
+    },
+    "Septoria leaf spot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/Septoriaimg.jpg",
+                "alt": "Septoria leaf spot"
+            },
+            "content": [
+                "Less vigorous plants are usually affected",
+                "Small, round to irregular spots with a grey center and dark margin on leaves",
+                "Spots usually start on lower leaves and gradually advance upwards",
+                "At later stage spots coalesce and leaves are blighted",
+                "Complete defoliation of affected leaves may take place.",
+                "Stems and flowers are sometimes attacked",
+                "Fruits are rarely attacked"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary:  Mycelium or conidia found in pycnidia in infected plant debris or on solanaceous weeds",
+                "Secondary:  Conidia spread through rain splash or wind and also by slimy conidia sticking on to hands and clothing of potato pickers."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Poor vigour of plants due to nutrient deficiency in late season",
+                "High humidity or persistent dew at 25 \u00baC",
+                "Moist weather with intermittent showers."
+            ]
+        }
+    },
+    "Late blight": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/Lateblightimg.jpg",
+                "alt": "Late blight img"
+            },
+            "content": [
+                "This disease damages leaves, stems and tubers. Affected leaves appear blistered as if scalded by hot water and eventually rot and dry out.",
+                "When drying out, leaves turn brown or black in color. When infections are still active, spots appear on the underside of leaves blanketed in what looks like flour.",
+                "Affected stems begin to blacken from their tips, and eventually dry out.",
+                "Severe infections cause all foliage to rot, dry out and fall to the ground, stems to dry out and plants to die.",
+                "Affected tubers display dry brown-colored spots on their skins and flesh. This disease acts very quickly. If it is not controlled, infected plants will die within two or three days."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The pathogen survives in plant debris in the soil.",
+                "It spreads through soil and infected seed tubers."
+            ]
+        },
+        "Favourable condition:": {
+            "content": [
+                "High humidity",
+                "Low temperature and leaf wetness"
+            ]
+        }
+    },
+    "Early blight": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/Earlyblightimg.jpg",
+                "alt": "Early blight"
+            },
+            "content": [
+                "This is a common disease of potato occurring on the foliage at any stage of the growth and causes characteristic leaf spots and blight.",
+                "Normally the disease symptoms become apparent during tuber bulking stage and develop leading to the harvest.",
+                "The early blight is first observed on the plants as small, black lesions mostly on the older foliage.",
+                "Spots enlarge, and by the time they are one-fourth inch in diameter or larger, concentric rings in a bull's eye pattern can be seen in the center of the diseased area.",
+                "Tissue surrounding the spots may turn yellow. If high temperature and humidity occur at this time, much of the foliage is killed.",
+                "Lesions on the stems are similar to those on leaves, sometimes girdling the plant if they occur near the soil line."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary:  The pathogen overwinters in infected plant debris in or on the soil where it can survive at least one and perhaps several years. It can also be seed borne.",
+                "Secondary:  The spores are transported by water, wind, insects, other animals including man, and machinery."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Warm, rainy and wet weather"
+            ]
+        }
+    },
+    "Common scab": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/Commonscabimg.jpg",
+                "alt": "Common scab"
+            },
+            "content": [
+                "Pathogen infects young developing tubers through the lenticels and occasionally through wounds.",
+                "Symptoms of common potato scab are quite variable and are manifested on the surface of the potato tuber. The disease forms several types of cork-like lesions including surface.",
+                "Damaged tubers have rough, cracked skin, with scab-like spots. Severe infections leave potato skins covered with rough black welts.",
+                "Initial infections result in superficial reddish-brown spots on the surface of tubers. As the tubers grow, lesions expand, becoming corky and necrotic."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Pathogen can survive in soil, uncomposted manure or seed",
+                "It spreads through contaminated soil, seed and water."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Disease is common in fields with low soil pH favoured by high soil moisture. Disease problems may be aggravated by excessive irrigation."
+            ]
+        }
+    },
+    "Black scurf/ canker": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/Cankerimg.jpg",
+                "alt": "Canker img"
+            },
+            "content": [
+                "Rhizoctonia canker occurs when stolons contact soil borne fungal bodies.",
+                "Pathogen infects plant tissue and causes stolon blinding thus reducing tuber production and yield.",
+                "It also infects tubers causing black scurf but this is purely cosmetic, reduces tuber appearance and does not reduce yield."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Pathogen is soil and seed borne, remain in soil and plant debris including infected tubers"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High temperature and moisture is the favourable for disease development"
+            ]
+        }
+    },
+    "Viral disease (potato virus X, S, & Y)": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/viral2.jpg",
+                "alt": "Viral disease (potato virus X, S, & Y)"
+            },
+            "content": [
+                "Potato virus Y (PVY ) is a Potyvirus, causes stipple streak. The necrotic strain generally causes mild foliage symptoms, but necrosis in the leaves of susceptible potato varieties.",
+                "Potato virus S (PVS) is a Carlavirus, if plant infected early in the season, show a slight deepening of the veins, rough leaves, more open growth, mild mottling, bronzing, or tiny necrotic spots on the leaves. PVS is transmitted by aphids non-persistently.",
+                "Potato virus X (PVX) is the type member of the Potyvirus family of plant viruses. Plants often do not exhibit symptoms, but the virus can cause symptoms of chlorosis, mosaic, decreased leaf size, and necrotic lesions in tubers.",
+                "PVX can interact with PVY and PVS to cause more severe symptoms and yield loss than either virus alone. The source of this virus is infected tubers."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "PVY is mechanical and aphid transmitted",
+                "PVS is transmitted by aphids, including Myzus persicae, the green peach aphid. It is also mechanically transmissible, and transmissible through tubers.",
+                "PVX is transmitted mechanically, not by an insect vector. Tobacco, pepper, and tomato can also serve as hosts of PVX."
+            ]
+        }
+    },
+    "Potato Spindle Tuber Viroid (PSTVd)": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/tuberviroid.jpg",
+                "alt": "Potato Spindle Tuber Viroid (PSTVd)"
+            },
+            "content": [
+                "Tubers can also become cracked or develop knobs and swellings.",
+                "It causes mild foliar symptoms including smaller leaves that curl downward, giving the plant a more upright growth habit. Plants can also be stunted, and leaves can be grey and distorted.",
+                "The stems are often more branched, with the branches having sharp angles on the stem.",
+                "Tubers become narrow and spindle or oblong in shape, or more rounded than expected for a particular variety, and have prominent eyebrows."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The PSTVd often transmitted mechanically, as well as through pollen and true seed.",
+                "PSTVd can also infect tomato and nightshade."
+            ]
+        }
+    },
+    "Black leg and soft rot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/softrotimg.jpg",
+                "alt": "Black leg and soft rot"
+            },
+            "content": [
+                "Black leg is a rot of the lower stem region. This is encouraged by cool, damp conditions.",
+                "Soft rot occurs when the bacteria gains access to the tuber through wounds & other entry points.",
+                "Symptom can range from cultivator damage to fungal lesions.",
+                "The bacteria dissolve the cell walls and liquefy the tuber invards. No distinct smell is present in true soft rot."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The introduction of bacteria is always through a wound in the plant tissue. It can reside in plant residue for short periods. The pathogen may spread through the soil water and infected seed."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Disease is encouraged by cool, humid conditions."
+            ]
+        }
+    },
+    "Pink rot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/pinkrotimg.jpg",
+                "alt": "Pink rot"
+            },
+            "content": [
+                "Foliar symptoms of underground infections include wilting and chlorosis.",
+                "Tubers become infected through diseased stolons and show darkened diseased area on the skin.",
+                "The rotted tissues remain firm and become slightly spongy.",
+                "If the tuber is cut the tissue oxidizes to a pinkish tinge, an easy diagnostic characteristic."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Soil and seed borne."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High soil moisture and cool condition increase disease incidence."
+            ]
+        }
+    },
+    "Black heart- disorder": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-potato/Blackheartimg.jpg",
+                "alt": "Black heart- disorder"
+            },
+            "content": [
+                "Black heart occurs primarily in storage when the tubers do not receive enough oxygen.",
+                "Blackening of the tuber center follows acute oxygen deficiency associated with either low temperature in confined storage or high field soil temperatures",
+                "The tissue dies from the inside out and turns jet black. Smell is absent.",
+                "Affected tubers rot later."
+            ]
+        }
+    }
+}

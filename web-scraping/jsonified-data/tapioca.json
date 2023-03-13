@@ -1,0 +1,77 @@
+{
+    "Cassava mosaic disease": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/cassava-mosaic-disease-disease-symptoms-1test.png",
+                "alt": "Cassava mosaic disease"
+            },
+            "content": [
+                "White or pale-yellow or pale-green patches on infected leaves.",
+                "Leaves often twisted, distorted, and stunted.",
+                "The leaflets have localized mosaic pattern.",
+                "Heavily infected plant is distorted, retarded, and dwarfed.",
+                "Whitefly (Bemisia tabaci) is the carrier of the virus and transmission is through their feeding habits."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The severity of cassava mosaic disease is influenced by environmental factors such as wind, rainfall, plant density and temperature.",
+                "The viruses are transmitted through infected cuttings and by whitefly and the spread of the virus largely dependent on the vector population"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Vector-preferred temperature estimates vary from 27\u00b0C to 32\u00b0C but generally high temperatures associated with high fecundity, rapid development, and greater longevity."
+            ]
+        }
+    },
+    "Brown leaf spot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/brown-leaf-spot-disease-symptoms-1test.png",
+                "alt": "Brown leaf spot"
+            },
+            "content": [
+                "The disease is caused by the fungus Cercospora henningsii. The symptoms of the disease appear on the leaves, On the leaves, the disease appears as Small brown coloured necrotic spots surrounded by yellow halo",
+                "The damaged leaves do not become distorted in shape as occurs with leaves damaged by cassava mosaic disease.",
+                "In severe cases abnormal leaf fall occurs"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The pathogen survives in the debris which will be carried over to next season. The pathogen spreads through air within the season"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Disease emergence favored by high temperature and humidity"
+            ]
+        }
+    },
+    "Cassava tuber Rot Disease": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/cassava-tuber-rot-disease-disease-symptomstest.png",
+                "alt": "Cassava tuber Rot Disease"
+            },
+            "content": [
+                "Cassava root rot diseases are caused by the fungus Phytophthora palmivora in the soil.",
+                "In poorly drained soils, where there is a prolong wet period, the damage caused by these microorganisms may be greater.",
+                "There is no external symptom. When uproots the tuber only we could see the symptom",
+                "The symptom starts as small water soaked brown lesions in tuber , as the disease advances it cover the entire tuber . Finally the tuber will rotten and exhibit foul smell"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The disease spreads by water to new cassava roots.",
+                "Infected plant debris serve as a primary source of inoculum.",
+                "The pathogens may also be transmitted through wounds caused by pests or farming tools."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Tuber rot disease emergence is often favoured by waterlogged, poorly-drained soils"
+            ]
+        }
+    }
+}

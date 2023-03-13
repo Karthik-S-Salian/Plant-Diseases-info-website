@@ -1,0 +1,59 @@
+{
+    "Damping off": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/drumstick-damping-off/@@images/0e999112-63ac-43c2-9edd-6fb475299428.png",
+                "alt": "Drumstick Damping off"
+            },
+            "content": [
+                "Disease of nursery beds and young seedlings resulting in reduced seed\u00a0germination and poor stand of seedlings. Very high seedling mortality of 25-75%.",
+                "Pre-emergence damping off: Seedlings disintegrate before they come out of soil surface leading to poor seed germination",
+                "damping off  Post-emergence  damping off is characterised by development of disease after seedlings have emerged out of soil but before the stems are lignified",
+                "Water soaked lesion formation at collar region",
+                "Infected areas turn brown and rot",
+                "Plants shrivel and collapse as a result of softening of tissues",
+                "wire stem  In Rhizoctonia solani attack infected stems become hard, thin ( symptoms) and infected seedlings topple Disease appear in patches both in nursery and field beds."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary:  Oospores in soil in case of Pythium Sclerotia in soil in case of Rhizoctonia",
+                "Secondary:  Zoospores through irrigation water in case of Pythium  Mycelial growth in soil and sclerotia through irrigation water in case of Rhizoctonia"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "For Pythium",
+                "Heavy rainfall",
+                "Excessive and frequent irrigation",
+                "Poorly drained soil and close spacing",
+                "High soil moisture with temp around 25-30\u00b0C",
+                "For Rhizoctonia",
+                "High soil moisture with temp around 30\u201335\u00b0C"
+            ]
+        }
+    },
+    "Twig canker": {
+        " Disease symptoms:": {
+            "content": [
+                "The first symptom of the disease is clearing of the veinlets and chlorosis of the leaves.",
+                "The younger leaves may die in succession and the entire may wilt and die in a course of few days.",
+                "Soon the petiole and the leaves droop and wilt.",
+                "In young plants, symptom consists of clearing of veinlet and dropping of petioles.",
+                "The symptoms continue in subsequent leaves.",
+                "At later stage, browning of vascular system occurs.",
+                "Plants become stunted and die."
+            ]
+        },
+        " Survival and spread: ": {
+            "content": [
+                "Soil and implements"
+            ]
+        },
+        " Favourable conditions:": {
+            "content": [
+                "Relatively high soil moisture and soil temperature"
+            ]
+        }
+    }
+}

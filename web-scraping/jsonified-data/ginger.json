@@ -1,0 +1,172 @@
+{
+    "Soft rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-ginger/Softrotimg.jpg",
+                "alt": "Soft rot"
+            },
+            "content": [
+                "The infection starts at the collar region of the pseudo stem and progresses upwards as well as downwards.",
+                "Affected pseudo stem becomes water soaked and the rotting spreads to the rhizome resulting in soft rot. At a later stage root infection is also noticed.",
+                "Foliar symptoms appear as light yellowing of the tips of lower leaves which gradually spreads to the leaf blades.",
+                "In early stages, the middle portion of the leaves remain green while the margins become yellow.",
+                "The yellowing spreads to all leaves of the plant from the lower region upwards and is followed by drooping, withering and drying of pseudo Stems."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is soil-borne.",
+                "The fungus can survive in two ways: (a) in diseased rhizomes kept for seed, and (b) through resting structures like chlamydo spores and oospores that reach the soil from infected rhizomes.",
+                "The fungus multiplies with buildup of soil moisture with the onset of south west monsoon."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Younger sprouts are the most susceptible to the pathogen. Nematode infestation aggravates rhizome rot disease.",
+                "A high temperature above 30\u00b0 C and high soil moisture are the important predisposing factors favouring the disease.",
+                "Waterlogging in the field due to poor drainage increases the intensity of the disease."
+            ]
+        }
+    },
+    "Bacterial wilt": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-ginger/Bacterialwiltimg.jpg",
+                "alt": "Bacterial wilt"
+            },
+            "content": [
+                "Water soaked spots appear at the collar region of the pseudo stem and progresses both side upwards and downwards.",
+                "The first conspicuous symptom is mild drooping and curling of leaf margins of the lower leaves which spread upwards.",
+                "Yellowing starts from the lowermost leaves and gradually progresses to the upper leaves.",
+                "In the advanced stage, severe yellowing and wilting symptoms occurs.",
+                "The vascular tissues of the affected pseudo stems show dark streaks.",
+                "The affected pseudo stem and rhizome when pressed gently extrudes milky ooze from the vascular strands. Ultimately rhizomes get rotted."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Bacterial wilt is a soil and seed borne disease that occurs during south west monsoon.",
+                "The bacteria are spread through soil, water, infected or contaminated rhizomes.",
+                "The bacteria enter the plant through wounds made in the roots during transplanting, through agricultural equipment\u2019s, nematodes and insects."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Relatively high soil moisture and soil temperature",
+                "Disease, occurs during south west monsoon."
+            ]
+        }
+    },
+    "Leaf spot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-ginger/Leafrotimg.jpg",
+                "alt": "Leaf spot"
+            },
+            "content": [
+                "The disease starts as water soaked spot and later turns as a white spot surrounded by dark brown margins and yellow halo.",
+                "The lesions enlarge and adjacent lesions coalesce to form necrotic areas."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Spread through wind and rain splashes."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Disease is soil-borne; Noticed on the leaves from July to October; high humidity and temperature."
+            ]
+        }
+    },
+    "Storage rot": {
+        "Disease symptom": {
+            "content": [
+                "Initially, disease appear as light yellowing of the tips of lower leaves which gradually spreads down to the leaf blade and leaf sheath along the margin.",
+                "The middle portion of the lamina remains green while the margins become yellow.",
+                "The yellowing spreads to all the leaves of plant from bottom upwards and is followed by drooping, withering and drying.",
+                "The collar region of the pseudo-stem shows pale translucent brown colour which becomes water soaked, due to destruction of parenchymatus tissues.",
+                "The infected plants can be easily pulled out from the rhizomes, the infection from the collar spreads to the rhizome gradually.",
+                "The rhizome has a discoloured appearance before rot sets in the fi bro vascular strands are not affected."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus has been reported to be carried in seed-pieces or soils which are the source of primary infection.",
+                "Secondary infection occurs by conidia"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High rainfall and poor drained soil favour in development of disease"
+            ]
+        }
+    },
+    "Fusarium yellows/ yellow disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-ginger/yellowdiseaseimg.jpg",
+                "alt": "Fusarium yellows/ yellow disease"
+            },
+            "content": [
+                "The infected plants remain yellow and stunted in growth.",
+                "The yellowing start from lower leaves.",
+                "From infection to total collapse is gradual.",
+                "Infected plants produce shriveled tubers and brown ground tissue."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Infected seed pieces and soil are source of primary inoculum.",
+                "Resting spores i.e. chlamydo spores present in soil are source of secondary infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High rainfall and poor drained soil favour in development of disease."
+            ]
+        }
+    },
+    "Sheath blight / leaf blight": {
+        "Disease symptoms": {
+            "content": [
+                "The lesions are usually observed on the leaf sheaths although leaf blades may also be affected.",
+                "Initially, lesions are small, ellipsoid or ovoid, and greenish-gray and usually develop near the water line in lowland fields.",
+                "Under favorable conditions, they enlarge and may coalesce to form bigger lesions with irregular outline and grayish-white center with dark brown borders.",
+                "The presence of several large spots on a leaf sheath usually causes the death of the whole leaf."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus survives in the soil for many years in the form of sclerotia and spreads through soil & infected rhizomes"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The pathogen prefers warm wet weather and outbreaks typically occur in the early summer months most symptoms of the pathogen do not occur until late summer."
+            ]
+        }
+    },
+    "Dry rot": {
+        "Disease symptoms": {
+            "content": [
+                "Symptom includes discolouration of rhizome surface by fungal mycelia accompanied by dry rotting."
+            ]
+        },
+        "Survival and spread": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-spice-crops/ipm-strategies-for-ginger/DryrotImg.jpg",
+                "alt": "Dry rot"
+            },
+            "content": [
+                "Soil and infected rhizome pieces are source of primary inoculum.",
+                "The fungus also produces resting structures (Chlamydospores) in the decomposing tissues of infected rhizomes. Therefore, tissues from infected crops remaining in the field serve as a reservoir of the fungus."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The pathogen is known to prefer warm wet weather, coupled with high soil moisture."
+            ]
+        }
+    }
+}

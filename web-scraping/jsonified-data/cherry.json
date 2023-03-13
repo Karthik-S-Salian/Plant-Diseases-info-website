@@ -1,0 +1,212 @@
+{
+    "Leaf spot/shot hole": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/leaf-spot-shot-holetest.png",
+                "alt": "Leaf spot/shot hole"
+            },
+            "content": [
+                "Cercospora leaf spot is a fungal disease that occurs on leaves when plants are under stress.",
+                "The fungus can develop both in seedbeds and after plants have been transplanted into bags",
+                "Brown spots on leaves gradually expanding with reddish brown margin.",
+                "Spots occur on the both leaf.",
+                "Then there are many spots on leaves appear to have been burnt."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives in the soil as well as in plant debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Lack of air movement. Soil too wet and too much shade or too much sun favour the development of disease.",
+                "Lack of nitrogen and potassium."
+            ]
+        }
+    },
+    "Bacterial gummosis": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/bacterial-gummosistest.png",
+                "alt": "Bacterial gummosis"
+            },
+            "content": [
+                "Cankers on twigs at bases of flower and leaf buds, in pruning wounds or at the base of spurs which exude amber colored gum",
+                "Cankers spread upwards and form sunken areas in winter; if pathogen enters dormant buds they may be killed or open normally in Spring before collapsing in early Summer; infected buds may be symptomless"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pseudomonas syringae survives on plant surfaces, is spread by splashing rain, and is favored by high moisture and low temperatures in spring.",
+                "The disease is worse in low or sandy spots in the orchard. Vigorous trees are less susceptible to bacterial canker, while young trees, 2 to 8 years old, are most affected. The disease rarely occurs in first year of planting, and is uncommon in nurseries."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity and warm temperature favour the development of disease."
+            ]
+        }
+    },
+    "Silver leaf canker:": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/silver-leaf-cankertest.png",
+                "alt": "Silver leaf canker:"
+            },
+            "content": [
+                "Silver Leaf is a fungal disease and its name refers to the silver luster of leaves that occurs on some hosts",
+                "First sign of the disease is twig and branch die-back. Leaves that are affected may later start to show brown areas in the middle and at the edges.",
+                "Toxins produced by the fungus affect leaves, and on some hosts it may kill branches or entire trees. Diagnosis can be confirmed by cutting through a branch that is at least 2.5cm (1in) in diameter, wetting the cut surface and checking it for a brown stain in the wood."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in the soil as well as in twig canker."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High soil moisture and temperature"
+            ]
+        }
+    },
+    "White root rot": {
+        "Disease symptoms": {
+            "content": [
+                "Yellow foliage, shriveled fruit, and little or no new growth are symptoms of Dematophora root rot",
+                "Cottony, white mycelia cover small feeder roots, and roots decay.",
+                "Mycelia grow into soil and upward in the tree, forming small, pale patches under or in bark of major roots, the root crown, and lower trunk, which eventually decay.",
+                "Older mycelium becomes gray or black. The fungus can also cause a purple canker in wood at the root crown of young trees.",
+                "Diseased trees will defoliate and always die prematurely, usually within 1 to 3 years of initial infection."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary : Soil, seed, water",
+                "Secondary : Conidia through rain splash or wind"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Wet and water lodged soil, heavy rain and 14-17 \u00baC helpful for disease development."
+            ]
+        }
+    },
+    "Collar rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/collar-rottest.png",
+                "alt": "Collar rot"
+            },
+            "content": [
+                "Symptom expression depends upon how much of the root or crown tissues are affected and how quickly they are destroyed.",
+                "Generally, crown rots advance rapidly and trees collapse and die soon after the first warm weather of spring. Leaves of such trees wilt, dry, and remain attached to the tree. Chronic infections, usually of the roots, cause reduction in growth and early senescence and leaf fall.",
+                "These trees may be unthrifty for several years before succumbing to the disease. Phytophthora infections typically kill young trees because their root systems and crown areas are small compared to those of mature trees."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogen overwinters in infected trees, or in colonized fallen plant debris."
+            ]
+        },
+        "Fabourable conditions": {
+            "content": [
+                "Fungus favours cool (10-16 \u00baC) wet soil."
+            ]
+        }
+    },
+    "Coryneum blight/shot hole": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/coryneum-blight-shot-holetest.png",
+                "alt": "Coryneum blight/shot hole"
+            },
+            "content": [
+                "First symptoms of infection appear as small red spots on young leaves which enlarge and become purple with a tan-white center.",
+                "The spots then drop out of the leaf blade to leave a \u201cshothole.\u201d Severe leaf infections produce numerous holes and give the affected leaves a very tattered appearance.",
+                "Fruit infections begin as purple-red spots on the fruit skin as early as shuck-split and may occur as late as at harvest."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus typically overwinters on infected dormant buds and in small twig cankers."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Temperatures of 70-80\u00b0F and wet weather splashed and wind-blown rain favours the development of disease."
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/powdery-mildewtest.png",
+                "alt": "Powdery mildew"
+            },
+            "content": [
+                "Light colored circular lesions on leaves inside tree canopy which develop a powdery appearance; lesions may coalesce to cover leaf.",
+                "If infection is severe, leaves may blister and infected shoots may be distorted and stunted; infected fruits may have slightly depressed areas on the surface containing."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus overwinters in buds on twigs and as chasmothecia, which are sporecontaining structures, on the bark of twigs and branches.",
+                "Secondary spores produced in spring spread the fungus to new growth."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "nfections can be severe in commercial orchards during years of low rainfall, high humidity, and warm temperatures (70 to 80\u00b0F)."
+            ]
+        }
+    },
+    "Crown gall": {
+        "Disease symptom": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/crown-galltest.png",
+                "alt": "Crown gall"
+            },
+            "content": [
+                "Rough, abnormal galls develop on roots or trunk. Galls are not hard, but soft and spongy.",
+                "The centers of older galls decay. Young trees become stunted; older trees often develop secondary wood rots."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The batceria survives in the soil."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity and warm temperature favour the development of disease"
+            ]
+        }
+    },
+    "Prunus necrotic ringspot virus": {
+        "Disease symptom:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/prunus-necrotic-ringspot-virustest.png",
+                "alt": "Prunus necrotic ringspot virus"
+            },
+            "content": [
+                "Symptoms Shock symptoms, followed by chronic symptoms, are produced in trees not already infected.",
+                "The occurrence of shock symptoms apparently depends on climatic conditions.",
+                "The number of virus strains and the difference in tolerance of host species results in unlimited variations in symptoms.",
+                "Symptoms generally consist of chlorosis, necrosis, leaf deformity, and stunting. Entire plants may be affected, or only a portion may show symptoms.",
+                "Normal PNRSV symptoms consist of a few rings or chlorotic areas that may develop into severe necrotic spotting and a shothole appearance.",
+                "Careful inspection of sweet cherry trees in late spring may reveal scattered older leaves or entire spurs with necrotic spotting or etched rings.",
+                "Sometimes one branch will show tattered leaves or symptoms of the rugose mosaic strain.",
+                "Yield on trees infected with the normal strain is reduced about 5%."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Virus spreads through transmission by vectors",
+                "Weed hosts serve as natural virus reservoirs.",
+                "Long and continuous dry spell increases the disease incidence."
+            ]
+        }
+    }
+}

@@ -1,0 +1,374 @@
+{
+    "Botrytis Fruit Rot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/botrytis-fruit-rottest.png",
+                "alt": "Botrytis Fruit Rot"
+            },
+            "content": [
+                "Soft, gray fungal spores grow on these watery spots when humidity is high Mid to late part of the season when problems arise",
+                "As berries ripen, few infected druplets can develop a watery rot and golden or tan color"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High relative humidity in cooler weather, (16-26oC) encourages the mold growth",
+                "Post harvest, high relative humidity in the cooler encourages mold growth",
+                "Infected berries leak on to other berries, spreading disease"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Overwinters on canes, dead leaves and mummified berries",
+                "Spores (conidia) are dispersed by air, water or harvesting and ultimately infect different floral parts including stamens and petals.",
+                "For man Pre-harvest, wet weather during blossom time, disease remains latent",
+                "Disease is spread by spores by wind and splashing water (rain and overhead irrigation)",
+                "More mature and over ripe fruit becomes, the greater the risk"
+            ]
+        }
+    },
+    "Cane Botrytis (Grey Mold Wilt)": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/cane-botrytistest.png",
+                "alt": "Cane Botrytis (Grey Mold Wilt)"
+            },
+            "content": [
+                "Appear mid summer",
+                "Pale brown lesions (with no purple cast)",
+                "Often have conspicuous band patterns or watermarks, due to the irregular growth patterns of the fungus",
+                "When primocanes turn brown in the fall, the lesions become indistinguishable from healthy tissue",
+                "after several weeks of low temperatures the lesions turn gray or white",
+                "Sclerotia form during winter and emerge as shiny black blisters in the spring",
+                "When the surface tissues are scraped away healthy green tissue underneath is exposed",
+                "Cane botrytis does weaken the stem",
+                "In spring difficult to tell difference between spur blight and cane botrytis, in fact both can be present on the same cane as both occupy the same ecological niche and do similar things to plant growth."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Wet weather or high humidity",
+                "Poor air circulation",
+                "Spread mainly by wind but also by splashing water (rain or overhead irrigation)",
+                "Disease overwinters on canes"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Spores (conidia) are dispersed by air, water or harvesting and ultimately infect different floral parts including stamens and petals"
+            ]
+        }
+    },
+    "Cane Blight": {
+        " Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/cane-blighttest.png",
+                "alt": "Cane Blight"
+            },
+            "content": [
+                "Dark brown to purplish cankers form at wound on new canes",
+                "As cankers enlarge and extend down the canes, lateral shoots can suddenly wilt and die",
+                "Wilting death may also occur on the side shoots of second-year canes",
+                "Affected canes are brittle and snap off easily",
+                "Fruiting canes often die between flowering and fruiting",
+                "Scrape the brown spot on cane with knife, will be brown discoloration under the bark"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Two most important factors for disease; a wound for the disease to enter and water to wash the organism into wound",
+                "Wet weather, spores ooze from the fruiting bodies",
+                "Spores spread on the wind",
+                "Young canes are susceptible"
+            ]
+        },
+        " Survival and spread: ": {
+            "content": [
+                "Overwintering sclerotia produce grey masses of conidia in damp spring weather",
+                "However, botrytis inoculum can come from many sources of decaying plant debris"
+            ]
+        }
+    },
+    "Spur blight": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/spur-blighttest.png",
+                "alt": "Spur blight"
+            },
+            "content": [
+                "Dark red, purple or chocolate brown spots below the spur, on young bark around buds of new shoots",
+                "Canes have silvery grey appearance in the winter",
+                "Diseased areas enlarge and girdle the stem, as a result the leaves fall off, especially on the lower parts of stem",
+                "Infected bark may dry out and crack by late summer",
+                "Yields and winter hardiness are reduced",
+                "Fungus survives year to year on the infected canes"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Cool rainy weather",
+                "Spores spread by wind and splashing water",
+                "Spores present at all times",
+                "Disease enters at leaf nodes and stems"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary spores (ascospores) are discharged from May to August.",
+                "Inoculum comes only from old fruiting canes.",
+                "Secondary spores (conidia) are also produced. Conidia splashed about in July and August probably cause the most damage"
+            ]
+        }
+    },
+    "Powdery Mildew": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/powdery-mildewtest.png",
+                "alt": "Powdery Mildew"
+            },
+            "content": [
+                "Powdery white growth on leaf underside, growing tip or fruit",
+                "Young canes, stunted, distorted, spindly and can die back",
+                "Young berries fail to mature to full size, wither and die"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Most prevalent in years when weather is dry and air circulation is poor, (warm and humid weather)",
+                "Can affect winter hardiness"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Resting spores in soil and airborne spores"
+            ]
+        }
+    },
+    "Anthracnose": {
+        " Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/anthracnosetest.png",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "Purple spots with grey-white centres form on new canes, leaves and petioles",
+                "Spots enlarge on canes to form sunken pits",
+                "On second-year canes, these lesions can coalesce into cankers that girdle the cane and cause it to dry out and crack. Infected canes are more susceptible to winter injury and produce weak growth in the spring",
+                "Fruit infections occur when there is abundant inoculum and wet weather in the green fruit stage",
+                "Fruit symptoms include shrunken brown druplets or withered, dry seedy fruit"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "infection requires three to twelve hours of wetness; only very young green tissue is infected"
+            ]
+        },
+        " Survival and spread:": {
+            "content": [
+                "Ascospores are rain-splashed and air-borne from infected canes in early spring",
+                "Conidia are rain-splashed from overwintering infected canes in the spring and throughout the summer to new growth"
+            ]
+        }
+    },
+    "Fire Blight": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/fire-blighttest.png",
+                "alt": "Fire Blight"
+            },
+            "content": [
+                "Can girdle canes. Lesions become water soaked",
+                "Carmel colored bacterial ooze comes out of lesions in beads during humid periods",
+                "Diseased plant parts become purplish black",
+                "Infected berries do not mature, become brown, dry up, become very hard and remain on pedicel"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Apple bacterial pathogen strain will attack raspberry, but not vice versa",
+                "Warm temperatures (18-25oC) and light rain favor infections, prolonged host flowering due to wet cool springs",
+                "Flowers, fruit, cane tips that are succulent become infected"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Bacteria remain present on diseased plant material",
+                "Honeybees and other insects, birds, rain and wind can transmit the bacterium to susceptible tissue. Injured tissue is also highly susceptible to infection, including punctures and tears caused by plant-sucking or biting insects,",
+                "Bacteria enter in the plant, either flower or tough mechanical damage"
+            ]
+        }
+    },
+    "Bacterial Blight": {
+        "Disease symptoms: ": {
+            "content": [
+                "Very similar to fire blight symptoms",
+                "Blackening or browning of tissue",
+                "Slow in spreading unlike fire blight",
+                "Can also be confused with several other disorders like winter injury, cane borer, or some herbicides"
+            ]
+        },
+        " Favourable Conditions:": {
+            "content": [
+                "Cool and moist weather"
+            ]
+        },
+        "Survival and Spread:": {
+            "content": [
+                "Overwinters on the canes and buds",
+                "Bacteria is systemic in the plant, and infection spreads as long"
+            ]
+        }
+    },
+    "Crown Gall and Cane Gall": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/crown-gall-and-cane-galltest.png",
+                "alt": "Crown Gall and Cane Gall"
+            },
+            "content": [
+                "Crown and cane gall are characterized by the spongy, rough, pinhead- to golf ball-sized, tumor-like swellings that become brown, woody knots with age.",
+                "Crown galls develop in the spring on the underground parts--the roots and crown of the plants.",
+                "Cane galls develop as whitish eruptions on the fruiting canes in mid-June.",
+                "These eruptions later turn brown and then black and begin to disintegrate.",
+                "More intense gall formation seems to occur in years with higher incidence of winter injury.",
+                "The diseases cause the production of dry, seedy berries and the stunting and prevention of new cane formation.",
+                "Weakened canes are broken easily by the wind and are more susceptible to winter injury.",
+                "The plants might show water stress and nutrient deficiency symptoms since the movement of water and nutrients throughout the plant is disrupted.",
+                "With cane gall, black and purple raspberries are more often infected than red raspberries and blackberries."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Both diseases are caused by soil-borne bacteria (crown gall: Agrobacterium tumifaciens and cane gall: Agrobacterium rubi) that infect the plant only through wounds.",
+                "Wounds can result from natural causes (e.g., insect feeding, frost damage) or from mechanical causes (e.g., pruning, cultivating, harvesting).",
+                "The bacteria overwinter in the soil and in galls."
+            ]
+        },
+        " Favourable conditions: ": {
+            "content": [
+                "Bacteria are then spread by splashing rain, running water, cultivation, and pruning from soil and infected plants.",
+                "As the galls enlarge, the soil can become heavily infested and will remain so for many years."
+            ]
+        }
+    },
+    "Root Rots": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/root-rotstest.png",
+                "alt": "Root Rots"
+            },
+            "content": [
+                "Unthriftiness",
+                "Appear to be suffering from lack of moisture or nutrients, but when these are added, there is no response",
+                "Leaves are smaller than normal, shorter petioles and become wilted or discolored",
+                "Fruiting canes produce fruit that is stunted and never sizes up\u00a0 berries may be seedy",
+                "Roots are dark brown to black, with discoloration extending to the crown",
+                "Rootlets are sparse or non - existent"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "A soil-borne fungus causes Phytophthora root rot.",
+                "The fungus produces spores that swim in water and infect roots and crowns when soil conditions are very wet."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Infections can take place whenever soil temperatures are over 10\u00baC and the soil is wet, but most frequently in spring and fall."
+            ]
+        }
+    },
+    "Verticillium Wilt": {
+        " Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/verticillium-wilttest.png",
+                "alt": "Verticillium Wilt"
+            },
+            "content": [
+                "Shoots are stunted and leaves, starting at the base of theinfected plant, turn yellow, wilt, and drop.",
+                "The entire shoot will wither and die shortly thereafter.",
+                "Raspberry canes might show a blue or purple streak from the soil line extending upward.",
+                "This purple streak is not detectable on raspberry canes.",
+                "Fruiting canes, infected the previous year, either die in the spring or develop yellow and stunted leaves.",
+                "If the canes die before reaching maturity, the fruit becomes mummified. Losses are heavier in black raspberries than in red raspberries."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "These fungi can exist in the soil prior to planting or may brought in on planting stock or may move in on wind-blown soil.",
+                "The fungi can survive either in plant debris or free in the soil."
+            ]
+        },
+        " Favourable conditions: ": {
+            "content": [
+                "The fungus is favored by cool weather and is most severe in poorly drained soils following a cool, wet spring"
+            ]
+        }
+    },
+    "Leaf spot": {
+        " Disease symptom: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/leaf-spottest.png",
+                "alt": "Leaf spot"
+            },
+            "content": [
+                "Greenish black spots develop on the upper leaf surface of new leaves.",
+                "These progress to whitish grey with a distinct margin and sometimes a shot hole in the centre.",
+                "Severely infected leaves drop prematurely."
+            ]
+        },
+        "Survival and spreads: ": {
+            "content": [
+                "The fungus infects only raspberries and overwinters on old leaves and canes. Young rapidly expanding leaves are infected."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Infections occur throughout the summer especially during periods of wet weather."
+            ]
+        }
+    },
+    "Mosaic disease": {
+        " Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/mosaic-diseasetest.png",
+                "alt": "Mosaic disease"
+            },
+            "content": [
+                "Poor vigor, low yields and poor fruit quality",
+                "Short stand longevity",
+                "Leaf symptoms most evident during cool weather, can range from puckering, curling and crinkling",
+                "Berries may be dry seedy and lack flavor"
+            ]
+        },
+        "Survival and spread:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-raspberry/fruit-rot-diseasetest.png",
+                "alt": "Disease cycles:"
+            },
+            "content": [
+                "Aphids transmit raspberry mosaic and raspberry leaf curl virus from infected to healthy plantings"
+            ]
+        }
+    },
+    "Disease cycles:": {
+        "Fruit rot disease:": {
+            "content": []
+        },
+        "Cane blight:": {
+            "content": []
+        },
+        "Powdery mildew:": {
+            "content": []
+        },
+        "Anthracnose:": {
+            "content": []
+        },
+        "Fire Blight:": {
+            "content": []
+        },
+        "Bacterial blight:": {
+            "content": []
+        }
+    }
+}

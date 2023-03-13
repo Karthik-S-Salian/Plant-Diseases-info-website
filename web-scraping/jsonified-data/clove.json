@@ -1,0 +1,43 @@
+{
+    "Seedling wilt": {
+        "Disease symptom:": {
+            "content": [
+                "Seedling wilt is observed mainly in nurseries and causes 5 to 40% death of seedlings.",
+                "Leaves of affected seedlings loose natural luster, tend to droop and ultimately die.",
+                "The root system and collar region of the seedling show varying degrees of discolouration and decay."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungus is soil-borne and remains in the soil as saprophyte for 2-3 years.",
+                "The secondary spread is aided by wind, rain and irrigation water."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High day temperature (30-35\u02daC).",
+                "Low humidity (50-60%).",
+                "Low soil moisture and alkaline soils"
+            ]
+        }
+    },
+    "Leaf rot:": {
+        "Disease symptom:": {
+            "content": [
+                "Necrotic spots of variable size and shapes are noticed on the leaves.",
+                "Severely affected leaves wither, droop and dry up.",
+                "Twigs are infected as the symptoms extend from the leaves through petioles.",
+                "The affected branches stand without leaves or only with young leaves at tips.",
+                "Flower buds are attacked by spreading infection from the twigs.",
+                "Shedding of flower buds occurs during periods of heavy and continuous rainfall."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "The fungus survives on diseased twigs and mummified fruits, either on the tree or on the ground.",
+                "The fungus spores are air-borne and also spread by rain splash.",
+                "Moderate temperatures and moist weather during bloom favour twig blight."
+            ]
+        }
+    }
+}

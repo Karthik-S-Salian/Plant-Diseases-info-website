@@ -1,0 +1,131 @@
+{
+    "Anthracnose": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-rajmash/Anthracnose.jpg",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "Symptoms of anthracnose can appear on any plant part. Pale brown sunken spots may appear on the cotyledons of infected seedlings.Spots may spread to the hypocotyle, which if girdled, kill the seedlings. Lesions on leaves are dark brown.",
+                "They are restricted to the veins on lower leaf surface. On stems, lesions are elongated and sunken.",
+                "On the pods, the fungus produces black, sunken lesions. These lesions penetrate deep into the pods and may cause shrivelling of the young pods.",
+                "Infected seed become discoloured changing to yellow through brown to black. In damp weather, the centres of anthracnose lesions become covered with a pink spore mass."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The disease is seed-borne and pathogen can also survive in soil. Secondary disease cycles continue until the weather remains favorable."
+            ]
+        },
+        "Favourable condition: ": {
+            "content": [
+                "Frequent showers, heavy dews, temperatures of 20 -30oC, and overcrowding of plants favor the spread and development of anthracnose."
+            ]
+        }
+    },
+    "Rust": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-rajmash/Rust.jpg",
+                "alt": "Rust"
+            },
+            "content": [
+                "Rust-colored pustules form on the lower leaf surfaces.",
+                "Severely infected leaves turn yellow, wilt, and then drop off of the plant.",
+                "Stems and pods may also be infected. It affects most types of beans under humid conditions."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungus survives mainly in alternate host."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Rust progresses most rapidly in susceptible hybrids or varieties when the temperature is near 27oC with high humidity and frequent dews."
+            ]
+        }
+    },
+    "Root rot": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-rajmash/Rootrot.jpg",
+                "alt": "Root rot"
+            },
+            "content": [
+                "Many fungi, including Rhizoctonia solani, Pythium spp., Fusarium solani, Macrophomina phaseolina, survive in the soil and infect young seedlings or the seeds of bean plants.",
+                "Seedlings fail to emerge after planting when the seeds rot in the soil or young seedlings may be stunted.",
+                "Plants are usually affected slightly above or below the soil line with a watery soft rot. Leaves turn yellow and roots get rotten."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Causal organisms survive in soil and seed as resting mycelia or sclerotia for long period. These organisms often survive as saprophytes, living on dead plant material, or as dormant mycelia or spores. Root exudates from germinating seedlings or growing roots stimulate the dormant fungi to become active."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Diseases are prevalent under cool wet conditions that keep the soil temperatures below 13\u00b0C.",
+                "Rhizoctonia root rot is most damaging when cool, wet conditions in the spring are followed by hot (25 -29\u00b0C), dry conditions."
+            ]
+        }
+    },
+    "Bean common mosaic disease": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-rajmash/Mosaic.jpg",
+                "alt": "Bean common mosaic disease"
+            },
+            "content": [
+                "Symptoms of bean common mosaic virus (BCMV) are cupping and twisting of leaves with a light and dark green mosaic pattern.",
+                "The dark green tissue is often bubbled and/or in bands next to the veins. Affected plants produce smaller, curled pods with a greasy appearance resulting in poor yields"
+            ]
+        },
+        "Transmission and fabourable conditions: ": {
+            "content": [
+                "The virus is seed borne and can also be transmitted by several aphid species"
+            ]
+        }
+    },
+    "Watery Soft Rot": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-rajmash/Softrot.jpg",
+                "alt": "Watery Soft Rot"
+            },
+            "content": [
+                "Small, soft, watery spots that are caused by the fungus Sclerotinia sclerotiorum occur on the stems, leaves and pods of beans.",
+                "These spots enlarge rapidly under cool, moist conditions and girdle the stem.",
+                "Infected areas of pods become soft, watery and covered by a white fungal growth."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The fungus is soil-borne and infects lower parts of bean plants first. The most important survival mechanism of S. sclerotiorum is the formation of sclerotia. Infection is initially localized and spread rapidly in low lying moist and cool areas under furrow irrigation Favourable conditions:",
+                "Wet and cold weather conditions towards the end of growing season are conducive to white mould epidemics."
+            ]
+        }
+    },
+    "Angular leaf spot": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-rajmash/leafspot.jpg",
+                "alt": "Angular leaf spot"
+            },
+            "content": [
+                "Symptoms consist of small dark brown spots with angular edges and are often numerous to give the foliage a checker-board appearance.",
+                "The spots may increase in size, join together, and cause yellowing and necrosis of the affected leaves. This may lead to premature defoliation."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The disease is seed-borne."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "The disease is favoured by high moisture and moderate temperatures (20-25\u00b0C)."
+            ]
+        }
+    }
+}

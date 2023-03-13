@@ -1,0 +1,275 @@
+{
+    "Damping off": {
+        "Causal organism :": {
+            "content": [
+                "Pythium aphanidermatum"
+            ]
+        },
+        "Damage symptoms: ": {
+            "content": [
+                "Disease of nursery beds and young seedlings resulting in reduced seed germination and poor stand of seedlings. Very high seedling mortality 25-75%",
+                "Pre-emergence damping off : Seedlings disintegrate before they come out of soil surface leading to poor seed germination",
+                "Post-emergence  damping off is characterised by development of disease after seedlings have emerged out of soil but before the stems are lignified",
+                "Water soaked lesion  formation at collar region",
+                "brown and rot Infected areas turn",
+                "collapse Plants shrivel and  as a result of softening of tissues",
+                "wire stem In Rhizoctonia solani attack infected stems become hard, thin ( symptoms) and infected seedlings topple Disease appear in patches both in nursery and field beds."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Primary : Oospores in soil in case of Pythium Sclerotia in soil in case of Rhizoctonia",
+                "Secondary : Zoospores through irrigation water in case of Pythium. Mycelial growth in soil and sclerotia through irrigation water in case of Rhizoctonia."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Heavy rainfall, excessive and frequent irrigation, poorly drained soil and close spacing, high soil moisture with temp around 25-30 \u00b0C",
+                "For Rhizoctonia: High soil moisture with temp around 30 \u2013 35 \u00b0C."
+            ]
+        }
+    },
+    "Die-back and Anthracnose (fruit rot)": {
+        "Causal organism :": {
+            "content": [
+                "Colletotrichum"
+            ]
+        },
+        "Damage symptoms: ": {
+            "content": []
+        },
+        "Dieback Symptoms": {
+            "content": [
+                "Disease is more in December - October in transplanted crop",
+                "Small, circular to irregular, brownish black scattered spots appear on leaves",
+                "Severely infected leaves defoliate",
+                "Infection of growing tips leads to necrosis of branches from tip backwards",
+                "Necrotic tissues appear grayish white with black dot like acervuli in the center",
+                "Shedding of flowers due to the infection at pedicel and tips of branches",
+                "Fruit symptoms",
+                "Ripe fruits are more vulnerable to attack than green ones",
+                "Small, circular, yellowish to pinkish sunken spots appear on fruits",
+                "Spots increase along fruit length attaining elliptical shape",
+                "Severe infection result in the shrivelling and drying of fruits.",
+                "Tissues around lesions will be bleached and turn white or greyish in colour and lose their pungency",
+                "On the surface of the lesions minute black dot like fruiting bodies called \u2018acervuli\u2019 develop in concentric rings and fruits appear straw coloured",
+                "The affected fruits may fall off subsequently. The seeds produced in severely infected fruits are discoloured and covered with mycelial mat."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary : Mycelium and conidia in acervuli in infected seeds and diseased crop debris",
+                "Secondary : Conidia dispersed by rain splash and wind."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Temp, 28 \u00b0C with RH more than 97%, humid weather with rainfall at frequent intervals, intercropping with turmeric which is another host of the fungus."
+            ]
+        }
+    },
+    "Choeanephora blight/ wet rot": {
+        "Causal organism :": {
+            "content": [
+                "Coeanephora cucurbitarum"
+            ]
+        },
+        "Damage symptoms: ": {
+            "content": [
+                "Plants from seedling to early flowering stage are susceptible",
+                "Being a weak parasite the fungus colonises dead or dying tissues before it actively",
+                "invades living tissues",
+                "Fruit infection is observed predominantly around calyx",
+                "The pathogen attacks flowers through the senescing petals and overgrows on flowers resulting in brown or black mass of rotten tissue",
+                "Flower stalks, buds and leaves will be attacked subsequently",
+                "On infected tissues stiff silvery mass of whisker-like or hairy strands of the fungal growth develops on which black mass of spores is produced which is the chief diagnostic feature",
+                "Infected young fruits may abort",
+                "Individual branches of plants may be attacked which show dieback",
+                "Stems of infected plants appear wet and green and the bark peels of in to shreds"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary : Zygospores on seeds and diseased crop debris in soil.",
+                "Secondary : Conidia (sporangiospores) dispersed by rain splash and wind."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Warm, Rainy and wet weather Temp, 28\u00b0C with RH more than 97%",
+                "Extended periods of high rainfall followed by warm weather."
+            ]
+        }
+    },
+    "Mosaic complex": {
+        "Damage symptoms": {
+            "content": [
+                "Symptoms vary with the virus TMV",
+                "Raised blisters and mottled areas of light and dark green areas on the foliage",
+                "Leaves point towards ground",
+                "Necrotic spots on stem",
+                "Fruit ripens unevenly and is reduced in size CMV",
+                "Reduction in leaf size and narrowing of lamina Chlorosis leading to mosaic symptoms",
+                "Downward curling along with midrib",
+                "Fruit may be small and distorted, on volunteer Chilli plants and on infected plant debris."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": []
+        },
+        "TMV: ": {
+            "content": [
+                "Primary : Externally seed borne virus particles",
+                "Secondary : Mechanically transmitted virus particles."
+            ]
+        },
+        "CMV": {
+            "content": [
+                "Primary : Externally seed borne virus particles to some extent and vector transmitted from other and collateral hosts",
+                "Secondary : Virus particles transmitted by aphid vectors, Myzus persicae, Aphis gossypii, A. craccivora"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Moist weather and splattering rains",
+                "High humidity or persistent dew"
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Causal organism : ": {
+            "content": [
+                "Leveillula taurica"
+            ]
+        },
+        "Damage symptoms:": {
+            "content": [
+                "White powdery coating appears mostly on the lower surface and occasionally on upper surface",
+                "Correspondingly on the upper surface yellow patches are seen",
+                "Severe infection results in the drying and shedding of affected leaves",
+                "Powdery growth can also be seen on branches and young fruits",
+                "Diseased fruits do not grow further and may drop down prematurely"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary : Dormant mycelium in the infected crop debris",
+                "Secondary : Wind dispersed conidia"
+            ]
+        },
+        "Favourable conditions ": {
+            "content": [
+                "Cool dry weather favours conidial germination",
+                "High RH favours disease development"
+            ]
+        }
+    },
+    "Cercospora leaf spot": {
+        "Causal organism : Cercospora capsici  Heald & F.A. Wolf": {
+            "content": []
+        },
+        "Damage symptoms:": {
+            "content": [
+                "Circular spots with brown margins and grey centre appear on leaves",
+                "The spots enlarge and coalesce with others",
+                "The central portion of the spot becomes white and the leaves turn yellow and defoliate",
+                "Sometimes central portion of spot drops off",
+                "Spots also appear on stems and twigs as dark brown, irregular lesions with whitish centers",
+                "In severe cases die-back of twigs occur"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary : Dormant mycelium in the infected crop debris, seeds and volunteer plants",
+                "Secondary : Wind dispersed conidia"
+            ]
+        }
+    },
+    "Bacterial leaf spot": {
+        "Causal organism :": {
+            "content": [
+                "Xanthomonas campestris",
+                "vesicatoria"
+            ]
+        },
+        "Damage symptoms: ": {
+            "content": [
+                "Leaves, fruits and stems are affected",
+                "Lesions on leaf begin as circular, water soaked spots",
+                "Spots become necrotic with brown center with chlorotic borders",
+                "Enlarged spots may develop straw coloured centres",
+                "Lesions are slightly raised on lower leaf surface",
+                "Severely spotted leaves turn yellow and drop",
+                "Raised brown lesions appear on fruits",
+                "Narrow elongated lesions or streaks may develop on stems"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary : Seed borne bacterial cells",
+                "Secondary : Bacterial cells spread by rain splash"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Moderate temperature",
+                "High relative humidity",
+                "Intermittent rains"
+            ]
+        }
+    },
+    "Alternaria leaf spot": {
+        "Causal organism :": {
+            "content": [
+                "Alternaria solani"
+            ]
+        },
+        "Damage symptoms:": {
+            "content": [
+                "This is a common disease of chilli occurring on the foliage at any stage of the growth.",
+                "The fungus attacks the foliage causing characteristic leaf spots and blight. Early blight is first observed on the plants as small, black lesions mostly on the older foliage.",
+                "Spots enlarge, and by the time they are one-fourth inch in diameter or larger, concentric rings in a bull's eye pattern can be seen in the center of the diseased area.",
+                "Tissue surrounding the spots may turn yellow. If high temperature and humidity occur at this time, much of the foliage is killed.",
+                "Lesions on the stems are similar to those on leaves, sometimes girdling the plant if they occur near the soil line.",
+                "Transplants showing infection by the late blight fungus often die when set in the field. The fungus also infects the fruit, generally through the calyx or stem attachment.",
+                "Lesions attain considerable size, usually involving nearly the entire fruit; concentric rings are also present on the fruit."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Primary  : The fungus spends the winter in infected plant debris in or on the soil where it can survive at least one and perhaps several years. It can also be seed borne.",
+                "Secondary : The spores are transported by water, wind, insects, other animals including man, and machinery. Once the initial infections have occurred, they become the most important source of new spore production and are responsible for rapid disease spread."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Warm, rainy and wet weather"
+            ]
+        }
+    },
+    "Fusarium wilt": {
+        "Causal organism : ": {
+            "content": [
+                "Fusarium solani"
+            ]
+        },
+        "Damage symptoms: ": {
+            "content": [
+                "The first symptom of the disease is clearing of the veinlets and chlorosis of the leaves.",
+                "The younger leaves may die in succession and the entire may wilt and die in a course of few days. Soon the petiole and the leaves droop and wilt.",
+                "In young plants, symptom consists of clearing of veinlet and dropping of petioles. In field, yellowing of the lower leaves first and affected leaflets wilt and die.",
+                "The symptoms continue in subsequent leaves. At later stage, browning of vascular system occurs. Plants become stunted and die."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Soil and implements"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Relatively high soil moisture and soil temperature"
+            ]
+        }
+    }
+}

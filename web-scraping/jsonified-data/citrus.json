@@ -1,0 +1,155 @@
+{
+    "Citrus scab": {
+        "Disease symptoms:": {
+            "content": [
+                "Initially small, semi-translucent dots like lesion develops on leaves which become sharply defined pustular elevations. The opposite surface corresponding to the warty growth shows a circular depression with a pink to red centre.",
+                "On the fruit, lesions consist of corky projections which often break into scab affecting larger areas on the fruits"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Fungal survive in the infected leaves through overwintering lesions on the fruit or leaves and/or from any scab infections that have developed on the new spring flush."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Scab can be particularly severe on summer growth flushes. Summer wet periods associated with rain showers and dew is highly conducive for spore germination and infection."
+            ]
+        }
+    },
+    "Citrus canker": {
+        "Disease symptoms:": {
+            "content": [
+                "Initially, disease appears as minute water soaked round, yellow spots which enlarge slightly and turn brown, eruptive and corky.",
+                "These pustules are surrounded by a characteristic yellow halo.",
+                "Canker lesions on the fruit do not possess the yellow halo as on leaves. Several lesions on fruit may coalesce to form larger canker.",
+                "Due to severe infections the there may be defoliation, and twig and stem may show die-back symptoms."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "In lesions on Citrus, and can also survive for long periods in diseased plant tissues",
+                "Citrus leaf miners (Phyllocnistis citrella) help in the dissemination of the pathogen."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Spring seasion is favourable for the development of disease"
+            ]
+        }
+    },
+    "Citrus tristeza disease": {
+        "Disease symptoms:": {
+            "content": [
+                "Disease affected tree leaves becomes chlorotic in the early stages. Gradually the leaves drop and the defoliated twigs show die-back.",
+                "Diseased trees usually blossom heavily.",
+                "Under the tree bark stem pitting can be observed.",
+                "Trees with stem pitting are stunted and set less fruits.",
+                "The fruits are of smaller size and of poor quality (insipid fruits)."
+            ]
+        },
+        "Transmission and favourable conditions:": {
+            "content": [
+                "The disease is transmitted in semi persistent manner by aphid Aphis gossypii.",
+                "Aphids are more active in warm summer conditions and increase their population as well as spread of the disease."
+            ]
+        }
+    },
+    "Gummosis": {
+        "Disease symptoms:": {
+            "content": [
+                "Disease starts as water soaked large patches on the basal portions of the stem near the ground level.",
+                "Bark in such parts dries, shrinks and cracks and shreds in lengthwise vertical strips.",
+                "Later profuse exudation of gum from the bark of the trunk occurs.",
+                "Considerable amount of gum formation in sweet oranges may be observed, but relatively little in grapefruit."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungus survives in the form of dormant mycelium and under moist conditions. The fungi produces large numbers of motile zoospores, which are splashed onto the tree trunks.",
+                "Secondary infections often occur through lesions created by Phytophthora"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "The Phytophthora species causing gummosis develop rapidly under moist and cool conditions."
+            ]
+        }
+    },
+    "Greening or Huanglongbing": {
+        "Disease symptoms:": {
+            "content": [
+                "Affected leaves show small circular green islands within the chlorotic areas.",
+                "Heavy leaf fall occurs with the onset of summer.",
+                "Twig die-back may also occurs.",
+                "Affected areas of the fruits remain green and gives bitter taste",
+                "Affected fruits show reduction in size, loopsided growth and oblique columella.",
+                "Seeds are poorly developed, dark coloured and aborted."
+            ]
+        },
+        "Transmission and favourable conditions:": {
+            "content": [
+                "The bacterium is transmitted by the psyllids Triozaerytreae Del Guercio. The bacteria can be acquired by the insects in the nymphal stages and the bacteria may be transmitted throughout the life span of the psyllid."
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptoms:": {
+            "content": [
+                "Leaf - common symptoms are a more or less circular, flat area, light tan in color with a prominent purple margin that at a later phase of infection will show the fruiting bodies of the fungus (tiny dispersed black flecks).",
+                "Tissues injured by various environmental factors (such as mesophyll collapse or heavy infestations of spider mites) are more susceptible to anthracnose colonization.",
+                "Fruit - anthracnose usually only occurs on fruit that have been injured by other agents, such as sunburn, chemical burn, pest damage, bruising, or extended storage periods. The lesions are brown to black spots of 1.5 mm or greater diameter. The decay is usually firm and dry but if deep enough can soften the fruit. If kept under humid conditions, the spore masses are pink to salmon, but if kept dry, the spores appear brown to black. On ethylene degreened fruit, lesions are flat and silver in color with a leathery texture. On degreened fruit, much of the rind is affected. The lesions will eventually become brown to grey black leading to soft rot."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Once the spores germinate, they form a resting structure that allows them to remain dormant until an injury occurs"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Cool weather (temp 20\u00b0C) responsible for development of disease in plants",
+                "Long period of high relative humidity >80% with mists"
+            ]
+        }
+    },
+    "Sooty mould": {
+        "Disease symptoms:": {
+            "content": [
+                "The dark, felty growth from sooty mold can be scraped off of plant surfaces, unlike fruit rots that extend into the rind and flesh.",
+                "Where sooty mold occurs, look for aphids, citricola scale, cottony cushion scale, mealy bugs, whiteflies, and other phloem-sucking insects that excrete honeydew on which sooty mold fungi grow."
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms:": {
+            "content": []
+        },
+        "Leaf": {
+            "content": [
+                "White \u2018powdery\u2019 spores develop mostly on the upper leaf surface.",
+                "Young leaves turn a pale whitish-grey-green.",
+                "The ends of mildewed leaves can twist and curl upward.",
+                "Young shoots can whither and die back.",
+                "Severe infections cause defoliation."
+            ]
+        },
+        "Fruit": {
+            "content": [
+                "White \u2018powdery\u2019 spores develop on the young fruits.",
+                "Infected fruit fall prematurely."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungi produce tiny, powdery spores that can survive on fallen leaves. It can be transported long distances by wind, on people (clothing, hands), equipment (e.g. pruning tools, mechanical harvesters or hedgers) or vehicles."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Cool and damp weather (temp 20\u00b0C) responsible for development of disease in plants",
+                "Long period of high relative humidity >80% with mists and fog are especially conducive for the development of disease."
+            ]
+        }
+    }
+}

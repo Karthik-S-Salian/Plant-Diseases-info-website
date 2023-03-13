@@ -1,0 +1,105 @@
+{
+    "Downy mildew": {
+        "Damage symptom": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-pearl-millet/Downymildew.jpg",
+                "alt": "Downy mildew"
+            },
+            "content": [
+                "The characteristic symptoms of the disease are pale, chlorotic, broad streaks extending from base to tip of leaves.",
+                "At the advancement of disease, the leaf streaks turn brown and the leaves become shredded longitudinally. In severe infection, the downy fungal growth can be seen on the upper as well as lower surface of the leaves.",
+                "The rapid growth of fungal pathogen is favoured by rainy and humid environment. The infected plants fail to form ear but if formed, they are malformed to green leafy structures.",
+                "The complete ear can be transformed into leafy structure.",
+                "The fungal pathogen transformed all floral parts such as glumes, palea, stamens and pistils into green linear leafy structures of variable lengths.",
+                "As the disease advances, the malformed floral structures of ears become brown and dry."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The oospores remain viable for eight months to ten years or more in the soil, which makes primary infection in host plants and present abundantly in diseased leaves fall on the ground.",
+                "The secondary spread of disease starts from sporangia, which are most active in moist environment."
+            ]
+        },
+        "Favorable conditions": {
+            "content": [
+                "The atmospheric temperatures between 15-25 \u00b0C and relative humidity above 85 per cent.",
+                "Light drizzling accompanied by cool weather is highly favourable"
+            ]
+        }
+    },
+    "Ergot": {
+        "Damage symptom": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-pearl-millet/Ergot.jpg",
+                "alt": "Ergot"
+            },
+            "content": [
+                "Sphacelial (conidial) \"honeydew\" sporulation has been reported on pearl millet (Frederickson and Mantle 1996).",
+                "Cream to pink mucilaginous droplets of \"honeydew\" ooze out of infected florets on pearl millet panicles and form sclerotia",
+                "Within 10 to 15 days, the droplets dry and harden, and dark brown to black sclerotia develop in place of seeds on the panicle.",
+                "Sclerotia are larger than seed and irregularly shaped, and generally get mixed with the grain during threshing."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The sclerotia take about 30-45 days to germinate and produce air borne spores which spread primary infection to pearl millet crop.",
+                "The secondary spread of the disease is through conidia produced in large numbers in honey dew and disseminated by insects or rain."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Conditions favoring the disease are RH greater than 80% and 20 to 30oC temperatures"
+            ]
+        }
+    },
+    "Smut": {
+        "Damage symptom": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-pearl-millet/Smut.jpg",
+                "alt": "Smut"
+            },
+            "content": [
+                "Immature, green sori larger than the seed develop on panicles during grain filling stage.",
+                "A single sorus develops per floret.",
+                "As grain matures, sori change in color from bright green to dark brown.",
+                "Sori are filled with dark teliospores."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The primary infection of the disease starts from air borne spores, which produce sporidia on germination that enter in the spikelets and infect ovary.",
+                "Teliospores may remain viable in the soil and sporidia may be produced (Patel et al. 1959)."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Optimum environmental conditions for maximum infection include: temperatures of between 25 and 35\u00b0C and slightly acidic soils favour the disease development."
+            ]
+        }
+    },
+    "Rust": {
+        "Damage symptom": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-cerels/ipm-strategies-for-pearl-millet/Rust.jpg",
+                "alt": "Rust"
+            },
+            "content": [
+                "On pearl millet: small reddish-brown to reddish orange, round to elliptical uredinia develop mainly on foliage.",
+                "As severity of infection increases, leaf tissue will wilt and become necrotic from the leaf apex to base.",
+                "In infection sites developing late in the season, uredinia are replaced by telia which are black, elliptical, and sub epidermal."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The uredospores survive for a short time in soil and infected debris.",
+                "Presence of alternate host helps in perpetuation of the fungus."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Low temperature of 10 to 12\u02daC favoursteliospore germination.",
+                "A spell of rainy weather favours the onset of the disease."
+            ]
+        }
+    }
+}

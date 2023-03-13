@@ -1,0 +1,154 @@
+{
+    "Blister blight": {
+        "Disease symptoms": {
+            "content": [
+                "Small, pinhole-size spots are initially seen on young leaves less than a month old. As the leaves develop, the spots become transparent, larger, and light brown.",
+                "After about 7 days, the lower leaf surface develops blister-like symptoms, with dark green, water-soaked zones surrounding the blisters.",
+                "Following release of the fungal spores, the blister becomes white and velvety.",
+                "Subsequently the blister turns brown, and young infected stems become bent and distorted and may break off or die."
+            ]
+        },
+        "Survival and spread": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tea/blister-blighttest.png",
+                "alt": "Blister blight"
+            },
+            "content": [
+                "The pathogens survive on leaves or stems and in fallen plant host debris.",
+                "Disease is readily spread by the dispersal of spore by wind."
+            ]
+        },
+        "Favourable conditions": {
+            "content": []
+        }
+    },
+    "Red rust": {
+        "Disease symptoms": {
+            "content": [
+                "Leaves develop lesions that are roughly circular, raised, and purple to reddish-brown. The alga may spread from leaves to branches and fruit.",
+                "Most algal spots develop on the upper leaf surface.",
+                "Older infections become greenish-gray and look like lichen. Cephaleuros usually does not harm the plant."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogens reproduce and survive in spots on leaves or stems and in fallen plant host debris."
+            ]
+        },
+        "Favourable conditions": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tea/red-rusttest.png",
+                "alt": "Red rust"
+            },
+            "content": [
+                "Frequent rains and warm weather are favorable conditions for these pathogens. For hosts, poor plant nutrition, poor soil drainage, and stagnant air are predisposing factors to infection by the algae"
+            ]
+        }
+    },
+    "Brown blight, grey blight": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tea/brown-blight-grey-blighttest.png",
+                "alt": "Brown blight  grey blight"
+            },
+            "content": [
+                "Small, oval, pale yellow-green spots first appear on youngleaves. Often the spots are surrounded by a narrow, yellow zone.",
+                "As the spots grow and turn brown or gray, concentric rings with scattered, tiny black dots become visible and eventually the dried tissue falls, leading to defoliation. Leaves of any age can be affected."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives in decay plant debris which is the sourse of primary infection.",
+                "When young twigs of susceptible cultivars are cut and used to root new plants, latent mycelium in the leaf tissue may start to invade nearby cells to form brown spots, and this may lead to death of leaves and twigs."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "The disease is favored by poor air circulation, high temperature, and high humidity or prolonged periods of leaf wetness."
+            ]
+        }
+    },
+    "Twig die back, stem canker": {
+        "Disease symptoms": {
+            "content": [
+                "The first symptoms include browning and drooping of affected leaves. As the disease spreads into the shoots, they become dry and die. The entire branch can die from the tip downward.",
+                "Dying branches often have cankers-shallow, slowly spreading lesions surrounded by a thick area of bark."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus usually requires wounded plant tissue to gain entry and initiate infection.",
+                "Spores are spread when splashed by rain and can survive for several weeks on pruned branches left in the field."
+            ]
+        },
+        "Favourable conditions": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tea/twig-die-back-stem-cankertest.png",
+                "alt": "Twig die back, stem canker"
+            },
+            "content": [
+                "Rainy weather favors its spread, and dry conditions promote its development."
+            ]
+        }
+    },
+    "Brown root rot disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "http://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tea/brown-root-rot-diseasetest.png",
+                "alt": "Brown root rot disease"
+            },
+            "content": [
+                "Tea plants of all ages are susceptible to this disease. Affectedbushes occur in patches, usually around old tree stumps, but sometimes isolated bushes are affected.",
+                "Plants become weaker and their leaves begin to turn yellow and finally wilt and defoliate, eventually leading to death of the plant.",
+                "Longitudinal cracks are usually present on the collar above the soil level but also on the tap root and lateral roots.",
+                "Scrapping of the bark at the collar region reveals sheets of creamy white mycelia and the wood has a strong mushroom like-smell."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Disease is spread by spores carried by wind, lodges on stumps of shade trees; infection spreads mainly through root contact and alternate hosts are Coffee, Grevillea, Albizia and Erythrina."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Disease is common in low elevation areas. Humid and rainy season favour the development of disease."
+            ]
+        }
+    },
+    "Red root rot disease": {
+        "Symptoms": {
+            "content": [
+                "Disease is also called as Poria root disease of tea.",
+                "First symptoms appear as yellowing of the leaf followed by wilting and then sudden death of the bush or entire bush with the weathered leaves are attached to the stem for several days."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen is soil borne and mycelium present in the soil is the source of primary infection."
+            ]
+        },
+        "Favourable conditions": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tea/disease-cycle-blister-blighttest.png",
+                "alt": "Disease cycle"
+            },
+            "content": [
+                "Humid and rainy season favour the development of the disease."
+            ]
+        }
+    },
+    "Disease cycle": {
+        "Blister blight:": {
+            "content": []
+        },
+        "Rust": {
+            "content": []
+        },
+        "Brown and grey blight": {
+            "content": []
+        },
+        "Twig die back, stem canker": {
+            "content": []
+        }
+    }
+}

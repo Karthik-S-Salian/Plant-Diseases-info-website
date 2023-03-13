@@ -1,0 +1,77 @@
+{
+    "Phyllody": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-oilseeds/ipm-strategies-for-sesame/Phyllodyimg.jpg",
+                "alt": "Phyllody img"
+            },
+            "content": [
+                "All floral parts are transformed into green leafy structures followed by abundant vein clearing in different flower parts.",
+                "In severe infection, the entire inflorescences is replaced by short twisted leaves closely arranged on a stem with short internodes, abundant abnormal branches bend down.",
+                "Finally, plants look like witches broom.",
+                "If capsules are formed on lower portion of plant they do not yield quality seeds"
+            ]
+        },
+        "Transmission and favourable conditions": {
+            "content": [
+                "The disease is transmitted through jassids and the phytoplasma survives in leaf hopper throughout its life."
+            ]
+        }
+    },
+    "Dry root rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-oilseeds/ipm-strategies-for-sesame/Dryrootrotimg.jpg",
+                "alt": "Dryrootrot img"
+            },
+            "content": [
+                "The fungus attacks young seedling, their stems become water soaked soft and incapable of supporting the seedling which falls over and dies.",
+                "On older seedlings elongated brownish black lesions appear which increase in length and width girdling the stem and plant dies."
+            ]
+        },
+        "Survival and spread -": {
+            "content": []
+        },
+        "Favourable conditions - ": {
+            "content": []
+        }
+    },
+    "Phytophthora blight": {
+        "Disease symptoms": {
+            "content": [
+                "Disease can occur at all stages of the plant.",
+                "Initial symptom is water soaked spots on leaves and stems.",
+                "The spots are chestnut brown in the beginning later turn to black.",
+                "Premature leaf fall occurs.",
+                "In humid weather, severity of disease increases, main root is affected, diseased plants are easily pulled out and produce shriveled seeds and gives blighted appearance."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives in soil"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High soil moisture favours the development of the pathogen.",
+                "The disease is severe in the area of heavy soil with high rainfall"
+            ]
+        }
+    },
+    "Alternaria blight": {
+        "Disease symptoms:": {
+            "content": [
+                "The pathogen attacks all parts of the plant at all stages.",
+                "Small, dark brown water soaked, round to irregular lesions, with concentric rings, 1-8 mm in diameter appear on the leaves and under excessive atmospheric and soil humidity the spot increases in size and number.",
+                "The lesions may also appear on the midrib and veins of the leaves.",
+                "Milder attacks cause only defoliation, in severe cases the plant may die."
+            ]
+        },
+        "Transmission and favourable conditions": {
+            "content": [
+                "The pathogen is seed borne.",
+                "Temperature of 20-30o C and high humid conditions favour the disease."
+            ]
+        }
+    }
+}

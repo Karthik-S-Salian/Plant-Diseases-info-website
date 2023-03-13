@@ -1,0 +1,73 @@
+{
+    "Seedling rot": {
+        "Disease symptoms": {
+            "content": [
+                "Leaves turn pale and their tips become yellow. Gradually, these symptoms spread over the entire leaf extending to leaf sheath resulting in wilting of seedlings.",
+                "The collar portion decays and the entire seedlings die. Infection spreads in the nursery beds resulting in death of seedlings in small patches.",
+                "In grown up seedlings, rotting extends from the collar region to the rhizomes resulting in their decay and ultimate death of the plant."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Seed, Soil and Water"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity, high soil moisture, cloudiness and low temperatures below 24\u00b0 C for few days are ideal for infection and development of disease.",
+                "Crowded seedlings, dampness due to high rainfall, poor drainage and excess of soil solutes hamper plant growth and increase the pathogenic damping-off."
+            ]
+        }
+    },
+    "Chirkey disease": {
+        "Disease symptoms": {
+            "content": [
+                "The disease is characterized by mosaic appearance on leaves. The symptom is more prominent on young emerged leaves where discrete pale green to yellow longitudinal strips running parallel to each other can be seen. The flowering is greatly reduced thereby reducing the yield with time"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in soil as well as crop debris."
+            ]
+        },
+        "Favourable condition": {
+            "content": [
+                "Lack of phyto-sanitation to destroy the insect vector, presence of infected old plants in garden."
+            ]
+        }
+    },
+    "Foorkey disease": {
+        "Disease symptoms": {
+            "content": [
+                "The affected plants produce profuse stunted shoots which fail to produce flowers. The leaves become small, lightly curled and pale green in colour. The inflorescence becomes stunted, thereby producing no flowers and fruits. The capsule size reduced and chaffy without seeds"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in soil as well as crop debris."
+            ]
+        },
+        "Favourable condition": {
+            "content": [
+                "Lack of phyto-sanitation to destroy the insect vector, presence of infected old plants in garden."
+            ]
+        }
+    },
+    "Leaf blight": {
+        "Disease symptoms": {
+            "content": [
+                "Water-soaked lesions appear on the leaf margin or on the tips of the leaves which rapidly enlarges, coalesce and cover the entire leaf lamina giving blighted appearance. The advancing lesions are blackish-brown in colour and margins have a yellow halo around it. The affected leaves become necrotic and dry. Leaf sheath covering the pseudostem shows blackish-brown discolouration which progress down to the rhizome and gradually the pseudostem becomes brittle and breaks in the middle or at the collar region. Eventually, the affected clump dries up completely giving the entire plant a burnt appearance"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in soil as well as crop debris."
+            ]
+        },
+        "Favourable condition": {
+            "content": [
+                "Inadequate shade leval, lack of field sanitation and nutrient management. The cardamom crop is grown as monoculture crop ever since its introduction which has provided favourable condition for building up of the pests and pathogen in the long run"
+            ]
+        }
+    }
+}

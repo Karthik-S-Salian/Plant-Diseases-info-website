@@ -1,0 +1,156 @@
+{
+    "Leaf (Ramularia) blight": {
+        "Disease symptoms:": {
+            "content": [
+                "Symptoms first appear on the lower and older leaves in the month of January, as a minute, angular brown, necrotic spot.",
+                "Later these spots become large and are covered with grayish white erumpent growth.",
+                "At later stage, linear and rectangular spots cover the entire stem, peduncles and fruits.",
+                "Severely affected leaves shrivel and dry up.",
+                "In case of severe attack whole plant turns to brown colour, resulting in drying up of plant"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Pathogen survives on infected plant debris in the soil",
+                "Pathogen infects lower part first and then above plant parts",
+                "It spreads through wind and rain splash."
+            ]
+        },
+        "Favorable conditions:": {
+            "content": [
+                "Disease favours high humidity >80%."
+            ]
+        }
+    },
+    "Leaf spot": {
+        "Disease symptoms:": {
+            "content": [
+                "The disease primarily affects older foliage. Affected leaf tips and stems turn brown to black in color and dry up.",
+                "Examination of the stems and leaves show tiny, discrete, dark brown to black fungal patches.",
+                "Early patches are less than one-sixteenth inch wide, and can be oval, circular or irregular in shape"
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary:  Through dormant mycelium remains in the infected crop debris, seeds and volunteer plants",
+                "Secondary:  Through wind dispersed conidia"
+            ]
+        },
+        "Favorable conditions:": {
+            "content": [
+                "Disease favours high humidity >80%."
+            ]
+        }
+    },
+    "Damping off": {
+        "Disease symptoms:": {
+            "content": [
+                "Damping off occurs in two stages, i.e. the pre-emergence and the post-emergence phase.",
+                "In the pre-emergence phase the seedlings are killed just before they reach the soil surface.",
+                "The young radical and the plumule are killed and there is complete rotting of the seedlings.",
+                "The post-emergence phase is characterized by the infection of the young, juvenile tissues of the collar at the ground level.",
+                "The infected tissues become soft and water soaked.",
+                "Infected seedlings are toppled on the ground surface."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary:  Through soil, seed, water",
+                "Secondary:  By conidia through rain splash or wind"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High humidity, high soil moisture, cloudiness and low temperatures below 24\u00b0 C for few days.",
+                "Crowded seedlings, dampness due to high rainfall, poor drainage and excess of soil solutes hamper plant growth and increase the pathogenic damping-off."
+            ]
+        }
+    },
+    "Fusarium wilt": {
+        "Disease symptoms:": {
+            "content": [
+                "Disease produces wilting symptoms at seedling and later stage of plant growth",
+                "Infected plants turn yellow.",
+                "Fungal growth may be seen in the infected plant stem if cut longitudinally"
+            ]
+        },
+        "Survival and dispersal:": {
+            "content": [
+                "Pathogen is both soil and seed borne and survives as saprophyte in the soil debris as a mycelium and all spore types. It spreads short distances by water splash, planting equipment, and long distances by infected transplants and seeds.",
+                "After the plant dies the fungus invades all tissues, sporulates, and continues to infect neighboring plants."
+            ]
+        },
+        "Favourable condition:": {
+            "content": [
+                "Soil temperature is between 12.5-14\u00b0 C and high moisture"
+            ]
+        }
+    },
+    "Powdery mildew": {
+        "Disease symptoms:": {
+            "content": [
+                "The disease symptoms appear at flowering stage in cloudy weather during February-March.",
+                "The powdery fungal growth usually develops first on leaves which later can cover all succulent stems and branches including flowers.",
+                "In severe case seed development may not take place."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary:  Through soil and seed,",
+                "Secondary:  Dispersal of conidia through wind, rain splashes"
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Cool high humid weather (20-25\u02da C) or cloudy weather favours conidial germination and disease development",
+                "High RH > 80% favours disease development."
+            ]
+        }
+    },
+    "Collar rot": {
+        "Disease symptoms:": {
+            "content": [
+                "Disease appears in plots where water stagnation near the plant stem is more.",
+                "Collar portion of the affected plants start decaying and the plants turn to yellow colour & die later on.",
+                "Later collar region of the plant/seedlings get rotted and plant topple down."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Primary: Dormant mycelium and fruiting bodies survive in the infected crop debris, seeds and volunteer Plants.",
+                "Secondary: Irrigation disperses conidia to nearby plants."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "High humidity, high soil moisture and temperature",
+                "Crowded seedlings"
+            ]
+        }
+    },
+    "Root rot": {
+        "Disease symptoms:": {
+            "content": [
+                "Symptoms consist of seed decay and brown to reddish lesions on seedling stems and roots just below the soil line.",
+                "These reddish brown lesions may become sunken and girdle the stems and kill the plant.",
+                "Plants may often appear stunted and unthrifty and will die.",
+                "Often the stand will appear uneven because of stunted plants.",
+                "Disease is often found in patches in fields.",
+                "On older plants, the pathogen causes a reddish brown dry cortical root rot that may extend into the base of the stem.",
+                "Foliar symptoms may include yellowing or wilting of leaves."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The disease is mainly soil-borne and pathogen can survive in the soil as sclerotia for several years.",
+                "Sclerotia disseminate by irrigation water, implements, and other cultural operations."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Dry weather following heavy rains,",
+                "High soil temperature (35-39\u02da C)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "Koleroga/mahali/fruit rot/bud rot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-arecanut/koleroga-or-mahali-or-fruit-rot-or-bud-rottest.png",
+                "alt": "Koleroga/mahali/fruit rot/bud rot"
+            },
+            "content": [
+                "Characteristic symptom is rotting and extensive shedding of the immature nuts which lie scattered near the base of the tree.",
+                "Initial symptoms appear as dark green/ yellowish water-soaked lesions on the nut surface near the perianth (calyx).",
+                "The infected nuts lose their natural green lusture, quality and hence have a low market value.",
+                "The lesions on the fruits gradually spread covering the whole surface before or after shedding which consequently rot.",
+                "White mycelial mass envelopes on entire surface of the fallen nuts.",
+                "As the disease advances the fruit stalks and the axis of the inflorescence rot and dry, sometimes covered with white mycelial mats.",
+                "Infected nuts are lighter in weight and possess large vacuoles.",
+                "When infection occurs later in the season, it leads to rotting and drying up of nuts without shedding (known as \u2018Dry Mahali\u2019)."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "Disease spreads through heavy winds and rain splashes.",
+                "The fruit bunches infected towards the end of rainy season may remain mummified on the palm and such nuts provide inoculum for bud rot or crown rot or the recurrence of fruit rot in the next season."
+            ]
+        },
+        " Favourable conditions: ": {
+            "content": [
+                "The severity, persistence and spread of fruit rot are related to the pattern of rain. The disease appears usually 15 to 20 days after the onset of regular monsoon rains and may continue up to the end of the rainy season.",
+                "Continuous heavy rainfall coupled with low temperature (20 to 23 \u00b0C), high relative humidity 90%) and intermittent rain and sunshine hours favour the outbreak of fruit rot"
+            ]
+        }
+    },
+    "Inflorescence die back": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-arecanut/inflorescence-die-back/@@images/b3977b45-e30e-49ce-afe5-2eaab3af79e5.png",
+                "alt": "Inflorescence die back"
+            },
+            "content": [
+                "Disease appears on rachillae of the male flowers and then in the main rachis as brownish patches which soon spreads from tip downwards covering the entire rachis causing wilting.",
+                "The female flowers of the infected rachis shed and the whole inflorescence shows \u2018die back\u2019 symptom.",
+                "The fruiting bodies of the fungus (conidia) appear as concentric rings in the discolored areas.",
+                "The disease is severe mostly during dry condition (February-March).",
+                "Button shedding followed by die-back of inflorescence is a severe problem in arecanut plantations during monsoon periods."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Spread is through air borne conidia."
+            ]
+        }
+    },
+    "Yellow leaf disease": {
+        " Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-arecanut/yellow-leaf-disease/@@images/4e7c131d-70a9-459d-a606-95b475bbc1e7.png",
+                "alt": "Yellow leaf disease"
+            },
+            "content": [
+                "Yellowing of tips of leaflets in 2 or 3 leaves of outermost whorl.",
+                "Brown necrotic streaks run parallel to veins in unfolded leaves.",
+                "The yellowing extends to the middle of the lamina. Tips of the chlorotic leaves dry up. In advanced stage all the leaves become yellow.",
+                "Yellowing of leaves is conspicuous during October to December.",
+                "Finally the crown leaves fall off leaving a bare trunk. Root tips turn black and gradually rot"
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Phytoplasma Like Organism (Phytoplasma)",
+                "Vector: Plant hopper (Proutista moesta)"
+            ]
+        }
+    },
+    "Anabe roga/foot rot": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-arecanut/anabe-roga-foot-rottest.png",
+                "alt": "Anabe roga/foot rot"
+            },
+            "content": [
+                "The leaf lets in outer whorls become yellow and spreads to the whole leaf and the leaves droop down covering the stem.",
+                "Later, the inner whorl leaves also become yellow. Subsequently all the leaves droop, dry up and fall off, leaving the stem alone.",
+                "Then the stem becomes brittle and easily broken by heavy wind.",
+                "The base of the stem shows brown discoloration and oozing of dark fluid.",
+                "Bracket shaped fructifications of the fungus called \u2018anabe\u2019 appears at the base of the trunk.",
+                "Roots become discoloured, brittle and dried.",
+                "When infected trunk is cut open brown discoloration can be seen up to one metre from ground level."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The disease is severe in neglected, ill-drained and over-crowded gardens especially with hard, black loamy acid soils of higher iron and calcium contents.",
+                "Soil borne, but secondary spread is through air-borne spores."
+            ]
+        }
+    },
+    "Bud rot": {
+        " Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-arecanut/disease-cycle-anabe-roga-or-foot-rot-1test.png",
+                "alt": "Disease cycles"
+            },
+            "content": [
+                "Initial symptom is the characteristic change of spindle leaf colour from green to yellow and then brownish.",
+                "The leaves rot and the growing bud rots causing death of the palm.",
+                "The affected young leaf whorl can be easily pulled off.",
+                "The outer leaves also become yellow and droop down one by one leaving a bare stem."
+            ]
+        }
+    },
+    "Disease cycles": {
+        "Anabe roga or foot rot": {
+            "content": []
+        },
+        "Bud rot": {
+            "content": []
+        }
+    }
+}

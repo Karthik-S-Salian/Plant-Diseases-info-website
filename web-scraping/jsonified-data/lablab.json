@@ -1,0 +1,171 @@
+{
+    "Anthracnose": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-lablab/anthracnosetest.png",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "Bean pods with black, sunken lesions or reddish-brown blotches caused by Colletotrichum lindemuthianum.",
+                "Black, sunken lesions about \u00bd inch in diameter develop on stems, pods and seedling leaves (cotyledons) but are most prominent on pods.",
+                "A salmon-colored ooze on lesions and the veins on lower leaf surfaces turns black. On lima beans, symptoms are sooty- appearing spots on leaves and pods.",
+                "Anthracnose develops primarily during the spring and fall when the weather is cool and wet, and not during hot, dry summers. Lima beans are particularly susceptible."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The fungus survives in the winter primarily in bean seed. Survival in soil or in plant residue varies greatly, depending on environmental conditions.",
+                "The fungal spores are easily carried to healthy plants in wind-blown rain and by people and machinery moving through contaminated fields when the plants are wet."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "The disease is favored by warm (20o C to 24o C) weather and infection will only take place if the leaves remain wet for 18 to 24 hours."
+            ]
+        }
+    },
+    "Rust": {
+        "Disease symptom:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-lablab/rusttest.png",
+                "alt": "Rust"
+            },
+            "content": [
+                "Bean rust is mainly a disease of leaves that causes rust-colored spots formation on the lower leaf surfaces.",
+                "Severely infected leaves turn yellow, wilt, and drop off the plant.",
+                "Stems and pods may also be infected.",
+                "It affects most types of beans under humid conditions."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The pathogen survives in the volunteer Lablab bean plants and in infected plant debris in the soil as teliospores.",
+                "The disease spreads by wind-borne uredospores from infected crop."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Day temperature of 25.5\u00b0 to 30.5\u00b0C with relative humidity of 86 to 92 per cent enhances intensity of rust."
+            ]
+        }
+    },
+    "Powdery mildew": {
+        " Disease symptom: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-lablab/powdery-mildewtest.png",
+                "alt": "Powdery mildew"
+            },
+            "content": [
+                "Leaves are covered with patches of a whitish to grayish powdery growth.",
+                "New growth appears contorted, curled or dwarfed and may turn yellow and drop. Pods are dwarfed and distorted.",
+                "This is mostly a problem of all beans. Powdery mildew is spread by wind and rain."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "The primary sources of inoculum are oospores present in the soil.",
+                "Secondary infection is by air"
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "The disease is more under dry conditions at the end of the winter months."
+            ]
+        }
+    },
+    "Bacterial leaf spot": {
+        "Disease symptom:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-lablab/bacterial-leaf-spottest.png",
+                "alt": "Bacterial leaf spot"
+            },
+            "content": [
+                "Halo blight occurs primarily when temperatures are cool.",
+                "There are two widespread bacterial blights that affect most types of beans, common blight (Xanthomonas campestris pv phaseoli) and halo blight (Pseudomonas syringae pathovar phaseolicola).",
+                "The stems, leaves and fruits of bean plants can be infected by either disease. Rain and damp weather favour disease development.",
+                "Light greenish-yellow circles that look like halos form around a brown spot or lesion on the plant. With age, the lesions may join together as the leaf turns yellow and slowly dies. Stem lesions appear as long, reddish spots.",
+                "Leaves infected with common blight turn brown and drop quickly from the plant.",
+                "Common blight infected pods do not have the greenish-yellow halo around the infected spot or lesion. Common blight occurs mostly during warm weather."
+            ]
+        },
+        "Survival and spread:": {
+            "content": [
+                "The bacteria overwinter in dead plant material, but do not survive for long in water or soil.",
+                "Bacteria are weak pathogens and need a natural opening (stomata\u2019s and lenticels) or an injury (mechanical, insect or another disease) to infect. The disease is spread by splashing water and by implements or workers in the field when the plants are wet."
+            ]
+        },
+        "Favourable conditions:": {
+            "content": [
+                "Warm temperature (24- 30\u00b0C) along with sprinkler irrigation or heavy rains favour disease development."
+            ]
+        }
+    },
+    "Lablab bean Mosaic virus": {
+        "Disease symptom: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-lablab/lablab-bean-mosaic-virustest.png",
+                "alt": "Lablab bean Mosaic virus"
+            },
+            "content": [
+                "Infected leaves show sharply defined patches of unusual coloration.",
+                "The causal agents of these symptoms may be nutrient imbalance or herbicide injury or\u00a0 result from infection by one of several viruses. Southern beans can be infected by Cowpea aphid-borne mosaic virus, Bean common mosaic virus and several others.",
+                "It is not possible to distinguish between the viruses based on symptoms alone.",
+                "Laboratory tests (ELISA) are required to identify the viruses and confirm that they may be responsible for the mosaic symptoms."
+            ]
+        },
+        "Survival and spread: ": {
+            "content": [
+                "Virus spreads through transmission by thrips.",
+                "Weed hosts serve as natural virus reservoirs.",
+                "Long and continuous dry spell increases the disease incidence."
+            ]
+        }
+    },
+    "Ashy stem blight": {
+        "Disease symptom: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-lablab/ashy-stem-blighttest.png",
+                "alt": "Ashy stem blight:"
+            },
+            "content": [
+                "Symptoms may appear after soil-borne mycelia or sclerotia germinate and infect seedling stems near the soil line at the base of developing cotyledons.",
+                "The fungus produced black, sunken, cankers which have a sharp margin and often contain concentric rings.",
+                "The plant\u2019s growing tip may be killed or the stem broken where it is weakened by the canker. Infection may continue into the hypocotyl and root region or the primary leaf petioles.",
+                "Older seedling and plant infections may cause stunting, leaf chlorosis, premature defoliation, and plant death [Schwartz, 1989]."
+            ]
+        },
+        " Survival and spread:": {
+            "content": [
+                "M. phaseolina survives as microsclerotia in the soil and on infected plant debris.",
+                "The microsclerotia serve as the primary source of inoculum.",
+                "Wind-borne conidia cause secondary spread.",
+                "Seeds may also carry the fungus in the seed coat."
+            ]
+        },
+        "Favourable conditions: ": {
+            "content": [
+                "Germination of the microsclerotia occurs throughout the growing season when temperatures are between 28\u00b0C and 35\u00b0C."
+            ]
+        }
+    },
+    "Disease cycles:": {
+        "Anthracnose": {
+            "content": []
+        },
+        "Rust": {
+            "content": []
+        },
+        "Powdery mildew": {
+            "content": []
+        },
+        "Bacterial leaf spot": {
+            "content": []
+        },
+        "Mosaic virus": {
+            "content": []
+        },
+        "Ashy stem blight": {
+            "content": []
+        }
+    }
+}

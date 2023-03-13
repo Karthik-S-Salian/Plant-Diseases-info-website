@@ -1,0 +1,47 @@
+{
+    "Anthracnose": {
+        "Disease symptoms: ": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-litchi/anthracnosetest.png",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "Attacks both the leaves and the fruit, which are sensitive fromflowering to the midgrowth stage.",
+                "Most of the rot found in mature fruit comes from the infection of young fruit.",
+                "The small spots develop into large, brown spots indicative of fruit rot.",
+                "Finally, a white mycelium appears on the fruit during storage"
+            ]
+        }
+    },
+    "Fruit rot": {
+        "Disease symptoms:": {
+            "content": [
+                "Fruit rot of litchi has been a serious problem. Litchi is host to a range of post-harvest pathogens, often with quite different modes of infection.",
+                "Several fungi have been found to be associated with diseases",
+                "Usually large water soaked lesions appear on the surface of fruits.",
+                "Initially the disease symptoms are perceptible on injured portion of the fruits.",
+                "With the advance of the disease the decayed areas get depressed.",
+                "The rot gradually penetrates deep into the pulp.",
+                "Ultimately rind of infected fruits cracks off exposing the pulp which subsequently is covered with thick Cottony mycelium.",
+                "Such affected fruits emit an odour of fermentation."
+            ]
+        }
+    },
+    "Root rot": {
+        "Disease symptoms:": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-litchi/root-rottest.png",
+                "alt": "Root rot"
+            },
+            "content": [
+                "A slow decline and a sudden death of plant have been recorded in litchi. It can affect the whole tree or just one or two branches.",
+                "The symptoms include a sudden branch wilt that is followed by the decline of new growth on the affected branch over a period. In other situations, the tips die without wilting.",
+                "The tree or branch may recover temporarily, but subsequently dies. Parts of the tree flush and grow, while other sections die.",
+                "In some parts of litchi belt, trees are killed by the root rot.",
+                "One side of the tree\u2019s crown may be perfectly sound and the other totally necrosis.",
+                "Leaf shed never occurs (it does in the case of a nematode attack) and the internal parts of the roots are characteristically red in colour",
+                "No method has been found to save the tree once it has become infected."
+            ]
+        }
+    }
+}

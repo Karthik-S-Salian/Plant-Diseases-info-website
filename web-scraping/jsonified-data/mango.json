@@ -1,0 +1,259 @@
+{
+    "Powdery mildew": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/Powderymildew.jpg",
+                "alt": "Powdery mildew"
+            },
+            "content": [
+                "The characteristic symptom of the disease is the white superficial powdery fungal growth on leaves, stalks of panicles, flowers and young fruits.",
+                "The affected flowers and fruits drop pre-maturely reducing the crop load considerably or might even prevent the fruit set.",
+                "The fungus parasitizes young tissues of all parts of the inflorescence, leaves and fruits.",
+                "Young leaves are attacked on both the sides but it is more conspicuous on the grower surface. Often these patches coalesce and occupy larger areas turning into purplish brown in colour"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The powdery mildew fungus overwinters in dormant buds. When conditions are favorable for growth of the fungus in spring, spores are produced, released, and cause new infections. Secondary spread of the disease can occur if spores are produced in these new infections"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Rains or mists accompanied by cooler nights during flowering are congenial for the disease spread."
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/Anthracnose.jpg",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "The disease causes serious losses to young shoots, flowers and fruits It is also affects fruits during storage.",
+                "The disease produces leaf spot, blossom blight, wither tip, twig blight and fruit rot symptoms. Tender shoots and foliage are easily affected which ultimately cause \u201edie back\u201f of young branches. Older twigs may also be infected through wounds which in severe cases may be fatal.",
+                "Depending on the prevailing weather conditions blossom blight may vary in severity from slight to a heavy infection of the panicles. Black spots develop on panicles as well as on fruits. Severe infection destroys the entire inflorescence resulting in no setting of fruits. Young infected fruits develop black spots, shrivel and drop off.",
+                "Fruits infected at mature stage carry the fungus into storage and cause considerable loss during storage, transit and marketing."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus survives in dead twig and other host for long time which is the source of primary infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity, frequent rains and a temperature of 24-32oC fabours the development of disease."
+            ]
+        }
+    },
+    "Die back": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/Dieback.jpg",
+                "alt": "Die back"
+            },
+            "content": [
+                "The pathogen causing dieback, tip dieback, graft union blight, twig blight, seedling rot, wood stain, stem-end rot, black root rot, fruit rot, dry rot, brown rot of panicle etc. The disease is most conspicuous during October November.",
+                "It is characterized by drying back of twigs from top downwards, particularly in older trees followed by drying of leaves which gives an appearance of fire scorch. Internal browning in wood tissue is observed when it is slit open along with the long axis.",
+                "Cracks appear on branches and gum exudes before they die out. When graft union of nursery plant is affected, it usually dies"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogens survive in plant debris which is the source of primary inoculums."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity and moist conditions favours the development of disease. The disease is most common in October-November."
+            ]
+        }
+    },
+    "Phoma blight": {
+        "Disease symptom": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/Phomablight.jpg",
+                "alt": "Phoma blight"
+            },
+            "content": [
+                "The symptoms of the disease are noticeable only on old leaves. Initially, the lesions are angular, minute, irregular, yellow to light brown, scattered over leaf lamina.",
+                "As the lesions enlarge their colour changes from brown to cinnamon and they become almost irregular.",
+                "Fully developed spots are characterized by dark margins and dull grey necrotic centres. In case of severe infection such spots coalesce forming patches measuring 3.5-13 cm in size, resulting in complete withering and defoliation of infected leaves."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen is seed borne fungus and inoculums present in the seeds are source of primary infection. Fungus also survives on glumes, fruit and plant debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Rainy seasons favour the development of disease."
+            ]
+        }
+    },
+    "Bacterial canker": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/Bacterialcanker.jpg",
+                "alt": "Bacterial canker"
+            },
+            "content": [
+                "The disease is noticed on leaves, leaf stalks, stems, twigs, branches and fruits, initially producing water soaked lesions, later turning into typical canker.",
+                "On leaves, water soaked irregular satellite to angular raised lesions measuring 1-4 mm in diameter are formed. These lesions are light yellow in colour, initially with yellow halo but with age enlarge or coalesce to form irregular necrotic cankerous patches with dark brown colour.",
+                "On fruits, water-soaked, dark brown to black coloured lesions are observed which gradually developed into cankerous, raised or flat spots. These spots grow bigger usually up to 1 to 5 mm in diameter, which covers / almost the whole fruit.",
+                "These spots often, burst extruding gummy substances containing highly contagious bacterial cells."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "In lesions on plant parts and can also survive for long periods in diseased plant tissues."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Spring session is responsible for the development of diseases."
+            ]
+        }
+    },
+    "Red rust": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/Redrust.jpg",
+                "alt": "Red rust"
+            },
+            "content": [
+                "Red rust disease, caused by an alga, has been observed in mango growing areas. The algal attack causes reduction in photosynthetic activity and defoliation of leaves thereby lowering vitality of the host plant.",
+                "The disease can easily be recognized by the rusty red spots mainly on leaves and sometimes on petioles and bark of young twigs and is epiphytic in nature.",
+                "The spots are greenish grey in colour and velvety in texture. Later, they turn reddish brown. The circular and slightly elevated spots sometimes coalesce to form larger and irregular spots. The disease is more common in closely planted orchards."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogens reproduce and survive in spots on leaves or stems and in fallen plant host debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Frequent rains and warm weather are favorable conditions for these pathogens. For hosts, poor plant nutrition, poor soil drainage, and stagnant air are predisposing factors to infection by the algae"
+            ]
+        }
+    },
+    "Sooty mould": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/Sootymould.jpg",
+                "alt": "Sooty mould"
+            },
+            "content": [
+                "The disease is common in the orchards where mealy bug, scale insect and hopper are not controlled efficiently.",
+                "The disease in the field is recognized by the presence of a black velvety coating, i.e., sooty mould on the leaf surface. In severe cases the trees turn completely black due to the presence of mould over the entire surface of twigs and leaves.",
+                "The severity of infection depends on the honey dew secretion by the above said insects. Honey dew secretions from insects sticks to the leaf surface and provide necessary medium for fungal growth."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The severity of infection depends on the honey dew secretions by the scale insects which provide the necessary medium for the fungal growth.",
+                "Transmission occurs by air-borne as co-spores."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity and moist situation favours the development of disease."
+            ]
+        }
+    },
+    "Mango malformation": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/malformation.jpg",
+                "alt": "Mango malformation"
+            },
+            "content": [
+                "Vegetative malformation: Vegetative malformation is pronounced in young seedlings. The affected seedlings develop vegetative growths which are abnormal growth, swollen and have very short internodes.",
+                "Floral malformation: The flower buds are transformed into vegetative buds and a large number of small leaves and stems, which are characterized by appreciably reduced internodes and give an appearance of witches\u201f broom. The flower buds seldom open and remain dull green."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The disease is mainly spread via infected plant material. Mango malformation disease spreads slowly within affected orchards.",
+                "The mango bud mite, Aceria mangiferae, has been associated with mango malformation disease as wounds from the mites\u201f feeding activity are thought to facilitate fungal infection."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Moist weather favours the development of disease."
+            ]
+        }
+    },
+    "Gummosis": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/Gummosis.jpg",
+                "alt": "Gummosis"
+            },
+            "content": [
+                "The disease is characterized by the presence of profuse oozing of gum on the surface of the affected wood, bark of the trunk and also on larger braches but more common on the cracked branches.",
+                "In severe cases, droplets of gum trickle down on stem, bark turn dark brown with longitudinal cracks, rots completely and the tree dries up because of cracking, rotting and girdling effects"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogen survives in disease plant debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Warm weather favours the development of disease."
+            ]
+        }
+    },
+    "Root rot & Damping off": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/Dampingoff.jpg",
+                "alt": "Root rot & Damping off"
+            },
+            "content": [
+                "The disease is characterized by sudden dropping of leaves after the emergence of seedlings from the soil.",
+                "During prolonged rainy and humid weather, infection occurs at / or below the ground level with circular to irregular water soaked patches.",
+                "These patches enlarge and ultimately girdle the entire base of the seedlings."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Disease is soil borne and pathogen survives in soils of orchards. Primary infection occurs by soil and secondary by conidia through rain or wind."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity, high soil moisture, cloudiness and low temperatures below 24\u00b0 C for few days are ideal for infection and development of disease."
+            ]
+        }
+    },
+    "Scab": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-fruit-crops/ipm-strategies-for-mango/Scab.jpg",
+                "alt": "Scab"
+            },
+            "content": [
+                "The scab fungus attack leaves, panicles, blossoms, twigs, bark of stems and mango fruits. Spots are circular, slightly angular, elongated, 2-4 mm in diameter, brown but during rainy season, lesions differ in size, shape and colour.",
+                "Symptoms produced by the disease are very much like those of anthracnose.",
+                "On young fruits, the infection is grey to grayish brown with dark irregular margins. As the fruit attains in size, spots also enlarge and the centre may become covered with the crack fissure and corky tissues."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The pathogen survives in the form of resting spore in the soil debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Suitable temperatures and moisture promote the release of Elsinoemangiferaespores. This cycle of secondary infections continues throughout the summer, until the leaves and fruit fall from the tree at the onset of winter."
+            ]
+        }
+    },
+    "Postharvest diseases": {}
+}

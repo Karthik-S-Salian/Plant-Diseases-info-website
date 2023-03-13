@@ -1,0 +1,128 @@
+{
+    "Downy mildew": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-spinach/Downymildewimg.jpg",
+                "alt": "Downy mildew"
+            },
+            "content": [
+                "The initial stage:  Dull to bright yellow spots that form on cotyledons and leaves of all ages.",
+                "The late stage:  Enlarged spots and become browning and dry. Close inspection of the underside of the leaf often reveals the purple growth of the fungus.",
+                "If disease development is extensive, leaves appear curled and distorted and may take on a blighted effect as a result of numerous infection sites."
+            ]
+        },
+        "Host range:": {
+            "content": [
+                "Spinach, Chenopodium weed, Beta sp."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus survives in disease plant debris or in soil in form of resting spore.",
+                "Primary:  The heavy canopy of densely planted spinach retains much moisture and creates ideal conditions for infection and disease development.",
+                "Secondary:  Spores (sporangia/zoospores) are dispersed in the air from plant to plant and field to field by winds and splashing water."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Heavy canopy of densely plantations, relative humidity > 90%, high soil moisture and frequent rains favour the development of diseases."
+            ]
+        }
+    },
+    "Anthracnose": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-spinach/Anthracnoseimg.jpg",
+                "alt": "Anthracnose"
+            },
+            "content": [
+                "In initial stage:  Small, circular, water - soaked lesions on both young and old leaves.",
+                "In late stage:  Lesion turns brown to brownish in color, and become thin and papery.",
+                "Tiny black fruiting bodies (acervuli) form profusely in diseased tissue and are a characteristic feature of the disease."
+            ]
+        },
+        "Host range:": {
+            "content": [
+                "Cowpea (Vigna unguiculata), bean (Phaseolus vulgaris) and betel vine (Piper sp)"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus survives in plant debris or soil.",
+                "Primary:  Seed borne inoculum and dormant mycelium in infected plant debris.",
+                "Secondary:  Spores are spread from plant \u2013 to - plants by splashing water from rains or sprinklers"
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Relative humidity > 90%, High soil moisture and frequent rains favour the development of disease."
+            ]
+        }
+    },
+    "Cladosporium Leaf spot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-vegetables/ipm-strategies-for-spinach/Cladosporiumimg.jpg",
+                "alt": "Cladosporium Leaf spot"
+            },
+            "content": [
+                "Round, brownish leaf spots that rarely exceed 0.2 inch in diameter.",
+                "Dark green spores and mycelium later develop in the centers of the spots.",
+                "The presence of dark green sporulation distinguishes Cladosporium leaf spot from anthracnose and Stemphylium leaf spot diseases, both of which also form circular lesions."
+            ]
+        },
+        "Leaves showing disease symptoms": {
+            "content": []
+        },
+        "Survival and spread": {
+            "content": [
+                "Pathogen survives in seeds and these seeds are source of primary inoculums. The secondary spread occurs by means of conidia."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Heavy rain in spring favours the development of diseases."
+            ]
+        }
+    },
+    "Stemphylium leaf spot": {
+        "Disease symptoms": {
+            "content": [
+                "Initial stage:  Small (0.1 to 0.2 inch diameter), circular to oval, gray-green leaf spots.",
+                "Leaves showing disease symptoms Late stage:  Leaf spots enlarge, remain circular to oval in shape, and turn brownish in color. Older spots coalesce, dry up, and become papery in texture.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Leaves showing disease symptoms",
+                "Visual signs of fungal growth are generally absent from the spots; hence this symptoms is readily differentiated from foliar diseases in which purple growth (downy mildew), green spores ( Cladosporium leaf spot), or acervuli (anthracnose) develop within circular lesions.",
+                "Overall, symptoms resemble the brownish, circular spots caused by pesticide or fertilizer toxicity."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "Fungus survives in seeds and infected seeds are the source of primary inoculums. Secondary infection occurs by means of conidia."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity and moisture conditions favour the development of disease."
+            ]
+        }
+    },
+    "Damping off and root rot": {
+        "Disease symptoms": {
+            "content": [
+                "Symptoms of damping-off and root rot consist of poor seed germination, pre-emergence death of seedlings, post emergence death of newly emerged seedlings, stunted plants, yellowed lower leaves, general poor growth, wilting, and eventual collapse and death of older plants.",
+                "Roots of infected plants can appear water-soaked or brown to black in color. The upper taproot may be girdled by a necrotic lesion, or the tip of the taproot may be necrotic. In severe cases, nearly all roots may be girdled or rotted off.",
+                "Severity is influenced by cultivar, soil texture, irrigation, and pathogen populations. Severe damping- off is associated with clay or poorly draining soils with a history of frequent spinach production. While all stages of spinach can be infected by root rot organisms, newly emerging plants and young seedlings are very susceptible."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus survives in soil and inoculum present in the soil is source of primary infection. Secondary infection occurs by means of conidia through rain splash or wind."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "High humidity, high soil moisture, cloudiness and low temperatures below 24\u00b0C for few days are ideal for infection and development of disease.",
+                "Crowded seedlings, dampness due to high rainfall, poor drainage and excess of soil solutes hamper plant growth and increase the pathogenic damping-off."
+            ]
+        }
+    }
+}

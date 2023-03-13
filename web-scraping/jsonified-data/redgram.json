@@ -1,0 +1,125 @@
+{
+    "Wilt": {
+        "Disease symptoms": {
+            "content": [
+                "Symptoms can appear 4 to 6 weeks after sowing. The initial visible symptoms are loss of turgidity in leaves, and slight interveinal clearing.",
+                "The foliage shows slight chlorosis and sometimes becomes bright yellow before wilting.",
+                "Leaves are retained on wilted plants. The initial characteristic internal symptom of wilt is the browning of the xylem vessels from the root system to the stems.",
+                "The xylem gradually develops black streaks, and brown or dark purple bands appear on the stem surface of partially wilted plants extending upwards from the base.",
+                "When the bark of such bands is peeled off , browning or blackening of the wood beneath can be seen. in wilt-tolerant genotypes these bands are confined to the basal part of the plant.",
+                "Sometimes, especially in the later stages of crop growth, the branches dry from the top downwards, but symptoms are not seen on the lower portions of the main stem or branches.",
+                "Small branches on the lower part of the plant also dry.",
+                "When the main stem of such plants is split open, intensive blackening of the xylem can be seen.",
+                "In humid weather, a pinkish mycelial growth is commonly observed the basal portions of the wilted plants.",
+                "Partial wilting is usually associated with lateral root infection. Tap root infection results in complete wilting."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus is soil borne and survive in the soils. Fungus spreads about 3 m through the soil in one season, apparently along roots.",
+                "The fungus was found to survive in infected plant stubble for 2.5 years Vertisols and 3 years in Alfisols."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Low soil temperature and increasing plant maturity favours wilt.",
+                "Fungal population is highest at 30% soil water-holding capacity and at the soil temperatures between20 and 30\u00b0 C."
+            ]
+        }
+    },
+    "Pigeon pea sterility mosaic disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-redgram/Pegionimg.png",
+                "alt": "Pigeon pea sterility mosaic disease"
+            },
+            "content": [
+                "Bushy and stunted appearance of the infected plants due to reduction in the size of the leaves and proliferation of the branches.",
+                "Light and dark green mosaic pattern on the infected leaves of younger plants.",
+                "Partial or complete sterility of the plant resulting in low or no flowering and podding.",
+                "When infections occurs at 45 days after emergence or later only some parts of the plant may show disease symptoms, while the remaining parts appear normal.",
+                "Leaves become small and cluster near branch tips.",
+                "Diseased plants are pale green and bushy in appearance, without of flowers and pods.",
+                "Diseased plants are usually in groups.",
+                "Sometimes a plant may not show symptoms in the first flush, but when ratooned the new growth shows clear symptoms and tend to disappear as the plants mature."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "A single eryophid mite (A. cajani) (vector) is sufficient to transmit the disease.",
+                "Perennial and volunteer pigeon pea and the ratooned growth of harvested plants provide reservoirs of the mite vector and the pathogen."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Shade and humidity encourage multiplication of the virus."
+            ]
+        }
+    },
+    "Stem blight": {
+        "Damage symptoms": {
+            "content": [
+                "This cause seedling to die suddenly.",
+                "Water soaked, irregular lesions on the leaves often cause blighting of the leaf/leaflets and younger plant.",
+                "Infected leaves loss turgidity and become dessicated.",
+                "Brown sunken lesions on the stem and branches causing girdling and makes the infected stem weak and leads to breakage and drying of the plant/branches.",
+                "Infection mostly confined to basal portion of the stem."
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "The fungus is soil borne.",
+                "The fungus survives as dormant mycelium in soil and on infected plant debris."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Soils with poor drainage",
+                "Low lying areas",
+                "Heavy rain.",
+                "Temperature 28-30o C."
+            ]
+        }
+    },
+    "Mung bean mosaic disease": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-redgram/Mossaicimg.jpg",
+                "alt": "Mung bean mosaic disease"
+            },
+            "content": [
+                "This disease was probably reported first from Sri Lanka.",
+                "The disease first appears in the form of yellow, diff used spots scattered on the leaf lamina, not limited by veins and veinlets.",
+                "Such spots slowly expand and in later stages of disease development, affected leaflets show broad, yellow patches alternating with green colour.",
+                "Sometimes the entire lamina turns yellow.",
+                "Leaf size is conspicuously reduced in early infections.",
+                "In peninsular India, disease incidence is relatively higher in late-sown pigeon pea.",
+                "The vector is whitefly (Bemisia tabaci)"
+            ]
+        },
+        "Survival and spread": {
+            "content": [
+                "A single whitefly vector is sufficient to transmit the disease.",
+                "Perennial and volunteer pigeon pea and the ratooned growth of harvested plants provide reservoirs of the vector and the pathogen."
+            ]
+        },
+        "Favourable conditions": {
+            "content": [
+                "Shade and humidity encourage multiplication of the virus."
+            ]
+        }
+    },
+    "Dry root rot": {
+        "Disease symptoms": {
+            "img": {
+                "src": "https://static.vikaspedia.in/media/images_en/agriculture/crop-production/integrated-pest-managment/ipm-for-pulses/ipm-strategies-for-redgram/Dryrootrotimg.jpg",
+                "alt": "Dry root rot"
+            },
+            "content": [
+                "Typical symptoms include root and basal stem rot with a large number of minute, fungal sclerotia visible under the bark.",
+                "Plants dry prematurely, particularly when they face drought stress.",
+                "Disease incidence severe in off -season, irrigated, summer crops in several parts of India, and it is a minor one in the normal-season crop. The pathogen is both soil- and seed borne."
+            ]
+        }
+    }
+}
