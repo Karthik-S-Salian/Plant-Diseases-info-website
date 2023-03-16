@@ -2,7 +2,7 @@ import "./style.css"
 import CategoryCard from "./CategoryCard"
 
 function Categories(props){
-    console.log("Categories",props.handleSelection)
+    console.log(props)
     let cardsArray=Object.keys(props.data).map(key=>{
         return (
             <CategoryCard

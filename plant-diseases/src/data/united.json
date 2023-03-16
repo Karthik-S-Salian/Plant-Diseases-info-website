@@ -1,7 +1,7 @@
 {
     "cereals and millets": {
         "pearl millet": {
-            "image": "pearl-millet.jpg",
+            "image": "",
             "diseases": {
                 "Downy mildew": {
                     "Damage symptom": {
@@ -108,9 +108,9 @@
                 }
             }
         },
-        "image": "cereal-and-millets.jpg",
+        "image": "",
         "sorghum": {
-            "image": "sorghum.jpg",
+            "image": "",
             "diseases": {
                 "Sorghum grain mould": {
                     "Damage symptom": {
@@ -274,7 +274,7 @@
             }
         },
         "wheat": {
-            "image": "wheat.jpg",
+            "image": "",
             "diseases": {
                 "Powdery mildew": {
                     "Disease symptoms": {
@@ -571,7 +571,7 @@
     },
     "commercial crops": {
         "arecanut": {
-            "image": "arecanut.jpg",
+            "image": "",
             "diseases": {
                 "Koleroga/mahali/fruit rot/bud rot": {
                     "Disease symptoms:": {
@@ -691,9 +691,9 @@
                 }
             }
         },
-        "image": "commercial-crops.jpg",
+        "image": "",
         "betel vine": {
-            "image": "betel vine.jpg",
+            "image": "",
             "diseases": {
                 "Leaf stem and foot rot": {
                     "Disease symptoms:": {
@@ -702,16 +702,16 @@
                             "alt": "Leaf stem and foot rot"
                         },
                         "content": [
-                            "Otherwise dark brown necrotic spots with alternate light brown zonations appear.",
+                            "Otherwise dark brown necrotic spots with alternate light brown zonations appear. ",
                             "Most destructive fungal disease that produces both a wet rot symptom on leaves and wilting due to foot rot.",
                             "At first circular, dark brown spots appear which become wet and rot under continuous high humid conditions",
                             "Loss of lustre of the leaves in the foot rot condition followed by total wilting and drying of the vines occur in a quick sequence",
-                            "Root system of the affected plant is damaged. Lateral roots are completely destroyed. Disease occurs mostly in patches and the vines wilt and die. In a week's time, 80 to 90 per cent of the vines wilt and die"
+                            "  Root system of the affected plant is damaged. Lateral roots are completely destroyed. Disease occurs mostly in patches and the vines wilt and die. In a week's time, 80 to 90 per cent of the vines wilt and die"
                         ]
                     },
                     "Survival and spread:": {
                         "content": [
-                            "Fungus survives in disease plant debris as well as soil. These vines may recover after the rains and survive for more than two seasons till the root infection culminates in collar rot and death of the vine."
+                            "  Fungus survives in disease plant debris as well as soil. These vines may recover after the rains and survive for more than two seasons till the root infection culminates in collar rot and death of the vine."
                         ]
                     },
                     "Favourable conditions:": {
@@ -730,12 +730,12 @@
                             "Leaf spots are irregular in shape and size, light to dark brown surrounded by diffuse chlorotic yellow halo.",
                             "Marginal leaf tissue becomes black, necrotic and gradually spreads towards the leaf centre.",
                             "Occasionally diffused yellow halo also develops.",
-                            "In the anthracnose stage circular, black lesions that occur rapidly increase in size and girdle the stem culminating in the death of the vine."
+                            "  In the anthracnose stage circular, black lesions that occur rapidly increase in size and girdle the stem culminating in the death of the vine."
                         ]
                     },
                     "Survival and spread:": {
                         "content": [
-                            "The primary infection by sowing infected seeds and secondary by wind."
+                            "  The primary infection by sowing infected seeds and secondary by wind."
                         ]
                     },
                     "Favourable conditions:": {
@@ -753,7 +753,7 @@
                     "Survival and spread:": {
                         "content": [
                             "Chlamydospores survive in soil, conidia spread through irrigation water.",
-                            "Secondary infection by conidia through rain or wind"
+                            "  Secondary infection by conidia through rain or wind"
                         ]
                     },
                     "Favourable conditions:": {
@@ -762,7 +762,7 @@
                             "alt": "Fusarium wilt"
                         },
                         "content": [
-                            "High temperature and high relative humidity favour the development of disease."
+                            "  High temperature and high relative humidity favour the development of disease."
                         ]
                     }
                 },
@@ -777,7 +777,7 @@
                             "Ultimately the whole vine wilts and dries up.",
                             "The darkened portion of the stem becomes shrinked, soft and turn black.",
                             "On the affected stem portion, white ropy fan shaped mycelial strands developed.",
-                            "Brown to dark brown sclerotia appears on the infected portion"
+                            "Brown to dark brown sclerotia appears on the infected portion\n\n"
                         ]
                     },
                     "Survival and spread:": {
@@ -862,7 +862,7 @@
             }
         },
         "coffee": {
-            "image": "coffee.jpg",
+            "image": "",
             "diseases": {
                 "Coffee leaf rust": {
                     "Disease symptoms": {
@@ -1036,7 +1036,7 @@
             }
         },
         "sugarcane": {
-            "image": "sugarcane.jpg",
+            "image": "",
             "diseases": {
                 "Red rot": {
                     "Disease symptoms": {
@@ -1274,7 +1274,7 @@
             }
         },
         "tea": {
-            "image": "tea.jpg",
+            "image": "",
             "diseases": {
                 "Blister blight": {
                     "Disease symptoms": {
@@ -1431,7 +1431,7 @@
             }
         },
         "tobacco": {
-            "image": "tobacco.jpg",
+            "image": "",
             "diseases": {
                 "Damping off": {
                     "Disease symptoms": {
@@ -1687,7 +1687,7 @@
     },
     "fruit crops": {
         "amla": {
-            "image": "amla.jpg",
+            "image": "",
             "diseases": {
                 "Diseases": {},
                 "Nutritional Deficiency/ Disorder": {
@@ -1697,7 +1697,7 @@
                             "alt": "01.png"
                         },
                         "content": [
-                            "Internal necrosis in amla fruits is caused by Boron deficiency.",
+                            "Internal necrosis in amla fruits is caused by Boron deficiency. ",
                             "The symptoms start with the browning of the innermost part of mesocarpic tissue at the time of endocarp hardening in the 2nd or 3rd week of September which later extends towards the epicarp resulting into brownish black appearance of the flesh."
                         ]
                     },
@@ -1707,9 +1707,9 @@
                 }
             }
         },
-        "image": "fruits.jpg",
+        "image": "",
         "apple": {
-            "image": "apple.jpg",
+            "image": "",
             "diseases": {
                 "Apple scab": {
                     "Disease symptoms": {
@@ -2011,7 +2011,7 @@
             }
         },
         "apricot": {
-            "image": "apricot.jpg",
+            "image": "",
             "diseases": {
                 "Brown rot & Blossom blight": {
                     "Disease symptoms": {
@@ -2195,7 +2195,7 @@
                     },
                     "Transmission and favourable conditions": {
                         "content": [
-                            "Pseudomonas syringae survives on plant surfaces, is spread by splashing rain, and is favored by high moisture and low temperatures in spring.",
+                            " Pseudomonas syringae survives on plant surfaces, is spread by splashing rain, and is favored by high moisture and low temperatures in spring.",
                             "The bacterium is commonly found on healthy as well as diseased plants and becomes pathogenic only on susceptible or predisposed trees."
                         ]
                     }
@@ -2203,7 +2203,7 @@
             }
         },
         "banana": {
-            "image": "banana.jpg",
+            "image": "",
             "diseases": {
                 "Panama wilt": {
                     "Disease symptoms": {
@@ -2401,14 +2401,15 @@
                     },
                     "Survival and spread": {
                         "content": [
-                            "Virus is disseminated by suckers and Aphis gossypi."
+                            "Virus is disseminated by suckers and Aphis gossypi.",
+                            "\u00a0"
                         ]
                     }
                 }
             }
         },
         "ber": {
-            "image": "ber.jpg",
+            "image": "",
             "diseases": {
                 "Fruit rot": {
                     "Disease symptom:": {
@@ -2501,7 +2502,7 @@
                         "content": [
                             "Black leaf spot:  The disease is characterised by sooty tuft-like circular to irregular black spots on the underside of the leaves. Later, it covers the entire lower surface giving a sooty appearance. The leaves show yellowish and brownish discolouration on the upper surface and drop prematurely.",
                             "Cercospora leaf spot:  The disease manifests itself in the form of circular to oval spots, measuring up to 4 mm in diameter, epiphyllous, yellow at first and turning brown surrounded by a darkbrown margin. The spots grow larger and become visible on both sides of the leaves. The infected leaves fall off. Cercospora leaf spot is also found on Chinese jujube, causing leaf yellowing.",
-                            "Cladosporium leaf spot:  The symptoms appear in the form of small, light brown to brown irregular spots on the lower surface of leaves. The disease starts on leaves closest to the soil surface, where the fungus occurs."
+                            "  Cladosporium leaf spot:  The symptoms appear in the form of small, light brown to brown irregular spots on the lower surface of leaves. The disease starts on leaves closest to the soil surface, where the fungus occurs."
                         ]
                     },
                     "Transmission and favourable conditions: ": {
@@ -2566,7 +2567,7 @@
             }
         },
         "cherry": {
-            "image": "cherry.jpg",
+            "image": "",
             "diseases": {
                 "Leaf spot/shot hole": {
                     "Disease symptoms": {
@@ -2781,7 +2782,7 @@
             }
         },
         "citrus": {
-            "image": "citrus.jpg",
+            "image": "",
             "diseases": {
                 "Citrus scab": {
                     "Disease symptoms:": {
@@ -2939,7 +2940,7 @@
             }
         },
         "custard apple": {
-            "image": "custard apple.jpg",
+            "image": "",
             "diseases": {
                 "Anthracnose": {
                     "Disease symptoms": {
@@ -2948,18 +2949,18 @@
                             "alt": "Anthracnose"
                         },
                         "content": [
-                            "Infection begins at blossom-end of the fruit and later spreads on entire fruit surface, affected fruits shrivel and they may cling to the tree or fall down.",
+                            "Infection begins at blossom-end of the fruit and later spreads on entire fruit surface, affected fruits shrivel and they may cling to the tree or fall down. ",
                             "Necrotic spots of 2-10 mm in diameter appear on unripe fruits which turn into dark brown to black spots. These spots coalesce later and cover entire fruit."
                         ]
                     },
                     "Favourable condition": {
                         "content": [
-                            "Wet and windy conditions favour the disease"
+                            "Wet and windy conditions favour the disease "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "Older fruits left on the trees provide inoculum for disease spread."
+                            "Older fruits left on the trees provide inoculum for disease spread. "
                         ]
                     }
                 },
@@ -2970,18 +2971,18 @@
                             "alt": "Leaf spot"
                         },
                         "content": [
-                            "Alternaria leaf spot: Small yellowish spots first appear along the leaf margins, which gradually enlarge and turn into brownish patches with concentric rings. Severe infection leads to drying and defoliation. Dark brown-purplish patches appear on the infected fruits andrachis just below its attachment with the shoots.",
+                            "Alternaria leaf spot: Small yellowish spots first appear along the leaf margins, which gradually enlarge and turn into brownish patches with concentric rings. Severe infection leads to drying and defoliation. Dark brown-purplish patches appear on the infected fruits andrachis just below its attachment with the shoots. ",
                             "Cylindrocladium leaf spot: Upper: dark purple spots about 1 to 2 mm in diameter develop first on the shoulders of the fruit and then spread down the sides. Spots enlarge and then later dry out and crack. Similar in appearance to spotting bug damage, but spots are irregular in shape whereas spotting bug lesions are round, and damage does not extend very far into the fruit."
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "The pathogen survives through spores (conidia) or mycelium in diseased plant debris or other hosts."
+                            "The pathogen survives through spores (conidia) or mycelium in diseased plant debris or other hosts. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "Relative humidity above 70% coupled with warm weather (12-25 \u00baC temp.) and intermittent rains favours disease."
+                            "Relative humidity above 70% coupled with warm weather (12-25 \u00baC temp.) and intermittent rains favours disease. "
                         ]
                     }
                 },
@@ -2992,19 +2993,19 @@
                             "alt": "Diplodia rot"
                         },
                         "content": [
-                            "Diseased fruits show symptoms of purplish to black spots or blotches confined to the surface of the fruit and eventually covered with white mycelia and black pycnidia.",
-                            "Diplodia rot is distinguished by its dark internal discolouration and the extensive corky rotting produces.",
-                            "The penetrated flesh eventually softens or hardens and cracks, depending on the presence of secondary microbes."
+                            "Diseased fruits show symptoms of purplish to black spots or blotches confined to the surface of the fruit and eventually covered with white mycelia and black pycnidia. ",
+                            "Diplodia rot is distinguished by its dark internal discolouration and the extensive corky rotting produces. ",
+                            "The penetrated flesh eventually softens or hardens and cracks, depending on the presence of secondary microbes. "
                         ]
                     },
                     "Favourable condition": {
                         "content": [
-                            "Optimum temperature is 25.9\u00b0C to 31.5\u00b0C and relative humidity is 80%"
+                            "Optimum temperature is 25.9\u00b0C to 31.5\u00b0C and relative humidity is 80% "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "The pathogen persists in infected plant parts which serve as source of inoculums."
+                            "The pathogen persists in infected plant parts which serve as source of inoculums. "
                         ]
                     }
                 },
@@ -3015,14 +3016,14 @@
                             "alt": "Black canker"
                         },
                         "content": [
-                            "Irregularly shaped spots ranging from small specks to large blotches.",
-                            "Spots have an indistinct \u2018feathered\u2019 edge.",
-                            "Tissue damage under the spots is no more than 10 mm deep."
+                            "Irregularly shaped spots ranging from small specks to large blotches. ",
+                            "Spots have an indistinct \u2018feathered\u2019 edge. ",
+                            "Tissue damage under the spots is no more than 10 mm deep. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "The disease is favored by extremely wet weather and cool-to-moderate temperatures (15\u00baC to 20\u00baC). When prolonged rainy periods exist in the spring and provide at least six hours of continuous wetness"
+                            "The disease is favored by extremely wet weather and cool-to-moderate temperatures (15\u00baC to 20\u00baC). When prolonged rainy periods exist in the spring and provide at least six hours of continuous wetness "
                         ]
                     },
                     "Survival and spread": {
@@ -3034,16 +3035,16 @@
                 "Spiral nematode and Stunt nematode": {
                     "Life cycle": {
                         "content": [
-                            "Nematodes molt four times during each life cycle with a molt occurring at the end of each larval stage.",
-                            "Therefore, molts separate the first and second larval stages, the second and third larval stages, the third and fourth larval stages, and also the fourth larval stages and immature adults.",
-                            "The 5th stage larva grows to the limit of its new cuticle, at the same time developing into a sexually mature adult male or female."
+                            "Nematodes molt four times during each life cycle with a molt occurring at the end of each larval stage. ",
+                            "Therefore, molts separate the first and second larval stages, the second and third larval stages, the third and fourth larval stages, and also the fourth larval stages and immature adults. ",
+                            "The 5th stage larva grows to the limit of its new cuticle, at the same time developing into a sexually mature adult male or female. "
                         ]
                     }
                 }
             }
         },
         "fig": {
-            "image": "fig.jpg",
+            "image": "",
             "diseases": {
                 "Rust": {
                     "Disease symptoms:": {
@@ -3276,7 +3277,7 @@
             }
         },
         "grapes": {
-            "image": "grapes.jpg",
+            "image": "",
             "diseases": {
                 "Downy mildew": {
                     "Disease symptoms": {
@@ -3614,7 +3615,7 @@
             }
         },
         "guava": {
-            "image": "guava.jpg",
+            "image": "",
             "diseases": {
                 "Guava wilt": {
                     "Disease symptoms:": {
@@ -3623,26 +3624,26 @@
                             "alt": "Guava wilt"
                         },
                         "content": [
-                            "First symptoms start with the onset of monsoon. Appearance of light yellow foliage with loss of turgidity and epinasty.",
-                            "Plants, at a later stage, show unthriftyness. Subsequently, premature shedding and defoliation.",
-                            "Some of the twigs become bare and fail to bring forth new leaves or flowers and eventually dry up. Fruits of all the affected branches remain underdeveloped, hard and stony. Later, the entire plant is defoliated and eventually dies.",
-                            "The roots also show rotting at the basal region and the bark is easily detachable from the cortex. Light brown discoloration is also noticed in vascular tissues.",
-                            "The pathogen attacks young as well as old fruit bearing trees but older trees are more prone to the disease."
+                            "First symptoms start with the onset of monsoon. Appearance of light yellow foliage with loss of turgidity and epinasty. ",
+                            "Plants, at a later stage, show unthriftyness. Subsequently, premature shedding and defoliation. ",
+                            "Some of the twigs become bare and fail to bring forth new leaves or flowers and eventually dry up. Fruits of all the affected branches remain underdeveloped, hard and stony. Later, the entire plant is defoliated and eventually dies. ",
+                            "The roots also show rotting at the basal region and the bark is easily detachable from the cortex. Light brown discoloration is also noticed in vascular tissues. ",
+                            "The pathogen attacks young as well as old fruit bearing trees but older trees are more prone to the disease. "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "Through movement of plants containing sick soil in virgin areas.",
-                            "Short distance spread is by water.",
-                            "Root injury predisposes wilt disease."
+                            "Through movement of plants containing sick soil in virgin areas. ",
+                            "Short distance spread is by water. ",
+                            "Root injury predisposes wilt disease. "
                         ]
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "High rainfall during August/ September.",
-                            "Stagnation of water in guava field for long duration.",
-                            "Maximum and minimum temperature ranges 23-32oC with 76% RH are conducive.",
-                            "Lack of timely application of suitable control measures."
+                            "High rainfall during August/ September. ",
+                            "Stagnation of water in guava field for long duration. ",
+                            "Maximum and minimum temperature ranges 23-32oC with 76% RH are conducive. ",
+                            "Lack of timely application of suitable control measures. "
                         ]
                     }
                 },
@@ -3653,24 +3654,24 @@
                             "alt": "Fruit rot"
                         },
                         "content": [
-                            "The symptom starts at calyx disc of the fruit during rainy season.",
-                            "Affected area is covered with whitish cotton like growth which develops very fast as the fruit matures and pathogen is able to cover almost the entire surface within a period of 3-4 days during humid weather.",
-                            "Under high relative humidity, the fruits near the soil level covered with dense foliage are most severely affected. The fallen fruits are badly affected.",
-                            "The skin of the fruit below the whitish cottony growth becomes a little soft, turns light brown to dark"
+                            "The symptom starts at calyx disc of the fruit during rainy season. ",
+                            "Affected area is covered with whitish cotton like growth which develops very fast as the fruit matures and pathogen is able to cover almost the entire surface within a period of 3-4 days during humid weather. ",
+                            "Under high relative humidity, the fruits near the soil level covered with dense foliage are most severely affected. The fallen fruits are badly affected. ",
+                            "The skin of the fruit below the whitish cottony growth becomes a little soft, turns light brown to dark "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "Rain and the wind are conducive for spread.",
-                            "The pathogen produces a great number of sporangia and spores on the surface of diseased tissues principally when the temperature is near 25\u00b0C and this is an important sources of inoculum in the development of epidemics.",
-                            "Spores spread from the infected plant material or soil by rain splashes."
+                            "Rain and the wind are conducive for spread. ",
+                            "The pathogen produces a great number of sporangia and spores on the surface of diseased tissues principally when the temperature is near 25\u00b0C and this is an important sources of inoculum in the development of epidemics. ",
+                            "Spores spread from the infected plant material or soil by rain splashes. "
                         ]
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "Cool, wet environmental conditions with high soil moisture favour disease development.",
-                            "High humidity, temperature from 28-32oC (25 oC), poorly drained soils and injuries are favourable for initiation of disease.",
-                            "Close plantation."
+                            "Cool, wet environmental conditions with high soil moisture favour disease development. ",
+                            "High humidity, temperature from 28-32oC (25 oC), poorly drained soils and injuries are favourable for initiation of disease. ",
+                            "Close plantation. "
                         ]
                     }
                 },
@@ -3681,53 +3682,53 @@
                             "alt": "Dieback and Anthracnose (fruit rot)"
                         },
                         "content": [
-                            "Die back phase:  The plant begins to die backwards form the top of a branch.",
-                            "Young shoots, leaves and fruits are readily attached, while they are still tender. The greenish colour of the growing tip is changed to dark brown and later to black necrotic areas extending backwards.",
-                            "The fungus develops from the infected twigs and then petiole and young leaves which may drop down or fall leaving the dried twigs without leaves.",
-                            "Fruit and leaf infection phase:  Fruit and leaf infection is generally seen during rainy season crop. Pin-head spots are first seen on unripe fruits, which gradually enlarge.",
-                            "Spots are dark brown in colour, sunken, circular and have minute black stromata in the center of the lesion, which produce creamy spore masses in moist weather.",
-                            "Several spots coalesce to form bigger lesions .",
-                            "The infected area on unripe fruits become corky and hardy, and often develops cracks in case of severe infection.",
-                            "Unopened buds and flowers are also affected which cause their shedding.",
-                            "On leaves, the fungus causes necrotic lesions usually ashy grey and bear fruiting bodies at the tip or on the margin"
+                            "Die back phase:  The plant begins to die backwards form the top of a branch. ",
+                            "Young shoots, leaves and fruits are readily attached, while they are still tender. The greenish colour of the growing tip is changed to dark brown and later to black necrotic areas extending backwards. ",
+                            "The fungus develops from the infected twigs and then petiole and young leaves which may drop down or fall leaving the dried twigs without leaves. ",
+                            "Fruit and leaf infection phase:  Fruit and leaf infection is generally seen during rainy season crop. Pin-head spots are first seen on unripe fruits, which gradually enlarge. ",
+                            "Spots are dark brown in colour, sunken, circular and have minute black stromata in the center of the lesion, which produce creamy spore masses in moist weather. ",
+                            "Several spots coalesce to form bigger lesions . ",
+                            "The infected area on unripe fruits become corky and hardy, and often develops cracks in case of severe infection. ",
+                            "Unopened buds and flowers are also affected which cause their shedding. ",
+                            "On leaves, the fungus causes necrotic lesions usually ashy grey and bear fruiting bodies at the tip or on the margin "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "Infection spreads by wind borne spores develop on dead leaves, twigs and mummified fruits in the orchard.",
-                            "Dense canopy is congenial for germination of spores due to high moisture condition.",
-                            "Movement of planting material through infected foliage.",
-                            "Transportation of fruits from high disease prone area."
+                            "Infection spreads by wind borne spores develop on dead leaves, twigs and mummified fruits in the orchard. ",
+                            "Dense canopy is congenial for germination of spores due to high moisture condition. ",
+                            "Movement of planting material through infected foliage. ",
+                            "Transportation of fruits from high disease prone area. "
                         ]
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "Closer planting without canopy management",
-                            "Dew or rains encourages spore production and its dispersal around canopy.",
-                            "Temperature between 10 to 35oC with best 24 to 28oC."
+                            "Closer planting without canopy management ",
+                            "Dew or rains encourages spore production and its dispersal around canopy. ",
+                            "Temperature between 10 to 35oC with best 24 to 28oC. "
                         ]
                     }
                 },
                 "Stem canker and dry fruit rot. Physalopara psidii Stevens &Pierce and Diplodia netalensis Evans": {
                     "Disease symptoms: ": {
                         "content": [
-                            "Physalopara psidii causes stem canker and the imperfect stage Diplodia netalensis dry fruit rot.",
-                            "Pathogen attack main branches and stem on which it causes cracking of lesion.",
-                            "Affected branches wilt as the stem tissues are killed. Fungal perithesia small brown to black structures may develop on the infected stem.",
-                            "On fruit disease symptoms appears as light brown spots generally at the stalk or calyx end .",
-                            "With four days the entire fruit become dark brown to black and mummified.",
-                            "Twing bearing infected fruits show die back."
+                            "Physalopara psidii causes stem canker and the imperfect stage Diplodia netalensis dry fruit rot. ",
+                            "Pathogen attack main branches and stem on which it causes cracking of lesion. ",
+                            "Affected branches wilt as the stem tissues are killed. Fungal perithesia small brown to black structures may develop on the infected stem. ",
+                            "On fruit disease symptoms appears as light brown spots generally at the stalk or calyx end . ",
+                            "With four days the entire fruit become dark brown to black and mummified. ",
+                            "Twing bearing infected fruits show die back. "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "Pathogen survives beneath the bark which becomes active during favorable condition.",
-                            "It may spread from plant to plant through air."
+                            "Pathogen survives beneath the bark which becomes active during favorable condition. ",
+                            "It may spread from plant to plant through air. "
                         ]
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "Rainy season is the favorable for disease development."
+                            "Rainy season is the favorable for disease development. "
                         ]
                     }
                 },
@@ -3738,21 +3739,21 @@
                             "alt": "Fruit canker (Pestalotia psidii Pat.)"
                         },
                         "content": [
-                            "Symptoms occur generally on green fruits and rarely on leaves.",
-                            "Initially minute, brown or rust coloured, unbroken, circular, necrotic areas appears on fruits, which in advanced stage of infection; tears open the epidermis in a circinate manner.",
-                            "The margin of lesion is elevated and a depressed area is noticeable inside. The crater like appearance is more noticeable on fruits than on leaves. In older cankers, white myceliums consisting of numerous spores are noticeable.",
-                            "In severe cases, raised, cankerous spots develop in great numbers and the fruits break open to expose seeds",
-                            "Infected fruits remain underdeveloped, become hard, malformed and mummified and drop. Sometimes, small rusty brown angular spots appear on the leaves."
+                            "Symptoms occur generally on green fruits and rarely on leaves. ",
+                            "Initially minute, brown or rust coloured, unbroken, circular, necrotic areas appears on fruits, which in advanced stage of infection; tears open the epidermis in a circinate manner. ",
+                            "The margin of lesion is elevated and a depressed area is noticeable inside. The crater like appearance is more noticeable on fruits than on leaves. In older cankers, white myceliums consisting of numerous spores are noticeable. ",
+                            "In severe cases, raised, cankerous spots develop in great numbers and the fruits break open to expose seeds ",
+                            "Infected fruits remain underdeveloped, become hard, malformed and mummified and drop. Sometimes, small rusty brown angular spots appear on the leaves. "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "The pathogen is primily a wound parasite and avoid injury to fruits."
+                            "The pathogen is primily a wound parasite and avoid injury to fruits. "
                         ]
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "Germination of spores is maximum at 30o C & do not germinate below 15oC or above 40oC with RH above 96%."
+                            "Germination of spores is maximum at 30o C & do not germinate below 15oC or above 40oC with RH above 96%. "
                         ]
                     }
                 },
@@ -3763,21 +3764,21 @@
                             "alt": "Algal leaf and fruit spot (Cephaleuros virescens Kuntze)"
                         },
                         "content": [
-                            "Alga infects immature guava leaves during early spring flush.",
-                            "Minute, shallow brown velvety lesions appear on leaves specialy on leaf tips, margins or areas near the mid vein and as the disease progresses, the lesions enlarge to 2-3 mm in diameter.",
-                            "On leaves the spots may vary form specks to big patches which may be crowded or scattered.",
-                            "On immature fruits the lesions are nearly black. As fruits enlarge, lesions get sunken and get cracked frequently on older blemishes as a result of enlargement of fruits, lesions are usually smaller than leaf spots. They are darkish green to brown or black to colour"
+                            "Alga infects immature guava leaves during early spring flush. ",
+                            "Minute, shallow brown velvety lesions appear on leaves specialy on leaf tips, margins or areas near the mid vein and as the disease progresses, the lesions enlarge to 2-3 mm in diameter. ",
+                            "On leaves the spots may vary form specks to big patches which may be crowded or scattered. ",
+                            "On immature fruits the lesions are nearly black. As fruits enlarge, lesions get sunken and get cracked frequently on older blemishes as a result of enlargement of fruits, lesions are usually smaller than leaf spots. They are darkish green to brown or black to colour "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "Pathogen survives on infected plant debris.",
-                            "Disease is air borne and spreads by air and rain splashes."
+                            "Pathogen survives on infected plant debris. ",
+                            "Disease is air borne and spreads by air and rain splashes. "
                         ]
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "Wet, humid conditions promote spread of the disease; zoospores spread by splashing water."
+                            "Wet, humid conditions promote spread of the disease; zoospores spread by splashing water. "
                         ]
                     }
                 },
@@ -3788,14 +3789,14 @@
                             "alt": "Styler end rot (Phomopsis psidii de Camara)"
                         },
                         "content": [
-                            "The visible disease symptom appears as discoloration in the region lying just below and adjoining the persistent calyx. Such area gradually increases in size and turn dark brown.",
-                            "Later the affected area becomes soft. Along with the discoloration of epicarp, the mesocarp tissue also shows discoloration and the diseased area is marked by being pulpy and light brown in colour in contrast to the bright white colour of the healthy area of the mesocarp"
+                            "The visible disease symptom appears as discoloration in the region lying just below and adjoining the persistent calyx. Such area gradually increases in size and turn dark brown. ",
+                            "Later the affected area becomes soft. Along with the discoloration of epicarp, the mesocarp tissue also shows discoloration and the diseased area is marked by being pulpy and light brown in colour in contrast to the bright white colour of the healthy area of the mesocarp "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "Pathogen survives in infected fruits and plant debris.",
-                            "Pathogen spread through wind."
+                            "Pathogen survives in infected fruits and plant debris. ",
+                            "Pathogen spread through wind. "
                         ]
                     },
                     "Favourable conditions: ": {
@@ -3807,7 +3808,7 @@
             }
         },
         "jackfruit": {
-            "image": "jackfruit.jpg",
+            "image": "",
             "diseases": {
                 "Soft rot or fruit rot": {
                     "Disease symptoms: ": {
@@ -3923,7 +3924,7 @@
             }
         },
         "kinnow": {
-            "image": "kinnow.jpg",
+            "image": "",
             "diseases": {
                 "Gummosis of citrus": {
                     "Transmission ": {
@@ -3938,8 +3939,8 @@
                         },
                         "content": [
                             "Trunk Paint: Scrap the affected bark portions of the tree  trunk, branches and limbs along with some healthy green bark with the  help of sharp Knife or Khurpa. Properly collect and destroy the diseased  bark by burning and do not allow it to fall on the ground. Apply the  fungicidal paint of Ridomil",
-                            "Gold (2 gm in 100 ml Linseed oil) or Trichoderma harzianum @  100 g/l and paint Linseed oil after five days with the help of painting  brush twice in a year during February-March and July-August.",
-                            "Soil Drench: Drenching the root zone area of the infected  tree with Ridomil Gold (25 g / tree in 10 litres of water) twice in  February-March and July-August. Trunk paint can be combined with soil  drench for effective disease control.",
+                            " Gold (2 gm in 100 ml Linseed oil) or Trichoderma harzianum @  100 g/l and paint Linseed oil after five days with the help of painting  brush twice in a year during February-March and July-August.",
+                            "Soil Drench: Drenching the root zone area of the infected  tree with Ridomil Gold (25 g / tree in 10 litres of water) twice in  February-March and July-August. Trunk paint can be combined with soil  drench for effective disease control. ",
                             "Foliar Sprays: Spray application of Aliette 80 WP (2.5 gm/  litre) can be made during April and September for the effective disease  control. The spray application will check the lesions on the tree parts  as well as regeneration of feeder roots. Aliette spray can be combined  with drenching of root zone area with Ridomil Gold.",
                             "Prefer basin method of irrigation or double ring or drip irrigation over flooding method of irrigation"
                         ]
@@ -4069,7 +4070,7 @@
                             "alt": "Sclerotinia rot"
                         },
                         "content": [
-                            "Fluffy white cottony fungal growth is seen on infected area.",
+                            "Fluffy white cottony fungal growth is seen on infected area. ",
                             "Infected fruit and stem first appear water soaked.",
                             "Small hard black fungal structures known as sclerotia eventually develop embedded in the cottony mold.",
                             "Fruits are often infected through the blossom end and became rotted and watery sclerotia may be inside these rotted fruits."
@@ -4094,7 +4095,7 @@
             }
         },
         "litchi": {
-            "image": "litchi.jpg",
+            "image": "",
             "diseases": {
                 "Anthracnose": {
                     "Disease symptoms: ": {
@@ -4137,14 +4138,15 @@
                             "In some parts of litchi belt, trees are killed by the root rot.",
                             "One side of the tree\u2019s crown may be perfectly sound and the other totally necrosis.",
                             "Leaf shed never occurs (it does in the case of a nematode attack) and the internal parts of the roots are characteristically red in colour",
-                            "No method has been found to save the tree once it has become infected."
+                            "No method has been found to save the tree once it has become infected.",
+                            "\n\n\n\n"
                         ]
                     }
                 }
             }
         },
         "loquat": {
-            "image": "loquat.jpg",
+            "image": "",
             "diseases": {
                 "Shoot/fruit blight and bark canker": {
                     "Disease symptoms": {
@@ -4368,7 +4370,7 @@
             }
         },
         "mango": {
-            "image": "mango.jpg",
+            "image": "",
             "diseases": {
                 "Powdery mildew": {
                     "Disease symptoms": {
@@ -4377,20 +4379,20 @@
                             "alt": "Powdery mildew"
                         },
                         "content": [
-                            "The characteristic symptom of the disease is the white superficial powdery fungal growth on leaves, stalks of panicles, flowers and young fruits.",
-                            "The affected flowers and fruits drop pre-maturely reducing the crop load considerably or might even prevent the fruit set.",
-                            "The fungus parasitizes young tissues of all parts of the inflorescence, leaves and fruits.",
-                            "Young leaves are attacked on both the sides but it is more conspicuous on the grower surface. Often these patches coalesce and occupy larger areas turning into purplish brown in colour"
+                            "The characteristic symptom of the disease is the white superficial powdery fungal growth on leaves, stalks of panicles, flowers and young fruits. ",
+                            "The affected flowers and fruits drop pre-maturely reducing the crop load considerably or might even prevent the fruit set. ",
+                            "The fungus parasitizes young tissues of all parts of the inflorescence, leaves and fruits. ",
+                            "Young leaves are attacked on both the sides but it is more conspicuous on the grower surface. Often these patches coalesce and occupy larger areas turning into purplish brown in colour "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "The powdery mildew fungus overwinters in dormant buds. When conditions are favorable for growth of the fungus in spring, spores are produced, released, and cause new infections. Secondary spread of the disease can occur if spores are produced in these new infections"
+                            "The powdery mildew fungus overwinters in dormant buds. When conditions are favorable for growth of the fungus in spring, spores are produced, released, and cause new infections. Secondary spread of the disease can occur if spores are produced in these new infections "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "Rains or mists accompanied by cooler nights during flowering are congenial for the disease spread."
+                            "Rains or mists accompanied by cooler nights during flowering are congenial for the disease spread. "
                         ]
                     }
                 },
@@ -4401,20 +4403,20 @@
                             "alt": "Anthracnose"
                         },
                         "content": [
-                            "The disease causes serious losses to young shoots, flowers and fruits It is also affects fruits during storage.",
-                            "The disease produces leaf spot, blossom blight, wither tip, twig blight and fruit rot symptoms. Tender shoots and foliage are easily affected which ultimately cause \u201edie back\u201f of young branches. Older twigs may also be infected through wounds which in severe cases may be fatal.",
-                            "Depending on the prevailing weather conditions blossom blight may vary in severity from slight to a heavy infection of the panicles. Black spots develop on panicles as well as on fruits. Severe infection destroys the entire inflorescence resulting in no setting of fruits. Young infected fruits develop black spots, shrivel and drop off.",
-                            "Fruits infected at mature stage carry the fungus into storage and cause considerable loss during storage, transit and marketing."
+                            "The disease causes serious losses to young shoots, flowers and fruits It is also affects fruits during storage. ",
+                            "The disease produces leaf spot, blossom blight, wither tip, twig blight and fruit rot symptoms. Tender shoots and foliage are easily affected which ultimately cause \u201edie back\u201f of young branches. Older twigs may also be infected through wounds which in severe cases may be fatal. ",
+                            "Depending on the prevailing weather conditions blossom blight may vary in severity from slight to a heavy infection of the panicles. Black spots develop on panicles as well as on fruits. Severe infection destroys the entire inflorescence resulting in no setting of fruits. Young infected fruits develop black spots, shrivel and drop off. ",
+                            "Fruits infected at mature stage carry the fungus into storage and cause considerable loss during storage, transit and marketing. "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "Fungus survives in dead twig and other host for long time which is the source of primary infection."
+                            "Fungus survives in dead twig and other host for long time which is the source of primary infection. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "High humidity, frequent rains and a temperature of 24-32oC fabours the development of disease."
+                            "High humidity, frequent rains and a temperature of 24-32oC fabours the development of disease. "
                         ]
                     }
                 },
@@ -4425,19 +4427,19 @@
                             "alt": "Die back"
                         },
                         "content": [
-                            "The pathogen causing dieback, tip dieback, graft union blight, twig blight, seedling rot, wood stain, stem-end rot, black root rot, fruit rot, dry rot, brown rot of panicle etc. The disease is most conspicuous during October November.",
-                            "It is characterized by drying back of twigs from top downwards, particularly in older trees followed by drying of leaves which gives an appearance of fire scorch. Internal browning in wood tissue is observed when it is slit open along with the long axis.",
-                            "Cracks appear on branches and gum exudes before they die out. When graft union of nursery plant is affected, it usually dies"
+                            "The pathogen causing dieback, tip dieback, graft union blight, twig blight, seedling rot, wood stain, stem-end rot, black root rot, fruit rot, dry rot, brown rot of panicle etc. The disease is most conspicuous during October November. ",
+                            "It is characterized by drying back of twigs from top downwards, particularly in older trees followed by drying of leaves which gives an appearance of fire scorch. Internal browning in wood tissue is observed when it is slit open along with the long axis. ",
+                            "Cracks appear on branches and gum exudes before they die out. When graft union of nursery plant is affected, it usually dies "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "Pathogens survive in plant debris which is the source of primary inoculums."
+                            "Pathogens survive in plant debris which is the source of primary inoculums. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "High humidity and moist conditions favours the development of disease. The disease is most common in October-November."
+                            "High humidity and moist conditions favours the development of disease. The disease is most common in October-November. "
                         ]
                     }
                 },
@@ -4448,19 +4450,19 @@
                             "alt": "Phoma blight"
                         },
                         "content": [
-                            "The symptoms of the disease are noticeable only on old leaves. Initially, the lesions are angular, minute, irregular, yellow to light brown, scattered over leaf lamina.",
-                            "As the lesions enlarge their colour changes from brown to cinnamon and they become almost irregular.",
-                            "Fully developed spots are characterized by dark margins and dull grey necrotic centres. In case of severe infection such spots coalesce forming patches measuring 3.5-13 cm in size, resulting in complete withering and defoliation of infected leaves."
+                            "The symptoms of the disease are noticeable only on old leaves. Initially, the lesions are angular, minute, irregular, yellow to light brown, scattered over leaf lamina. ",
+                            "As the lesions enlarge their colour changes from brown to cinnamon and they become almost irregular. ",
+                            "Fully developed spots are characterized by dark margins and dull grey necrotic centres. In case of severe infection such spots coalesce forming patches measuring 3.5-13 cm in size, resulting in complete withering and defoliation of infected leaves. "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "The pathogen is seed borne fungus and inoculums present in the seeds are source of primary infection. Fungus also survives on glumes, fruit and plant debris."
+                            "The pathogen is seed borne fungus and inoculums present in the seeds are source of primary infection. Fungus also survives on glumes, fruit and plant debris. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "Rainy seasons favour the development of disease."
+                            "Rainy seasons favour the development of disease. "
                         ]
                     }
                 },
@@ -4471,20 +4473,20 @@
                             "alt": "Bacterial canker"
                         },
                         "content": [
-                            "The disease is noticed on leaves, leaf stalks, stems, twigs, branches and fruits, initially producing water soaked lesions, later turning into typical canker.",
-                            "On leaves, water soaked irregular satellite to angular raised lesions measuring 1-4 mm in diameter are formed. These lesions are light yellow in colour, initially with yellow halo but with age enlarge or coalesce to form irregular necrotic cankerous patches with dark brown colour.",
-                            "On fruits, water-soaked, dark brown to black coloured lesions are observed which gradually developed into cankerous, raised or flat spots. These spots grow bigger usually up to 1 to 5 mm in diameter, which covers / almost the whole fruit.",
-                            "These spots often, burst extruding gummy substances containing highly contagious bacterial cells."
+                            "The disease is noticed on leaves, leaf stalks, stems, twigs, branches and fruits, initially producing water soaked lesions, later turning into typical canker. ",
+                            "On leaves, water soaked irregular satellite to angular raised lesions measuring 1-4 mm in diameter are formed. These lesions are light yellow in colour, initially with yellow halo but with age enlarge or coalesce to form irregular necrotic cankerous patches with dark brown colour. ",
+                            "On fruits, water-soaked, dark brown to black coloured lesions are observed which gradually developed into cankerous, raised or flat spots. These spots grow bigger usually up to 1 to 5 mm in diameter, which covers / almost the whole fruit. ",
+                            "These spots often, burst extruding gummy substances containing highly contagious bacterial cells. "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "In lesions on plant parts and can also survive for long periods in diseased plant tissues."
+                            "In lesions on plant parts and can also survive for long periods in diseased plant tissues. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "Spring session is responsible for the development of diseases."
+                            "Spring session is responsible for the development of diseases. "
                         ]
                     }
                 },
@@ -4495,19 +4497,19 @@
                             "alt": "Red rust"
                         },
                         "content": [
-                            "Red rust disease, caused by an alga, has been observed in mango growing areas. The algal attack causes reduction in photosynthetic activity and defoliation of leaves thereby lowering vitality of the host plant.",
-                            "The disease can easily be recognized by the rusty red spots mainly on leaves and sometimes on petioles and bark of young twigs and is epiphytic in nature.",
-                            "The spots are greenish grey in colour and velvety in texture. Later, they turn reddish brown. The circular and slightly elevated spots sometimes coalesce to form larger and irregular spots. The disease is more common in closely planted orchards."
+                            "Red rust disease, caused by an alga, has been observed in mango growing areas. The algal attack causes reduction in photosynthetic activity and defoliation of leaves thereby lowering vitality of the host plant. ",
+                            "The disease can easily be recognized by the rusty red spots mainly on leaves and sometimes on petioles and bark of young twigs and is epiphytic in nature. ",
+                            "The spots are greenish grey in colour and velvety in texture. Later, they turn reddish brown. The circular and slightly elevated spots sometimes coalesce to form larger and irregular spots. The disease is more common in closely planted orchards. "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "The pathogens reproduce and survive in spots on leaves or stems and in fallen plant host debris."
+                            "The pathogens reproduce and survive in spots on leaves or stems and in fallen plant host debris. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "Frequent rains and warm weather are favorable conditions for these pathogens. For hosts, poor plant nutrition, poor soil drainage, and stagnant air are predisposing factors to infection by the algae"
+                            "Frequent rains and warm weather are favorable conditions for these pathogens. For hosts, poor plant nutrition, poor soil drainage, and stagnant air are predisposing factors to infection by the algae "
                         ]
                     }
                 },
@@ -4518,20 +4520,20 @@
                             "alt": "Sooty mould"
                         },
                         "content": [
-                            "The disease is common in the orchards where mealy bug, scale insect and hopper are not controlled efficiently.",
-                            "The disease in the field is recognized by the presence of a black velvety coating, i.e., sooty mould on the leaf surface. In severe cases the trees turn completely black due to the presence of mould over the entire surface of twigs and leaves.",
-                            "The severity of infection depends on the honey dew secretion by the above said insects. Honey dew secretions from insects sticks to the leaf surface and provide necessary medium for fungal growth."
+                            "The disease is common in the orchards where mealy bug, scale insect and hopper are not controlled efficiently. ",
+                            "The disease in the field is recognized by the presence of a black velvety coating, i.e., sooty mould on the leaf surface. In severe cases the trees turn completely black due to the presence of mould over the entire surface of twigs and leaves. ",
+                            "The severity of infection depends on the honey dew secretion by the above said insects. Honey dew secretions from insects sticks to the leaf surface and provide necessary medium for fungal growth. "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "The severity of infection depends on the honey dew secretions by the scale insects which provide the necessary medium for the fungal growth.",
-                            "Transmission occurs by air-borne as co-spores."
+                            "The severity of infection depends on the honey dew secretions by the scale insects which provide the necessary medium for the fungal growth. ",
+                            "Transmission occurs by air-borne as co-spores. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "High humidity and moist situation favours the development of disease."
+                            "High humidity and moist situation favours the development of disease. "
                         ]
                     }
                 },
@@ -4542,19 +4544,19 @@
                             "alt": "Mango malformation"
                         },
                         "content": [
-                            "Vegetative malformation: Vegetative malformation is pronounced in young seedlings. The affected seedlings develop vegetative growths which are abnormal growth, swollen and have very short internodes.",
-                            "Floral malformation: The flower buds are transformed into vegetative buds and a large number of small leaves and stems, which are characterized by appreciably reduced internodes and give an appearance of witches\u201f broom. The flower buds seldom open and remain dull green."
+                            "Vegetative malformation: Vegetative malformation is pronounced in young seedlings. The affected seedlings develop vegetative growths which are abnormal growth, swollen and have very short internodes. ",
+                            "Floral malformation: The flower buds are transformed into vegetative buds and a large number of small leaves and stems, which are characterized by appreciably reduced internodes and give an appearance of witches\u201f broom. The flower buds seldom open and remain dull green. "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "The disease is mainly spread via infected plant material. Mango malformation disease spreads slowly within affected orchards.",
-                            "The mango bud mite, Aceria mangiferae, has been associated with mango malformation disease as wounds from the mites\u201f feeding activity are thought to facilitate fungal infection."
+                            "The disease is mainly spread via infected plant material. Mango malformation disease spreads slowly within affected orchards. ",
+                            "The mango bud mite, Aceria mangiferae, has been associated with mango malformation disease as wounds from the mites\u201f feeding activity are thought to facilitate fungal infection. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "Moist weather favours the development of disease."
+                            "Moist weather favours the development of disease. "
                         ]
                     }
                 },
@@ -4565,18 +4567,18 @@
                             "alt": "Gummosis"
                         },
                         "content": [
-                            "The disease is characterized by the presence of profuse oozing of gum on the surface of the affected wood, bark of the trunk and also on larger braches but more common on the cracked branches.",
-                            "In severe cases, droplets of gum trickle down on stem, bark turn dark brown with longitudinal cracks, rots completely and the tree dries up because of cracking, rotting and girdling effects"
+                            "The disease is characterized by the presence of profuse oozing of gum on the surface of the affected wood, bark of the trunk and also on larger braches but more common on the cracked branches. ",
+                            "In severe cases, droplets of gum trickle down on stem, bark turn dark brown with longitudinal cracks, rots completely and the tree dries up because of cracking, rotting and girdling effects "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "Pathogen survives in disease plant debris."
+                            "Pathogen survives in disease plant debris. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "Warm weather favours the development of disease."
+                            "Warm weather favours the development of disease. "
                         ]
                     }
                 },
@@ -4587,19 +4589,19 @@
                             "alt": "Root rot & Damping off"
                         },
                         "content": [
-                            "The disease is characterized by sudden dropping of leaves after the emergence of seedlings from the soil.",
-                            "During prolonged rainy and humid weather, infection occurs at / or below the ground level with circular to irregular water soaked patches.",
-                            "These patches enlarge and ultimately girdle the entire base of the seedlings."
+                            "The disease is characterized by sudden dropping of leaves after the emergence of seedlings from the soil. ",
+                            "During prolonged rainy and humid weather, infection occurs at / or below the ground level with circular to irregular water soaked patches. ",
+                            "These patches enlarge and ultimately girdle the entire base of the seedlings. "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "Disease is soil borne and pathogen survives in soils of orchards. Primary infection occurs by soil and secondary by conidia through rain or wind."
+                            "Disease is soil borne and pathogen survives in soils of orchards. Primary infection occurs by soil and secondary by conidia through rain or wind. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "High humidity, high soil moisture, cloudiness and low temperatures below 24\u00b0 C for few days are ideal for infection and development of disease."
+                            "High humidity, high soil moisture, cloudiness and low temperatures below 24\u00b0 C for few days are ideal for infection and development of disease. "
                         ]
                     }
                 },
@@ -4610,19 +4612,19 @@
                             "alt": "Scab"
                         },
                         "content": [
-                            "The scab fungus attack leaves, panicles, blossoms, twigs, bark of stems and mango fruits. Spots are circular, slightly angular, elongated, 2-4 mm in diameter, brown but during rainy season, lesions differ in size, shape and colour.",
-                            "Symptoms produced by the disease are very much like those of anthracnose.",
-                            "On young fruits, the infection is grey to grayish brown with dark irregular margins. As the fruit attains in size, spots also enlarge and the centre may become covered with the crack fissure and corky tissues."
+                            "The scab fungus attack leaves, panicles, blossoms, twigs, bark of stems and mango fruits. Spots are circular, slightly angular, elongated, 2-4 mm in diameter, brown but during rainy season, lesions differ in size, shape and colour. ",
+                            "Symptoms produced by the disease are very much like those of anthracnose. ",
+                            "On young fruits, the infection is grey to grayish brown with dark irregular margins. As the fruit attains in size, spots also enlarge and the centre may become covered with the crack fissure and corky tissues. "
                         ]
                     },
                     "Survival and spread": {
                         "content": [
-                            "The pathogen survives in the form of resting spore in the soil debris."
+                            "The pathogen survives in the form of resting spore in the soil debris. "
                         ]
                     },
                     "Favourable conditions": {
                         "content": [
-                            "Suitable temperatures and moisture promote the release of Elsinoemangiferaespores. This cycle of secondary infections continues throughout the summer, until the leaves and fruit fall from the tree at the onset of winter."
+                            "Suitable temperatures and moisture promote the release of Elsinoemangiferaespores. This cycle of secondary infections continues throughout the summer, until the leaves and fruit fall from the tree at the onset of winter. "
                         ]
                     }
                 },
@@ -4630,7 +4632,7 @@
             }
         },
         "papaya": {
-            "image": "papaya.jpg",
+            "image": "",
             "diseases": {
                 "Foot rot of papaya": {
                     "Disease symptoms": {
@@ -4734,7 +4736,7 @@
                             "alt": "Papaya mosaic disease"
                         },
                         "content": [
-                            "Causes leaf mosaic and stunting in papaya.",
+                            "Causes leaf mosaic and stunting in papaya. ",
                             "Young seedlings in the greenhouse show vein-clearing and downward cupping of the leaves about 5 days after inoculation.",
                             "A mottle or mosaic develops after 15-20 days.",
                             "Symptoms appear on the young leaves of the plants.",
@@ -4755,10 +4757,10 @@
                             "alt": "leaf curl"
                         },
                         "content": [
-                            "Curling, crinkling and distortion of leaves, reduction of leaf lamina, rolling of leaf margins inward and downward, thickening of veins.",
-                            "Leaves become leathery, brittle and distorted. Plants stunted.Affected plants does not produce flowers and fruits.",
-                            "Spread by whitefly Bemisia tabaci.",
-                            "Sometimes all the leaves at the top of the plant are affected by these symptoms. In advanced stages of the disease, defoliation takes place and the growth of the plant is arrested.",
+                            "Curling, crinkling and distortion of leaves, reduction of leaf lamina, rolling of leaf margins inward and downward, thickening of veins. ",
+                            "Leaves become leathery, brittle and distorted. Plants stunted.Affected plants does not produce flowers and fruits. ",
+                            "Spread by whitefly Bemisia tabaci. ",
+                            "Sometimes all the leaves at the top of the plant are affected by these symptoms. In advanced stages of the disease, defoliation takes place and the growth of the plant is arrested. ",
                             "PLCV is in the family Geminiviridae. It is not transmitted mechanically. The virus vector is the silverleaf whitefly, Bemisia tabaci."
                         ]
                     },
@@ -4771,7 +4773,7 @@
             }
         },
         "passion fruit": {
-            "image": "passion fruit.jpg",
+            "image": "",
             "diseases": {
                 "Brown spot": {
                     "Disease symptoms:": {
@@ -4831,7 +4833,7 @@
                             "alt": "Root and crown rot"
                         },
                         "content": [
-                            "Phytophthora root and crown rot disease affects both adult as well as nursery plants. Mild cholorosis is followed by wilting, defoliation and death. Cortical tissues of the plants are exposed.",
+                            "Phytophthora root and crown rot disease affects both adult as well as nursery plants. Mild cholorosis is followed by wilting, defoliation and death. Cortical tissues of the plants are exposed. ",
                             "Plant intumescence and bark fissures are found in the collar. Injured leaf shows a burned appearance. Occurrence of foliar blight followed by drop of flowers is observed.",
                             "There is a change in leaf color from colorless to pale green, with leaves reaching a light copper colour. The affected plant shows burned -like black twig tips and flowers which eventually die. Large grayish- green aqueous spots can be viewed in fruits, which easily fall down."
                         ]
@@ -4964,7 +4966,7 @@
             }
         },
         "pear": {
-            "image": "pear.jpg",
+            "image": "",
             "diseases": {
                 "Scab": {
                     "Disease symptoms": {
@@ -5217,7 +5219,7 @@
             }
         },
         "persimmon": {
-            "image": "persimmon.jpg",
+            "image": "",
             "diseases": {
                 "Crown gall": {
                     "Disease symptoms:": {
@@ -5395,7 +5397,7 @@
             }
         },
         "pineapple": {
-            "image": "pineapple.jpg",
+            "image": "",
             "diseases": {
                 "Fungi associated diseases": {},
                 "Nematodes associated diseases": {
@@ -5405,8 +5407,8 @@
                             "alt": "Nematodes associated diseases"
                         },
                         "content": [
-                            "Root-knot nematodes produce distinct terminal swellings on the roots, stopping further root development. The root lesion nematode invades the outer root tissues, causing black areas (lesions) of dead or injured plant cells on the root surface.",
-                            "These lesions can completely encircle the root. Reniform nematodes reduce the number of lateral and fine feeder roots; the remainder elongate normally so that plants retain good soil anchorage. Root-knot nematodes cause stunting, yellowing and dieback of plants."
+                            "Root-knot nematodes produce distinct terminal swellings on the roots, stopping further root development. The root lesion nematode invades the outer root tissues, causing black areas (lesions) of dead or injured plant cells on the root surface. ",
+                            "These lesions can completely encircle the root. Reniform nematodes reduce the number of lateral and fine feeder roots; the remainder elongate normally so that plants retain good soil anchorage. Root-knot nematodes cause stunting, yellowing and dieback of plants. "
                         ]
                     }
                 },
@@ -5415,7 +5417,7 @@
             }
         },
         "pomegranate": {
-            "image": "pomegranate.jpg",
+            "image": "",
             "diseases": {
                 "Bacterial leaf and fruit spot": {
                     "Disease symptoms:": {
@@ -5437,7 +5439,7 @@
                     },
                     "Favourable conditions:": {
                         "content": [
-                            "The increase in day temperature (38.6\u00b0C) and afternoon relative humidity of 30.4% along with cloudy weather and intermittent rainfall favored the disease initiation and further spread of the disease."
+                            "  The increase in day temperature (38.6\u00b0C) and afternoon relative humidity of 30.4% along with cloudy weather and intermittent rainfall favored the disease initiation and further spread of the disease."
                         ]
                     }
                 },
@@ -5500,14 +5502,15 @@
                         "content": [
                             "Affected plants show yellowing of leaves in some twigs or branches, followed by drooping and drying of leaves.",
                             "The entire tree dies in few months or a year.",
-                            "When affected tree is cut open lengthwise or cross-section dark grayish-brown discolouration of wood is seen."
+                            "When affected tree is cut open lengthwise or cross-section dark grayish-brown discolouration of wood is seen.",
+                            "\n\n\n"
                         ]
                     }
                 }
             }
         },
         "raspberry": {
-            "image": "raspberry.jpg",
+            "image": "",
             "diseases": {
                 "Botrytis Fruit Rot": {
                     "Disease symptoms:": {
@@ -5517,7 +5520,8 @@
                         },
                         "content": [
                             "Soft, gray fungal spores grow on these watery spots when humidity is high Mid to late part of the season when problems arise",
-                            "As berries ripen, few infected druplets can develop a watery rot and golden or tan color"
+                            "As berries ripen, few infected druplets can develop a watery rot and golden or tan color",
+                            "\u00a0"
                         ]
                     },
                     "Favourable conditions:": {
@@ -5687,7 +5691,7 @@
                             "alt": "Fire Blight"
                         },
                         "content": [
-                            "Can girdle canes. Lesions become water soaked",
+                            "Can girdle canes. Lesions become water soaked\n\n",
                             "Carmel colored bacterial ooze comes out of lesions in beads during humid periods",
                             "Diseased plant parts become purplish black",
                             "Infected berries do not mature, become brown, dry up, become very hard and remain on pedicel"
@@ -5741,7 +5745,7 @@
                             "Cane galls develop as whitish eruptions on the fruiting canes in mid-June.",
                             "These eruptions later turn brown and then black and begin to disintegrate.",
                             "More intense gall formation seems to occur in years with higher incidence of winter injury.",
-                            "The diseases cause the production of dry, seedy berries and the stunting and prevention of new cane formation.",
+                            "The diseases cause the production of dry, seedy berries and the stunting and prevention of new cane formation.\n\n",
                             "Weakened canes are broken easily by the wind and are more susceptible to winter injury.",
                             "The plants might show water stress and nutrient deficiency symptoms since the movement of water and nutrients throughout the plant is disrupted.",
                             "With cane gall, black and purple raspberries are more often infected than red raspberries and blackberries."
@@ -5884,7 +5888,7 @@
             }
         },
         "sapota": {
-            "image": "sapota.jpg",
+            "image": "",
             "diseases": {
                 "Leaf spot": {
                     "Disease symptom:": {
@@ -5925,7 +5929,7 @@
             }
         },
         "strawberry": {
-            "image": "strawberry.jpg",
+            "image": "",
             "diseases": {
                 "Leaf spots": {
                     "Disease symptoms:": {
@@ -6207,7 +6211,7 @@
     },
     "oilseeds": {
         "castor": {
-            "image": "castor.jpg",
+            "image": "",
             "diseases": {
                 "Seedling blight": {
                     "Disease symptoms:": {
@@ -6344,9 +6348,9 @@
                 }
             }
         },
-        "image": "oilseeds.jpg",
+        "image": "",
         "mustard rapeseed": {
-            "image": "mustard rapeseed.jpg",
+            "image": "",
             "diseases": {
                 "Alternaria blight": {
                     "Disease symptoms": {
@@ -6518,7 +6522,7 @@
             }
         },
         "safflower": {
-            "image": "safflower.jpg",
+            "image": "",
             "diseases": {
                 "Alternaria blight": {
                     "Disease symptoms": {
@@ -6668,14 +6672,15 @@
                         "content": [
                             "Dark cortical lesions occur slightly below or at the soil level on the stem, which later extend upwards",
                             "Lesions frequently girdle the stem",
-                            "Root development is reduced and finally seedlings die"
+                            "Root development is reduced and finally seedlings die",
+                            "\u00a0"
                         ]
                     }
                 }
             }
         },
         "sesame": {
-            "image": "sesame.jpg",
+            "image": "",
             "diseases": {
                 "Phyllody": {
                     "Disease symptoms": {
@@ -6757,7 +6762,7 @@
     },
     "pulses": {
         "blackgram & greengram": {
-            "image": "blackgram & greengram.jpg",
+            "image": "",
             "diseases": {
                 "Cercospora leaf spot": {
                     "Disease symptoms": {
@@ -6951,30 +6956,30 @@
                 }
             }
         },
-        "image": "pulses.jpg",
+        "image": "",
         "horse gram": {
-            "image": "horse gram.jpg",
+            "image": "",
             "diseases": {
                 "Cercospora leaf spot": {
                     "Disease symptoms: ": {
                         "content": [
-                            "Moist weather and splashing rains are conducive to disease development. Most outbreaks of the disease can be traced back to heavy rainstorms that occur in the area.",
-                            "Infected leaves show small, brown, water soaked, circular spots surrounded with yellowish halo.",
-                            "On older plants, the leaflet infection is mostly on older leaves and may cause serious defoliation. The most striking symptoms are on the green fruit.",
-                            "Small, water-soaked spotsfirst appear which later become raised and enlarge until they are one-eighth to one-fourth inch in diameter.",
-                            "Centres of these lesions become irregular, light brown and slightly sunken with a rough, scabby surface.",
+                            "Moist weather and splashing rains are conducive to disease development. Most outbreaks of the disease can be traced back to heavy rainstorms that occur in the area. ",
+                            "Infected leaves show small, brown, water soaked, circular spots surrounded with yellowish halo. ",
+                            "On older plants, the leaflet infection is mostly on older leaves and may cause serious defoliation. The most striking symptoms are on the green fruit. ",
+                            "Small, water-soaked spotsfirst appear which later become raised and enlarge until they are one-eighth to one-fourth inch in diameter. ",
+                            "Centres of these lesions become irregular, light brown and slightly sunken with a rough, scabby surface. ",
                             "Ripe fruits are not susceptible to the disease. Surface of the seed becomes contaminated with the bacteria, remaining on the seed surface for some time.",
-                            "The organism survives in alternate hosts, on volunteer horsegram plants and on infected plant debris."
+                            " The organism survives in alternate hosts, on volunteer horsegram plants and on infected plant debris."
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "The fungus survives on diseased plant debris .Fungus spreads about 3 m through the soil in one season."
+                            "The fungus survives on diseased plant debris .Fungus spreads about 3 m through the soil in one season. "
                         ]
                     },
                     "Favourable conditions ": {
                         "content": [
-                            "Moist weather and splashing rains.",
+                            "Moist weather and splashing rains. ",
                             "High humidity or persistent dew"
                         ]
                     }
@@ -6982,21 +6987,21 @@
                 "Bacterial leaf spot": {
                     "Disease symptoms: ": {
                         "content": [
-                            "This is a common disease of horsegram occurring on the foliage at any stage of the growth.",
-                            "The pathogen attacks the foliage causing characteristic leaf spots and blight. Early blight is first observed on the plants as small, black lesions mostly on the older foliage.",
-                            "Spots enlarge, and by the time they are one-fourth inch in diameter or larger, concentric rings in a bull's eye pattern can be seen in the center of the diseased area.",
-                            "Tissue surrounding the spots may turn yellow. If high temperature and humidity occur at this time, much of the foliage is killed.",
-                            "Lesions on the stems are similar to those on leaves, sometimes girdling the plant if they occur near the soil line."
+                            "This is a common disease of horsegram occurring on the foliage at any stage of the growth. ",
+                            "The pathogen attacks the foliage causing characteristic leaf spots and blight. Early blight is first observed on the plants as small, black lesions mostly on the older foliage. ",
+                            "Spots enlarge, and by the time they are one-fourth inch in diameter or larger, concentric rings in a bull's eye pattern can be seen in the center of the diseased area. ",
+                            "Tissue surrounding the spots may turn yellow. If high temperature and humidity occur at this time, much of the foliage is killed. ",
+                            "Lesions on the stems are similar to those on leaves, sometimes girdling the plant if they occur near the soil line. "
                         ]
                     },
                     "Survival and spread ": {
                         "content": [
-                            "The bacterium is seed-borne"
+                            "The bacterium is seed-borne "
                         ]
                     },
                     "Favourable conditions ": {
                         "content": [
-                            "Rain splashes play an important role in the development and spreadof the disease.",
+                            "Rain splashes play an important role in the development and spreadof the disease. ",
                             "Warm, rainy and wet weather is congenial"
                         ]
                     }
@@ -7004,14 +7009,14 @@
                 "Anthracnose": {
                     "Disease symptoms: ": {
                         "content": [
-                            "Symptoms are circular, black, sunken spots with dark center and bright red orange margins on leaves and pods",
-                            "In severe infections, the affected parts wither off.",
+                            "Symptoms are circular, black, sunken spots with dark center and bright red orange margins on leaves and pods ",
+                            "In severe infections, the affected parts wither off. ",
                             "Seedlings get blighted due to infection soon after seed germination."
                         ]
                     },
                     "Survival and spread ": {
                         "content": [
-                            "The pathogens survive on seed and plant debris",
+                            "The pathogens survive on seed and plant debris ",
                             "Disease spreads in the field through air-borne conidia"
                         ]
                     },
@@ -7024,17 +7029,17 @@
                 "Root rot": {
                     "Disease symptoms: ": {
                         "content": [
-                            "The pathogens cause seed decay, root rot, damping-off, seedling blight, stem canker and leaf blight in horsegram",
-                            "The disease occurs commonly at pod development stage",
-                            "The affected leaves turn yellow in colour and brown irregular lesions appear on leaves.",
-                            "Roots and basal portion of the stem become black in colour and the bark peels off easily.",
-                            "When the tap root of the affected plant is split open, reddening of internal tissues is visible."
+                            "The pathogens cause seed decay, root rot, damping-off, seedling blight, stem canker and leaf blight in horsegram ",
+                            "The disease occurs commonly at pod development stage ",
+                            "The affected leaves turn yellow in colour and brown irregular lesions appear on leaves. ",
+                            "Roots and basal portion of the stem become black in colour and the bark peels off easily. ",
+                            "When the tap root of the affected plant is split open, reddening of internal tissues is visible. "
                         ]
                     },
                     "Survival and spread ": {
                         "content": [
-                            "Species are saprotrophic, occurring in the soil which is the source of primary infection.",
-                            "Secondary infection occurs by means of asexual spores."
+                            "Species are saprotrophic, occurring in the soil which is the source of primary infection. ",
+                            "Secondary infection occurs by means of asexual spores. "
                         ]
                     },
                     "Favourable conditions ": {
@@ -7046,17 +7051,17 @@
                 "Mosaic complex": {
                     "Disease symptoms: ": {
                         "content": [
-                            "Initially mild scattered yellow spots appear on young leaves",
-                            "The next trifoliate leaves emerging from the growing apexshow irregular yellow and green patches alternating with each other",
-                            "Spots gradually increase in size and ultimately some leaves turn completely yellow",
-                            "Infected leaves also show necrotic symptoms.",
-                            "Diseased plants are stunted, mature late and produce very few flowers and pods",
-                            "Pods of infected plants are reduced in size and turn yellow in colour."
+                            "Initially mild scattered yellow spots appear on young leaves ",
+                            "The next trifoliate leaves emerging from the growing apexshow irregular yellow and green patches alternating with each other ",
+                            "Spots gradually increase in size and ultimately some leaves turn completely yellow ",
+                            "Infected leaves also show necrotic symptoms. ",
+                            "Diseased plants are stunted, mature late and produce very few flowers and pods ",
+                            "Pods of infected plants are reduced in size and turn yellow in colour. "
                         ]
                     },
                     "Transmission and Favourable conditions ": {
                         "content": [
-                            "The disease is transmitted in semi persistent manner by aphids and whiteflies.",
+                            "The disease is transmitted in semi persistent manner by aphids and whiteflies. ",
                             "Aphids are more active in warm summer conditions and increased their population as well as spread the viruses ."
                         ]
                     }
@@ -7064,17 +7069,17 @@
                 "Powdery mildew": {
                     "Disease symptoms: ": {
                         "content": [
-                            "White powdery patches appear on leaves and other green parts which later become dull coloured",
+                            "White powdery patches appear on leaves and other green parts which later become dull coloured ",
                             "These patches gradually increase in size and become circular covering the lower surface Also. 30",
-                            "When the infection is severe, both the surfaces of the leaves are completely covered by whitish powdery growth.",
-                            "In severe infections, foliage becomes yellow causing premature defoliation.",
-                            "The disease also creates forced maturity of the infected plants which results in heavy yield losses."
+                            "When the infection is severe, both the surfaces of the leaves are completely covered by whitish powdery growth. ",
+                            "In severe infections, foliage becomes yellow causing premature defoliation. ",
+                            "The disease also creates forced maturity of the infected plants which results in heavy yield losses. "
                         ]
                     },
                     "Survival and spread ": {
                         "content": [
-                            "The pathogen has a wide host range and survives in oidial form on various hosts in offseason",
-                            "Secondary spread is through air-borne oidia produced in the season."
+                            "The pathogen has a wide host range and survives in oidial form on various hosts in offseason ",
+                            "Secondary spread is through air-borne oidia produced in the season. "
                         ]
                     },
                     "Favourable conditions ": {
@@ -7086,7 +7091,7 @@
             }
         },
         "lentil": {
-            "image": "lentil.jpg",
+            "image": "",
             "diseases": {
                 "Fusarium Wilt": {
                     "Disease symptoms:": {
@@ -7119,7 +7124,7 @@
                         },
                         "content": [
                             "First sign of infection is small white pustules on theleaves.",
-                            "Minute yellowish slightly raised pustules, that as they enlarge change to orange-brown in colour, often surrounded by a light coloured halo."
+                            "Minute yellowish slightly raised pustules, that as they enlarge change to orange-brown in colour, often surrounded by a light coloured halo.\n\u00a0\n"
                         ]
                     },
                     "Survival and spread: ": {
@@ -7140,7 +7145,7 @@
                             "alt": "Ascochyta blight"
                         },
                         "content": [
-                            "Grey to tan spots or lesions on leaflets, stems, flowers and pods, with dark margins and often with tiny black fruiting bodies (pycnidia) in the centers",
+                            "Grey to tan spots or lesions on leaflets, stems, flowers and pods, with dark margins and often with tiny black fruiting bodies (pycnidia) in the centers ",
                             "Lesions first appear on lower leaflets close to soil surface and spread up the plant canopy. Lesions on stems can girdle the plant resulting in wilting. Leaves may turn brown and die off."
                         ]
                     },
@@ -7252,7 +7257,7 @@
             }
         },
         "pea": {
-            "image": "pea.jpg",
+            "image": "",
             "diseases": {
                 "Downy mildew": {
                     "Disease symptoms: ": {
@@ -7504,7 +7509,7 @@
             }
         },
         "rajmash": {
-            "image": "rajmash.jpg",
+            "image": "",
             "diseases": {
                 "Anthracnose": {
                     "Disease symptoms: ": {
@@ -7513,20 +7518,20 @@
                             "alt": "Anthracnose"
                         },
                         "content": [
-                            "Symptoms of anthracnose can appear on any plant part. Pale brown sunken spots may appear on the cotyledons of infected seedlings.Spots may spread to the hypocotyle, which if girdled, kill the seedlings. Lesions on leaves are dark brown.",
-                            "They are restricted to the veins on lower leaf surface. On stems, lesions are elongated and sunken.",
-                            "On the pods, the fungus produces black, sunken lesions. These lesions penetrate deep into the pods and may cause shrivelling of the young pods.",
-                            "Infected seed become discoloured changing to yellow through brown to black. In damp weather, the centres of anthracnose lesions become covered with a pink spore mass."
+                            "Symptoms of anthracnose can appear on any plant part. Pale brown sunken spots may appear on the cotyledons of infected seedlings.Spots may spread to the hypocotyle, which if girdled, kill the seedlings. Lesions on leaves are dark brown. ",
+                            "They are restricted to the veins on lower leaf surface. On stems, lesions are elongated and sunken. ",
+                            "On the pods, the fungus produces black, sunken lesions. These lesions penetrate deep into the pods and may cause shrivelling of the young pods. ",
+                            "Infected seed become discoloured changing to yellow through brown to black. In damp weather, the centres of anthracnose lesions become covered with a pink spore mass. "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "The disease is seed-borne and pathogen can also survive in soil. Secondary disease cycles continue until the weather remains favorable."
+                            "The disease is seed-borne and pathogen can also survive in soil. Secondary disease cycles continue until the weather remains favorable. "
                         ]
                     },
                     "Favourable condition: ": {
                         "content": [
-                            "Frequent showers, heavy dews, temperatures of 20 -30oC, and overcrowding of plants favor the spread and development of anthracnose."
+                            "Frequent showers, heavy dews, temperatures of 20 -30oC, and overcrowding of plants favor the spread and development of anthracnose. "
                         ]
                     }
                 },
@@ -7537,19 +7542,19 @@
                             "alt": "Rust"
                         },
                         "content": [
-                            "Rust-colored pustules form on the lower leaf surfaces.",
-                            "Severely infected leaves turn yellow, wilt, and then drop off of the plant.",
-                            "Stems and pods may also be infected. It affects most types of beans under humid conditions."
+                            "Rust-colored pustules form on the lower leaf surfaces. ",
+                            "Severely infected leaves turn yellow, wilt, and then drop off of the plant. ",
+                            "Stems and pods may also be infected. It affects most types of beans under humid conditions. "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "The fungus survives mainly in alternate host."
+                            "The fungus survives mainly in alternate host. "
                         ]
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "Rust progresses most rapidly in susceptible hybrids or varieties when the temperature is near 27oC with high humidity and frequent dews."
+                            "Rust progresses most rapidly in susceptible hybrids or varieties when the temperature is near 27oC with high humidity and frequent dews. "
                         ]
                     }
                 },
@@ -7560,20 +7565,20 @@
                             "alt": "Root rot"
                         },
                         "content": [
-                            "Many fungi, including Rhizoctonia solani, Pythium spp., Fusarium solani, Macrophomina phaseolina, survive in the soil and infect young seedlings or the seeds of bean plants.",
-                            "Seedlings fail to emerge after planting when the seeds rot in the soil or young seedlings may be stunted.",
-                            "Plants are usually affected slightly above or below the soil line with a watery soft rot. Leaves turn yellow and roots get rotten."
+                            "Many fungi, including Rhizoctonia solani, Pythium spp., Fusarium solani, Macrophomina phaseolina, survive in the soil and infect young seedlings or the seeds of bean plants. ",
+                            "Seedlings fail to emerge after planting when the seeds rot in the soil or young seedlings may be stunted. ",
+                            "Plants are usually affected slightly above or below the soil line with a watery soft rot. Leaves turn yellow and roots get rotten. "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "Causal organisms survive in soil and seed as resting mycelia or sclerotia for long period. These organisms often survive as saprophytes, living on dead plant material, or as dormant mycelia or spores. Root exudates from germinating seedlings or growing roots stimulate the dormant fungi to become active."
+                            "Causal organisms survive in soil and seed as resting mycelia or sclerotia for long period. These organisms often survive as saprophytes, living on dead plant material, or as dormant mycelia or spores. Root exudates from germinating seedlings or growing roots stimulate the dormant fungi to become active. "
                         ]
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "Diseases are prevalent under cool wet conditions that keep the soil temperatures below 13\u00b0C.",
-                            "Rhizoctonia root rot is most damaging when cool, wet conditions in the spring are followed by hot (25 -29\u00b0C), dry conditions."
+                            "Diseases are prevalent under cool wet conditions that keep the soil temperatures below 13\u00b0C. ",
+                            "Rhizoctonia root rot is most damaging when cool, wet conditions in the spring are followed by hot (25 -29\u00b0C), dry conditions. "
                         ]
                     }
                 },
@@ -7584,13 +7589,13 @@
                             "alt": "Bean common mosaic disease"
                         },
                         "content": [
-                            "Symptoms of bean common mosaic virus (BCMV) are cupping and twisting of leaves with a light and dark green mosaic pattern.",
-                            "The dark green tissue is often bubbled and/or in bands next to the veins. Affected plants produce smaller, curled pods with a greasy appearance resulting in poor yields"
+                            "Symptoms of bean common mosaic virus (BCMV) are cupping and twisting of leaves with a light and dark green mosaic pattern. ",
+                            "The dark green tissue is often bubbled and/or in bands next to the veins. Affected plants produce smaller, curled pods with a greasy appearance resulting in poor yields "
                         ]
                     },
                     "Transmission and fabourable conditions: ": {
                         "content": [
-                            "The virus is seed borne and can also be transmitted by several aphid species"
+                            "The virus is seed borne and can also be transmitted by several aphid species "
                         ]
                     }
                 },
@@ -7601,15 +7606,15 @@
                             "alt": "Watery Soft Rot"
                         },
                         "content": [
-                            "Small, soft, watery spots that are caused by the fungus Sclerotinia sclerotiorum occur on the stems, leaves and pods of beans.",
-                            "These spots enlarge rapidly under cool, moist conditions and girdle the stem.",
-                            "Infected areas of pods become soft, watery and covered by a white fungal growth."
+                            "Small, soft, watery spots that are caused by the fungus Sclerotinia sclerotiorum occur on the stems, leaves and pods of beans. ",
+                            "These spots enlarge rapidly under cool, moist conditions and girdle the stem. ",
+                            "Infected areas of pods become soft, watery and covered by a white fungal growth. "
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "The fungus is soil-borne and infects lower parts of bean plants first. The most important survival mechanism of S. sclerotiorum is the formation of sclerotia. Infection is initially localized and spread rapidly in low lying moist and cool areas under furrow irrigation Favourable conditions:",
-                            "Wet and cold weather conditions towards the end of growing season are conducive to white mould epidemics."
+                            "The fungus is soil-borne and infects lower parts of bean plants first. The most important survival mechanism of S. sclerotiorum is the formation of sclerotia. Infection is initially localized and spread rapidly in low lying moist and cool areas under furrow irrigation Favourable conditions: ",
+                            "Wet and cold weather conditions towards the end of growing season are conducive to white mould epidemics. "
                         ]
                     }
                 },
@@ -7620,13 +7625,13 @@
                             "alt": "Angular leaf spot"
                         },
                         "content": [
-                            "Symptoms consist of small dark brown spots with angular edges and are often numerous to give the foliage a checker-board appearance.",
+                            "Symptoms consist of small dark brown spots with angular edges and are often numerous to give the foliage a checker-board appearance. ",
                             "The spots may increase in size, join together, and cause yellowing and necrosis of the affected leaves. This may lead to premature defoliation."
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "The disease is seed-borne."
+                            "The disease is seed-borne. "
                         ]
                     },
                     "Favourable conditions: ": {
@@ -7638,7 +7643,7 @@
             }
         },
         "redgram": {
-            "image": "redgram.jpg",
+            "image": "",
             "diseases": {
                 "Wilt": {
                     "Disease symptoms": {
@@ -7768,7 +7773,7 @@
     },
     "spice crops": {
         "black pepper": {
-            "image": "black pepper.jpg",
+            "image": "",
             "diseases": {
                 "Foot rot /quick wilt disease": {
                     "Disease symptoms": {
@@ -7935,23 +7940,23 @@
                 }
             }
         },
-        "image": "spice-crops.jpg",
+        "image": "",
         "chilli": {
-            "image": "chilli.jpg",
+            "image": "",
             "diseases": {
                 "Damping off": {
                     "Causal organism :": {
                         "content": [
-                            "Pythium aphanidermatum"
+                            "Pythium aphanidermatum "
                         ]
                     },
                     "Damage symptoms: ": {
                         "content": [
                             "Disease of nursery beds and young seedlings resulting in reduced seed germination and poor stand of seedlings. Very high seedling mortality 25-75%",
-                            "Pre-emergence damping off : Seedlings disintegrate before they come out of soil surface leading to poor seed germination",
-                            "Post-emergence  damping off is characterised by development of disease after seedlings have emerged out of soil but before the stems are lignified",
-                            "Water soaked lesion  formation at collar region",
-                            "brown and rot Infected areas turn",
+                            "Pre-emergence damping off : Seedlings disintegrate before they come out of soil surface leading to poor seed germination ",
+                            "Post-emergence  damping off is characterised by development of disease after seedlings have emerged out of soil but before the stems are lignified ",
+                            "Water soaked lesion  formation at collar region ",
+                            "brown and rot Infected areas turn  ",
                             "collapse Plants shrivel and  as a result of softening of tissues",
                             "wire stem In Rhizoctonia solani attack infected stems become hard, thin ( symptoms) and infected seedlings topple Disease appear in patches both in nursery and field beds."
                         ]
@@ -7980,19 +7985,19 @@
                     },
                     "Dieback Symptoms": {
                         "content": [
-                            "Disease is more in December - October in transplanted crop",
-                            "Small, circular to irregular, brownish black scattered spots appear on leaves",
-                            "Severely infected leaves defoliate",
-                            "Infection of growing tips leads to necrosis of branches from tip backwards",
-                            "Necrotic tissues appear grayish white with black dot like acervuli in the center",
-                            "Shedding of flowers due to the infection at pedicel and tips of branches",
-                            "Fruit symptoms",
-                            "Ripe fruits are more vulnerable to attack than green ones",
-                            "Small, circular, yellowish to pinkish sunken spots appear on fruits",
-                            "Spots increase along fruit length attaining elliptical shape",
-                            "Severe infection result in the shrivelling and drying of fruits.",
-                            "Tissues around lesions will be bleached and turn white or greyish in colour and lose their pungency",
-                            "On the surface of the lesions minute black dot like fruiting bodies called \u2018acervuli\u2019 develop in concentric rings and fruits appear straw coloured",
+                            "Disease is more in December - October in transplanted crop ",
+                            "Small, circular to irregular, brownish black scattered spots appear on leaves ",
+                            "Severely infected leaves defoliate ",
+                            "Infection of growing tips leads to necrosis of branches from tip backwards ",
+                            "Necrotic tissues appear grayish white with black dot like acervuli in the center ",
+                            "Shedding of flowers due to the infection at pedicel and tips of branches ",
+                            "Fruit symptoms ",
+                            "Ripe fruits are more vulnerable to attack than green ones ",
+                            "Small, circular, yellowish to pinkish sunken spots appear on fruits ",
+                            "Spots increase along fruit length attaining elliptical shape ",
+                            "Severe infection result in the shrivelling and drying of fruits. ",
+                            "Tissues around lesions will be bleached and turn white or greyish in colour and lose their pungency ",
+                            "On the surface of the lesions minute black dot like fruiting bodies called \u2018acervuli\u2019 develop in concentric rings and fruits appear straw coloured ",
                             "The affected fruits may fall off subsequently. The seeds produced in severely infected fruits are discoloured and covered with mycelial mat."
                         ]
                     },
@@ -8016,15 +8021,15 @@
                     },
                     "Damage symptoms: ": {
                         "content": [
-                            "Plants from seedling to early flowering stage are susceptible",
-                            "Being a weak parasite the fungus colonises dead or dying tissues before it actively",
-                            "invades living tissues",
-                            "Fruit infection is observed predominantly around calyx",
-                            "The pathogen attacks flowers through the senescing petals and overgrows on flowers resulting in brown or black mass of rotten tissue",
-                            "Flower stalks, buds and leaves will be attacked subsequently",
-                            "On infected tissues stiff silvery mass of whisker-like or hairy strands of the fungal growth develops on which black mass of spores is produced which is the chief diagnostic feature",
-                            "Infected young fruits may abort",
-                            "Individual branches of plants may be attacked which show dieback",
+                            "Plants from seedling to early flowering stage are susceptible ",
+                            "Being a weak parasite the fungus colonises dead or dying tissues before it actively ",
+                            "invades living tissues ",
+                            "Fruit infection is observed predominantly around calyx ",
+                            "The pathogen attacks flowers through the senescing petals and overgrows on flowers resulting in brown or black mass of rotten tissue ",
+                            "Flower stalks, buds and leaves will be attacked subsequently ",
+                            "On infected tissues stiff silvery mass of whisker-like or hairy strands of the fungal growth develops on which black mass of spores is produced which is the chief diagnostic feature ",
+                            "Infected young fruits may abort ",
+                            "Individual branches of plants may be attacked which show dieback ",
                             "Stems of infected plants appear wet and green and the bark peels of in to shreds"
                         ]
                     },
@@ -8036,7 +8041,7 @@
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "Warm, Rainy and wet weather Temp, 28\u00b0C with RH more than 97%",
+                            "Warm, Rainy and wet weather Temp, 28\u00b0C with RH more than 97% ",
                             "Extended periods of high rainfall followed by warm weather."
                         ]
                     }
@@ -8044,13 +8049,13 @@
                 "Mosaic complex": {
                     "Damage symptoms": {
                         "content": [
-                            "Symptoms vary with the virus TMV",
-                            "Raised blisters and mottled areas of light and dark green areas on the foliage",
-                            "Leaves point towards ground",
-                            "Necrotic spots on stem",
-                            "Fruit ripens unevenly and is reduced in size CMV",
-                            "Reduction in leaf size and narrowing of lamina Chlorosis leading to mosaic symptoms",
-                            "Downward curling along with midrib",
+                            "Symptoms vary with the virus TMV ",
+                            "Raised blisters and mottled areas of light and dark green areas on the foliage ",
+                            "Leaves point towards ground ",
+                            "Necrotic spots on stem ",
+                            "Fruit ripens unevenly and is reduced in size CMV ",
+                            "Reduction in leaf size and narrowing of lamina Chlorosis leading to mosaic symptoms ",
+                            "Downward curling along with midrib ",
                             "Fruit may be small and distorted, on volunteer Chilli plants and on infected plant debris."
                         ]
                     },
@@ -8071,7 +8076,7 @@
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "Moist weather and splattering rains",
+                            "Moist weather and splattering rains ",
                             "High humidity or persistent dew"
                         ]
                     }
@@ -8079,15 +8084,15 @@
                 "Powdery mildew": {
                     "Causal organism : ": {
                         "content": [
-                            "Leveillula taurica"
+                            "Leveillula taurica "
                         ]
                     },
                     "Damage symptoms:": {
                         "content": [
                             "White powdery coating appears mostly on the lower surface and occasionally on upper surface",
-                            "Correspondingly on the upper surface yellow patches are seen",
-                            "Severe infection results in the drying and shedding of affected leaves",
-                            "Powdery growth can also be seen on branches and young fruits",
+                            "Correspondingly on the upper surface yellow patches are seen ",
+                            "Severe infection results in the drying and shedding of affected leaves ",
+                            "Powdery growth can also be seen on branches and young fruits ",
                             "Diseased fruits do not grow further and may drop down prematurely"
                         ]
                     },
@@ -8099,7 +8104,7 @@
                     },
                     "Favourable conditions ": {
                         "content": [
-                            "Cool dry weather favours conidial germination",
+                            "Cool dry weather favours conidial germination ",
                             "High RH favours disease development"
                         ]
                     }
@@ -8110,11 +8115,11 @@
                     },
                     "Damage symptoms:": {
                         "content": [
-                            "Circular spots with brown margins and grey centre appear on leaves",
-                            "The spots enlarge and coalesce with others",
-                            "The central portion of the spot becomes white and the leaves turn yellow and defoliate",
-                            "Sometimes central portion of spot drops off",
-                            "Spots also appear on stems and twigs as dark brown, irregular lesions with whitish centers",
+                            "Circular spots with brown margins and grey centre appear on leaves ",
+                            "The spots enlarge and coalesce with others ",
+                            "The central portion of the spot becomes white and the leaves turn yellow and defoliate ",
+                            "Sometimes central portion of spot drops off ",
+                            "Spots also appear on stems and twigs as dark brown, irregular lesions with whitish centers ",
                             "In severe cases die-back of twigs occur"
                         ]
                     },
@@ -8134,13 +8139,13 @@
                     },
                     "Damage symptoms: ": {
                         "content": [
-                            "Leaves, fruits and stems are affected",
-                            "Lesions on leaf begin as circular, water soaked spots",
-                            "Spots become necrotic with brown center with chlorotic borders",
-                            "Enlarged spots may develop straw coloured centres",
-                            "Lesions are slightly raised on lower leaf surface",
-                            "Severely spotted leaves turn yellow and drop",
-                            "Raised brown lesions appear on fruits",
+                            "Leaves, fruits and stems are affected ",
+                            "Lesions on leaf begin as circular, water soaked spots ",
+                            "Spots become necrotic with brown center with chlorotic borders ",
+                            "Enlarged spots may develop straw coloured centres ",
+                            "Lesions are slightly raised on lower leaf surface ",
+                            "Severely spotted leaves turn yellow and drop ",
+                            "Raised brown lesions appear on fruits ",
                             "Narrow elongated lesions or streaks may develop on stems"
                         ]
                     },
@@ -8152,8 +8157,8 @@
                     },
                     "Favourable conditions: ": {
                         "content": [
-                            "Moderate temperature",
-                            "High relative humidity",
+                            "Moderate temperature ",
+                            "High relative humidity ",
                             "Intermittent rains"
                         ]
                     }
@@ -8161,17 +8166,17 @@
                 "Alternaria leaf spot": {
                     "Causal organism :": {
                         "content": [
-                            "Alternaria solani"
+                            "Alternaria solani "
                         ]
                     },
                     "Damage symptoms:": {
                         "content": [
-                            "This is a common disease of chilli occurring on the foliage at any stage of the growth.",
-                            "The fungus attacks the foliage causing characteristic leaf spots and blight. Early blight is first observed on the plants as small, black lesions mostly on the older foliage.",
-                            "Spots enlarge, and by the time they are one-fourth inch in diameter or larger, concentric rings in a bull's eye pattern can be seen in the center of the diseased area.",
-                            "Tissue surrounding the spots may turn yellow. If high temperature and humidity occur at this time, much of the foliage is killed.",
-                            "Lesions on the stems are similar to those on leaves, sometimes girdling the plant if they occur near the soil line.",
-                            "Transplants showing infection by the late blight fungus often die when set in the field. The fungus also infects the fruit, generally through the calyx or stem attachment.",
+                            "This is a common disease of chilli occurring on the foliage at any stage of the growth. ",
+                            "The fungus attacks the foliage causing characteristic leaf spots and blight. Early blight is first observed on the plants as small, black lesions mostly on the older foliage. ",
+                            "Spots enlarge, and by the time they are one-fourth inch in diameter or larger, concentric rings in a bull's eye pattern can be seen in the center of the diseased area. ",
+                            "Tissue surrounding the spots may turn yellow. If high temperature and humidity occur at this time, much of the foliage is killed. ",
+                            "Lesions on the stems are similar to those on leaves, sometimes girdling the plant if they occur near the soil line. ",
+                            "Transplants showing infection by the late blight fungus often die when set in the field. The fungus also infects the fruit, generally through the calyx or stem attachment. ",
                             "Lesions attain considerable size, usually involving nearly the entire fruit; concentric rings are also present on the fruit."
                         ]
                     },
@@ -8195,15 +8200,15 @@
                     },
                     "Damage symptoms: ": {
                         "content": [
-                            "The first symptom of the disease is clearing of the veinlets and chlorosis of the leaves.",
-                            "The younger leaves may die in succession and the entire may wilt and die in a course of few days. Soon the petiole and the leaves droop and wilt.",
-                            "In young plants, symptom consists of clearing of veinlet and dropping of petioles. In field, yellowing of the lower leaves first and affected leaflets wilt and die.",
+                            "The first symptom of the disease is clearing of the veinlets and chlorosis of the leaves. ",
+                            "The younger leaves may die in succession and the entire may wilt and die in a course of few days. Soon the petiole and the leaves droop and wilt. ",
+                            "In young plants, symptom consists of clearing of veinlet and dropping of petioles. In field, yellowing of the lower leaves first and affected leaflets wilt and die. ",
                             "The symptoms continue in subsequent leaves. At later stage, browning of vascular system occurs. Plants become stunted and die."
                         ]
                     },
                     "Survival and spread: ": {
                         "content": [
-                            "Soil and implements"
+                            "Soil and implements "
                         ]
                     },
                     "Favourable conditions: ": {
@@ -8215,26 +8220,26 @@
             }
         },
         "clove": {
-            "image": "clove.jpg",
+            "image": "",
             "diseases": {
                 "Seedling wilt": {
                     "Disease symptom:": {
                         "content": [
-                            "Seedling wilt is observed mainly in nurseries and causes 5 to 40% death of seedlings.",
-                            "Leaves of affected seedlings loose natural luster, tend to droop and ultimately die.",
-                            "The root system and collar region of the seedling show varying degrees of discolouration and decay."
+                            "Seedling wilt is observed mainly in nurseries and causes 5 to 40% death of seedlings. ",
+                            "Leaves of affected seedlings loose natural luster, tend to droop and ultimately die. ",
+                            "  The root system and collar region of the seedling show varying degrees of discolouration and decay."
                         ]
                     },
                     "Survival and spread:": {
                         "content": [
-                            "The fungus is soil-borne and remains in the soil as saprophyte for 2-3 years.",
+                            "The fungus is soil-borne and remains in the soil as saprophyte for 2-3 years. ",
                             "The secondary spread is aided by wind, rain and irrigation water."
                         ]
                     },
                     "Favourable conditions:": {
                         "content": [
-                            "High day temperature (30-35\u02daC).",
-                            "Low humidity (50-60%).",
+                            "High day temperature (30-35\u02daC). ",
+                            "Low humidity (50-60%). ",
                             "Low soil moisture and alkaline soils"
                         ]
                     }
@@ -8242,18 +8247,18 @@
                 "Leaf rot:": {
                     "Disease symptom:": {
                         "content": [
-                            "Necrotic spots of variable size and shapes are noticed on the leaves.",
-                            "Severely affected leaves wither, droop and dry up.",
+                            "Necrotic spots of variable size and shapes are noticed on the leaves. ",
+                            "Severely affected leaves wither, droop and dry up. ",
                             "Twigs are infected as the symptoms extend from the leaves through petioles.",
-                            "The affected branches stand without leaves or only with young leaves at tips.",
-                            "Flower buds are attacked by spreading infection from the twigs.",
+                            "The affected branches stand without leaves or only with young leaves at tips. ",
+                            "Flower buds are attacked by spreading infection from the twigs. ",
                             "Shedding of flower buds occurs during periods of heavy and continuous rainfall."
                         ]
                     },
                     "Favourable conditions:": {
                         "content": [
-                            "The fungus survives on diseased twigs and mummified fruits, either on the tree or on the ground.",
-                            "The fungus spores are air-borne and also spread by rain splash.",
+                            "The fungus survives on diseased twigs and mummified fruits, either on the tree or on the ground. ",
+                            "The fungus spores are air-borne and also spread by rain splash. ",
                             "Moderate temperatures and moist weather during bloom favour twig blight."
                         ]
                     }
@@ -8438,7 +8443,7 @@
                     },
                     "Favourable condition:": {
                         "content": [
-                            "Soil temperature is between 12.5-14\u00b0 C and high moisture"
+                            "Soil temperature is between 12.5-14\u00b0 C and high moisture "
                         ]
                     }
                 },
@@ -8532,7 +8537,7 @@
                             "alt": "Cercospora leaf spot"
                         },
                         "content": [
-                            "Optimum conditions are 25\u00b0 to 35\u00b0 C with night temperatures above 16.1\u00b0 C, and a relative humidity of 90-95%. Infection is greatly reduced or nonexistent at temperatures less than 15\u00b0 C or during periods of leaf wetness less than 11 hours."
+                            "  Optimum conditions are 25\u00b0 to 35\u00b0 C with night temperatures above 16.1\u00b0 C, and a relative humidity of 90-95%. Infection is greatly reduced or nonexistent at temperatures less than 15\u00b0 C or during periods of leaf wetness less than 11 hours."
                         ]
                     }
                 },
@@ -9045,7 +9050,7 @@
                         },
                         "content": [
                             "The disease starts as water soaked spot and later turns as a white spot surrounded by dark brown margins and yellow halo.",
-                            "The lesions enlarge and adjacent lesions coalesce to form necrotic areas."
+                            "The lesions enlarge and adjacent lesions coalesce to form necrotic areas. "
                         ]
                     },
                     "Survival and spread": {
@@ -9152,7 +9157,7 @@
             }
         },
         "large cardamom": {
-            "image": "large cardamom.jpg",
+            "image": "large-cardamom.jpg",
             "diseases": {
                 "Seedling rot": {
                     "Disease symptoms": {
@@ -9228,7 +9233,7 @@
             }
         },
         "small cardamom": {
-            "image": "small cardamom.jpg",
+            "image": "small-cardamom.jpg",
             "diseases": {
                 "\u2018Katte disease\u2019 (mosaic or marble disease)": {
                     "Disease symptoms": {
@@ -9644,7 +9649,7 @@
     },
     "vegetable crops": {
         "braccoli": {
-            "image": "braccoli.jpg",
+            "image": "broccoli.jpg",
             "diseases": {
                 "Damping Off": {
                     "Disease symptoms: ": {
@@ -9707,7 +9712,7 @@
                             "alt": "Alternaria leaf spot"
                         },
                         "content": [
-                            "Spots are small, dark coloured",
+                            "Spots are small, dark coloured ",
                             "They enlarge, soon become circular with a 1mm in diameter",
                             "Under humid conditions groups of conidiophores will be formed in the spot",
                             "Spots develop concentric rings",
@@ -9829,7 +9834,7 @@
         },
         "image": "vegetables.jpg",
         "cabbage and cauliflower": {
-            "image": "cabbage and cauliflower.jpg",
+            "image": "",
             "diseases": {
                 "Damping Off": {
                     "Symptoms: ": {
@@ -10030,7 +10035,7 @@
             }
         },
         "coriander": {
-            "image": "coriander.jpg",
+            "image": "",
             "diseases": {
                 "Powdery mildew": {
                     "Disease symptoms:": {
@@ -10168,7 +10173,7 @@
             }
         },
         "curryleaf": {
-            "image": "curryleaf.jpg",
+            "image": "",
             "diseases": {
                 "Leaf spot": {
                     "Primary infection:": {
@@ -10330,7 +10335,7 @@
             }
         },
         "drumstick": {
-            "image": "drumstick.jpg",
+            "image": "",
             "diseases": {
                 "Damping off": {
                     "Disease symptoms:": {
@@ -10340,59 +10345,59 @@
                         },
                         "content": [
                             "Disease of nursery beds and young seedlings resulting in reduced seed\u00a0germination and poor stand of seedlings. Very high seedling mortality of 25-75%.",
-                            "Pre-emergence damping off: Seedlings disintegrate before they come out of soil surface leading to poor seed germination",
+                            " Pre-emergence damping off: Seedlings disintegrate before they come out of soil surface leading to poor seed germination",
                             "damping off  Post-emergence  damping off is characterised by development of disease after seedlings have emerged out of soil but before the stems are lignified",
-                            "Water soaked lesion formation at collar region",
-                            "Infected areas turn brown and rot",
-                            "Plants shrivel and collapse as a result of softening of tissues",
+                            "  Water soaked lesion formation at collar region",
+                            " Infected areas turn brown and rot",
+                            " Plants shrivel and collapse as a result of softening of tissues",
                             "wire stem  In Rhizoctonia solani attack infected stems become hard, thin ( symptoms) and infected seedlings topple Disease appear in patches both in nursery and field beds."
                         ]
                     },
                     "Survival and spread:": {
                         "content": [
-                            "Primary:  Oospores in soil in case of Pythium Sclerotia in soil in case of Rhizoctonia",
-                            "Secondary:  Zoospores through irrigation water in case of Pythium  Mycelial growth in soil and sclerotia through irrigation water in case of Rhizoctonia"
+                            " Primary:  Oospores in soil in case of Pythium Sclerotia in soil in case of Rhizoctonia",
+                            " Secondary:  Zoospores through irrigation water in case of Pythium  Mycelial growth in soil and sclerotia through irrigation water in case of Rhizoctonia "
                         ]
                     },
                     "Favourable conditions: ": {
                         "content": [
                             "For Pythium",
-                            "Heavy rainfall",
-                            "Excessive and frequent irrigation",
-                            "Poorly drained soil and close spacing",
-                            "High soil moisture with temp around 25-30\u00b0C",
+                            " Heavy rainfall ",
+                            " Excessive and frequent irrigation ",
+                            " Poorly drained soil and close spacing ",
+                            " High soil moisture with temp around 25-30\u00b0C ",
                             "For Rhizoctonia",
-                            "High soil moisture with temp around 30\u201335\u00b0C"
+                            " High soil moisture with temp around 30\u201335\u00b0C"
                         ]
                     }
                 },
                 "Twig canker": {
                     " Disease symptoms:": {
                         "content": [
-                            "The first symptom of the disease is clearing of the veinlets and chlorosis of the leaves.",
-                            "The younger leaves may die in succession and the entire may wilt and die in a course of few days.",
-                            "Soon the petiole and the leaves droop and wilt.",
-                            "In young plants, symptom consists of clearing of veinlet and dropping of petioles.",
-                            "The symptoms continue in subsequent leaves.",
-                            "At later stage, browning of vascular system occurs.",
-                            "Plants become stunted and die."
+                            " The first symptom of the disease is clearing of the veinlets and chlorosis of the leaves. ",
+                            " The younger leaves may die in succession and the entire may wilt and die in a course of few days.",
+                            " Soon the petiole and the leaves droop and wilt.",
+                            " In young plants, symptom consists of clearing of veinlet and dropping of petioles. ",
+                            " The symptoms continue in subsequent leaves. ",
+                            " At later stage, browning of vascular system occurs. ",
+                            " Plants become stunted and die. "
                         ]
                     },
                     " Survival and spread: ": {
                         "content": [
-                            "Soil and implements"
+                            " Soil and implements "
                         ]
                     },
                     " Favourable conditions:": {
                         "content": [
-                            "Relatively high soil moisture and soil temperature"
+                            " Relatively high soil moisture and soil temperature"
                         ]
                     }
                 }
             }
         },
         "lablab": {
-            "image": "lablab.jpg",
+            "image": "",
             "diseases": {
                 "Anthracnose": {
                     "Disease symptoms:": {
@@ -10566,7 +10571,7 @@
             }
         },
         "mint": {
-            "image": "mint.jpg",
+            "image": "",
             "diseases": {
                 "Mint rust": {
                     "Disease symptoms:": {
@@ -10755,7 +10760,7 @@
             }
         },
         "moth bean": {
-            "image": "moth bean.jpg",
+            "image": "",
             "diseases": {
                 "Fusarium wilt": {
                     "Disease symptoms: ": {
@@ -10789,7 +10794,7 @@
                             "alt": "Charcoal rot or ashy stem blight"
                         },
                         "content": [
-                            "The stem portion near the ground level shows dark brown lesions and bark at the collar region shows shredding.",
+                            "The stem portion near the ground level shows dark brown lesions and bark at the collar region shows shredding. ",
                             "The disease symptom starts as yellowing of lower leaves, followed by drooping and defoliation.",
                             "The sudden death of plants is seen in patches. In the grown-up plants, the stem portion near the soil level shows large number of black pycnidia.",
                             "The stem portion can be easily pulled out leaving the rotten root portion in the soil.",
@@ -10879,7 +10884,7 @@
             }
         },
         "onion": {
-            "image": "onion.jpg",
+            "image": "",
             "diseases": {
                 "Damping off": {
                     "Disease symptoms": {
@@ -11202,7 +11207,7 @@
             }
         },
         "potato": {
-            "image": "potato.jpg",
+            "image": "",
             "diseases": {
                 "Bacterial wilt": {
                     "Disease symptoms:": {
@@ -11470,7 +11475,7 @@
             }
         },
         "spinach": {
-            "image": "spinach.jpg",
+            "image": "",
             "diseases": {
                 "Downy mildew": {
                     "Disease symptoms": {
@@ -11601,7 +11606,7 @@
             }
         },
         "tapioca": {
-            "image": "tapioca.jpg",
+            "image": "",
             "diseases": {
                 "Cassava mosaic disease": {
                     "Disease symptoms:": {
@@ -11681,7 +11686,7 @@
             }
         },
         "tomato": {
-            "image": "tomato.jpg",
+            "image": "",
             "diseases": {
                 "Damping Off": {
                     "Damage symptoms": {

@@ -1,14 +1,13 @@
 import "./style.css"
-import defaultImage from "../images/all-categories-2.jpg"
+import defaultImage from "../images/field.jpg"
 
 function CategoryCard(props){
-    console.log("CategoryCard",props.name,props.selected)
+    
     const backgroundStyle={
         backgroundImage :`url(${props.image?require(`../images/${props.image}`):defaultImage})`
     }
     
     function handleClick(){
-        console.log("clicked",typeof props.handleClick)
         props.handleClick(data=>{
             return {
                 ...data,
