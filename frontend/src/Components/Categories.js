@@ -2,7 +2,6 @@ import "./style.css"
 import CategoryCard from "./CategoryCard"
 
 function Categories(props){
-    console.log(props)
     let cardsArray=Object.keys(props.data).map(key=>{
         return (
             <CategoryCard
@@ -24,8 +23,6 @@ function Categories(props){
                 handleClick={props.handleSelection}
             />
     ))
-
-    
 
     return (
         <div id="categories-container">

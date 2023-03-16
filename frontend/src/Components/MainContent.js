@@ -32,7 +32,7 @@ function MainContent(){
       },[])
     
     return (
-        <section>
+        <section id="interactiveContent">
             <Categories
             data={reducedDataObject}
             selected={userSelection.selectedCategory}

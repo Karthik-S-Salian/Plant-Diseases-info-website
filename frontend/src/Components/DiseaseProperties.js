@@ -1,7 +1,6 @@
 import "./style.css"
 
 function DiseaseProperties(props){
-    console.log(props.details["img"])
     const content = props.details["content"].map((ele,index)=>{
         return (
             <li key={index}>{ele}</li>

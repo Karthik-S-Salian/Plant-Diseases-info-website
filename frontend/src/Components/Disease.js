@@ -16,6 +16,7 @@ function Disease(props){
         <section id={`disease${props.index}`}>
             <h3>{props.name}</h3>
             {properties}
+            <hr />
         </section>
     );
 }
