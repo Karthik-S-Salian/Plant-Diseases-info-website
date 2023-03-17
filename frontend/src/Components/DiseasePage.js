@@ -1,6 +1,6 @@
 import "./style.css"
 import Disease from "./Disease";
-import { useSearchParams} from "react-router-dom";
+import { useSearchParams,Link} from "react-router-dom";
 import data from "../data/united"
 import { useEffect } from "react";
 
@@ -46,6 +46,10 @@ function DiseasePage(){
             </section>
             
             {diseaseArray}
+                
+            <Link to="/">
+                <section id="backButton">BACK TO HOME</section>
+            </Link>  
 
         </div>
     );

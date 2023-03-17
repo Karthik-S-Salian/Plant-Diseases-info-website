@@ -2,8 +2,16 @@ import "./style.css"
 import Header from "./Header"
 import MainContent from "./MainContent"
 import Footer from "./Footer"
+import { useLocation} from "react-router-dom";
+import { useEffect } from "react";
 
 function Home(){
+    const location = useLocation();
+
+    useEffect(() => {
+        window.scrollTo(0, 0);
+      }, [location]);
+
     return (
         <>
             <Header/>
