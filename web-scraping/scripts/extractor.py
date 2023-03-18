@@ -3,6 +3,7 @@ import re
 from bs4.formatter import HTMLFormatter
 import pathlib
 import json
+import os
 
 
 def clone_soup(el):
@@ -19,6 +20,22 @@ def clone_soup(el):
         copy.append(clone_soup(child))
     return copy
 
+
+def complete_htmlify(soup,plant_name):
+    #wraps soup with body and html tags and adds head tags
+    soup.div.wrap(soup.new_tag("body"))
+    soup.body.wrap(soup.new_tag("html"))
+    head_soup=BeautifulSoup(f"""
+        <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <meta name="description" content="details about diseases in {plant_name} plant">
+            <title>{plant_name.upper()} Diseases</title>
+        </head>
+        """,parser="html.parser")
+    head_soup.html.unwrap()
+    soup.html.insert(0,head_soup)
+    return soup
 
 def CleanSoup(soup):
     content=clone_soup(soup)
@@ -229,8 +246,18 @@ def beautifySoup(soup):
 
 
 def main():
+    DIR_PATH = pathlib.Path(__file__).resolve().parent.parent
+    JSON_DIR = DIR_PATH/"jsonified-data"
+    FILTERED_HTML_FILES_DIR =DIR_PATH/"filtered-html-files"
+    COMPLETE_HTML_FILES_DIR = DIR_PATH/"complete-html-files"
+
+    for dir in [JSON_DIR,FILTERED_HTML_FILES_DIR,COMPLETE_HTML_FILES_DIR]:
+        if not dir.exists():
+            dir.mkdir()
+
     united_data=dict()
-    html_folder_path=pathlib.Path(r"D:\Users\Dell\Documents\Web Projects\react\Plant Diseases\web-scraping\initial-extract")
+    
+    html_folder_path=DIR_PATH/"initial-extract"
     for file in html_folder_path.glob("*/*.html"):
         with open(str(file),"r",encoding="UTF-8") as fh:
 
@@ -241,8 +268,9 @@ def main():
 
             formated_soup=beautifySoup(soup)
 
-            write_html(formated_soup,f'D:/Users/Dell/Documents/Web Projects/react\Plant Diseases/web-scraping/filtered-html-files\{file_name}')
+            write_html(formated_soup,f'{str(FILTERED_HTML_FILES_DIR)}\{file_name}')
             jsonifed_data=jsonify_data_in_soup(formated_soup)
+            write_html(complete_htmlify(formated_soup, file_name),f'{str(COMPLETE_HTML_FILES_DIR)}\{file_name}')
 
             united_data[file.parent.name]=united_data.get(file.parent.name,dict())
             d=dict()
@@ -251,11 +279,11 @@ def main():
             united_data[file.parent.name][file_name]=d
             united_data[file.parent.name]["image"]=""
 
-            write_json(jsonifed_data, 'D:/Users/Dell/Documents/Web Projects/react\Plant Diseases/web-scraping/jsonified-data', file_name)
+            write_json(jsonifed_data, str(JSON_DIR), file_name)
 
             print(f"{file_name}  Completed")
 
-    write_json(united_data, 'D:/Users/Dell/Documents/Web Projects/react\Plant Diseases/web-scraping/jsonified-data', "united")
+    write_json(united_data, str(JSON_DIR), "united")
 
     print("united completed")
 
