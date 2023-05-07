@@ -6,7 +6,7 @@ import { useEffect } from "react";
 
 
 function DiseasePage(){
-    const [searchParams, setSearchParams] = useSearchParams();
+    const [searchParams] = useSearchParams();
     const category=searchParams.get("category")
     const plantName=searchParams.get("plant")
 

@@ -1059,6 +1059,18 @@
                         "content": [
                             "Primary transmission through soil and diseased setts, while the secondary transmission through air, rain splash and soil."
                         ]
+                    },
+                    "Preventive Measures": {
+                        "content": [
+                            "The best way to control red rot is to select setts for planting from healthy plants in a disease- free area.",
+                            "The red rot affected field must be rotated with rice for one season and other crops for two seasons.",
+                            "Growing of recommended resistant and moderately resistant varieties viz., Co 86032,  Co 86249, CoSi 95071, CoG 93076, CoC 22, CoSi 6 and CoG 5",
+                            "Removal of the affected clumps at an early stage and soil drenching with  Carbendazim 50 WP (1 gm in 1 litre of water)",
+                            "The cut ends and entire setts should be dipped in a fungicide solution, such as one per cent Bordeaux mixture.",
+                            "If the disease is noticed in the field, the leaves and canes should be collected and destroyed by burning.",
+                            "Adopt sett treatment with Carbendazim before planting (Carbendazim 50 WP (0.5 gm in 1 litre of water) or Carbendazim 25 DS (1gm in 1 litre of water) along with 2.5 kg of Urea in 250 litre of water",
+                            "Use fungitoxic chemicals like Bavistan, Benomyl, Topsin and Aretan at 0.1 per cent for 18 min. at 52ºC for dipping setts which gave almost complete elimination of rot infection."
+                        ]
                     }
                 },
                 "Wilt": {
@@ -1151,6 +1163,14 @@
                     "Favourable conditions": {
                         "content": [
                             "Periods of stress such as drought, waterlogging, and low temperature are reported to increase disease severity."
+                        ]
+                    },
+                    "Prevention Mreasures": {
+                        "content": [
+                            "Control of leaf scald involves a combination of deploying resistant varieties, disease-free or approved seed schemes and hygiene. Some level of varietal resistance is required to control the disease.",
+                            "Disease-free seed is produced for distribution to farmers by repeated cold-soak long hot-water treatment (40 hour soak in water at ambient temperature followed by 50o C for 3 hours) of nucleus or mother plot cane. If leaf scald is common in an area, the mother plot and approved seed plot may have to be located in a low risk area.",
+                            "Resistant varieties: All clones in the SRA CSIRO selection program are screened for resistance. Crosses between susceptible parent clones are not made to reduce the numbers of susceptible clones coming through the program.",
+                            "Clones are screened for resistance by cutting the shoot of 6-month-old cane above the growing point and painting it with juice from a diseased stalk. The plants are grown through to maturity and rated according to the number showing symptoms and the severity of symptoms. Some varieties are extremely resistant and rarely show any symptoms."
                         ]
                     }
                 },
@@ -1268,6 +1288,18 @@
                     "Favourable conditions": {
                         "content": [
                             "Dry weather conditions during October to until the end of harvest in March."
+                        ]
+                    },
+                    "Prevention Measures": {
+                        "content": [
+                            "Selection of disease free setts for planting",
+                            "Field should be maintain with proper hygiene",
+                            "Application proper nutritional management and use resistant varieties.",
+                            "To avoid this disease first plant the setts in nursery and then transplant to main field",
+                            "Selection of tissue culture plant especially meristem culture plant is used for planting in field",
+                            "Secondary transmission of the disease by insect vectors can be controlled by application of Malathion(0.1%) or Dimecron(0.2%).",
+                            "Soil application of carbofuran @2.0 kg./ha or phorate @ 6.0 kg./ha",
+                            "Two sprayings of malathion @ 1.5 kg /ha at monthly intervals during September and October after detrashing of dry leaves."
                         ]
                     }
                 }
